@@ -1,0 +1,128 @@
+Added Component: Designator=C6_DI1(0603AC)
+Added Component: Designator=C6_DI2(0603AC)
+Added Component: Designator=C6_DI3(0603AC)
+Added Component: Designator=C6_DI4(0603AC)
+Added Component: Designator=C6_DI5(0603AC)
+Added Component: Designator=C6_DI6(0603AC)
+Added Component: Designator=C6_DI7(0603AC)
+Added Component: Designator=C6_DI8(0603AC)
+Added Component: Designator=C6_DI9(0603AC)
+Added Component: Designator=C6_DI10(0603AC)
+Added Component: Designator=C6_DI11(0603AC)
+Added Component: Designator=C6_DI12(0603AC)
+Added Component: Designator=C6_DI13(0603AC)
+Added Component: Designator=C6_DI14(0603AC)
+Added Component: Designator=C6_DI15(0603AC)
+Added Component: Designator=C6_DI16(0603AC)
+Added Component: Designator=C6_DI17(0603AC)
+Added Component: Designator=C6_DI18(0603AC)
+Added Component: Designator=C6_DI19(0603AC)
+Added Component: Designator=C6_DI20(0603AC)
+Added Component: Designator=C6_DI21(0603AC)
+Added Component: Designator=C6_DI22(0603AC)
+Added Component: Designator=C6_DI23(0603AC)
+Added Component: Designator=C6_DI24(0603AC)
+Added Component: Designator=C6_DI25(0603AC)
+Added Component: Designator=C6_DI26(0603AC)
+Added Component: Designator=C6_DI27(0603AC)
+Added Component: Designator=C6_DI28(0603AC)
+Added Component: Designator=C6_DI29(0603AC)
+Added Component: Designator=C6_DI30(0603AC)
+Added Component: Designator=C6_DI31(0603AC)
+Added Component: Designator=C6_DI32(0603AC)
+Added Pin To Net: NetName=CL1 Pin=C6_DI1-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI1-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI2-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI2-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI3-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI3-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI4-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI4-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI5-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI5-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI6-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI6-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI7-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI7-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI8-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI8-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI9-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI9-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI10-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI10-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI11-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI11-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI12-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI12-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI13-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI13-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI14-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI14-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI15-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI15-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI16-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI16-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI17-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI17-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI18-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI18-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI19-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI19-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI20-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI20-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI21-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI21-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI22-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI22-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI23-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI23-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI24-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI24-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI25-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI25-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI26-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI26-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI27-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI27-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI28-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI28-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI29-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI29-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI30-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI30-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI31-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI31-2
+Added Pin To Net: NetName=CL1 Pin=C6_DI32-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI32-2
+Added Member To Class: ClassName=DI1 Member=Component C6_DI1 (C6) Cap
+Added Member To Class: ClassName=DI2 Member=Component C6_DI2 (C6) Cap
+Added Member To Class: ClassName=DI3 Member=Component C6_DI3 (C6) Cap
+Added Member To Class: ClassName=DI4 Member=Component C6_DI4 (C6) Cap
+Added Member To Class: ClassName=DI5 Member=Component C6_DI5 (C6) Cap
+Added Member To Class: ClassName=DI6 Member=Component C6_DI6 (C6) Cap
+Added Member To Class: ClassName=DI7 Member=Component C6_DI7 (C6) Cap
+Added Member To Class: ClassName=DI8 Member=Component C6_DI8 (C6) Cap
+Added Member To Class: ClassName=DI9 Member=Component C6_DI9 (C6) Cap
+Added Member To Class: ClassName=DI10 Member=Component C6_DI10 (C6) Cap
+Added Member To Class: ClassName=DI11 Member=Component C6_DI11 (C6) Cap
+Added Member To Class: ClassName=DI12 Member=Component C6_DI12 (C6) Cap
+Added Member To Class: ClassName=DI13 Member=Component C6_DI13 (C6) Cap
+Added Member To Class: ClassName=DI14 Member=Component C6_DI14 (C6) Cap
+Added Member To Class: ClassName=DI15 Member=Component C6_DI15 (C6) Cap
+Added Member To Class: ClassName=DI16 Member=Component C6_DI16 (C6) Cap
+Added Member To Class: ClassName=DI17 Member=Component C6_DI17 (C6) Cap
+Added Member To Class: ClassName=DI18 Member=Component C6_DI18 (C6) Cap
+Added Member To Class: ClassName=DI19 Member=Component C6_DI19 (C6) Cap
+Added Member To Class: ClassName=DI20 Member=Component C6_DI20 (C6) Cap
+Added Member To Class: ClassName=DI21 Member=Component C6_DI21 (C6) Cap
+Added Member To Class: ClassName=DI22 Member=Component C6_DI22 (C6) Cap
+Added Member To Class: ClassName=DI23 Member=Component C6_DI23 (C6) Cap
+Added Member To Class: ClassName=DI24 Member=Component C6_DI24 (C6) Cap
+Added Member To Class: ClassName=DI25 Member=Component C6_DI25 (C6) Cap
+Added Member To Class: ClassName=DI26 Member=Component C6_DI26 (C6) Cap
+Added Member To Class: ClassName=DI27 Member=Component C6_DI27 (C6) Cap
+Added Member To Class: ClassName=DI28 Member=Component C6_DI28 (C6) Cap
+Added Member To Class: ClassName=DI29 Member=Component C6_DI29 (C6) Cap
+Added Member To Class: ClassName=DI30 Member=Component C6_DI30 (C6) Cap
+Added Member To Class: ClassName=DI31 Member=Component C6_DI31 (C6) Cap
+Added Member To Class: ClassName=DI32 Member=Component C6_DI32 (C6) Cap

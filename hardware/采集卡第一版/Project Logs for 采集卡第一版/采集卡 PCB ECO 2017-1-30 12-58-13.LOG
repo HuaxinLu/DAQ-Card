@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AVCC_1 Pin=R22-2
+Removed Member From Class: ClassName=U_电池电压检测 Member=R22
+Change Component Footprint: Designator=C32 Old Footprint=1812 New Footprint=0805C
+Added Pin To Net: NetName=AVCC_1 Pin=C29-1
+Added Pin To Net: NetName=AVCC_1 Pin=C30-2
+Added Pin To Net: NetName=AVCC_1 Pin=U11-2
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

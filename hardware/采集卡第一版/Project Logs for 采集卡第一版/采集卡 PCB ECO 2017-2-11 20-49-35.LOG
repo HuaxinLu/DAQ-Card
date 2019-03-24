@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND_2 Pin=C26-2
+Removed Pin From Net: NetName=GND_2 Pin=C165-2
+Removed Pin From Net: NetName=GND_2 Pin=U22-9
+Removed Pin From Net: NetName=GND_2 Pin=U28-11
+Added Component: Designator=C3(0805C)
+Added Component: Designator=C151(0805C)
+Added Component: Designator=C155(0805C)
+Added Pin To Net: NetName=GND_2 Pin=C3-1
+Added Pin To Net: NetName=+6V_2 Pin=C3-2
+Added Pin To Net: NetName=DGND_2 Pin=C26-2
+Added Pin To Net: NetName=DGND_2 Pin=C151-1
+Added Pin To Net: NetName=+6V_2 Pin=C151-2
+Added Pin To Net: NetName=+6V_2 Pin=C155-1
+Added Pin To Net: NetName=GND_2 Pin=C155-2
+Added Pin To Net: NetName=DGND_2 Pin=C165-2
+Added Pin To Net: NetName=DGND_2 Pin=U22-9
+Added Pin To Net: NetName=DGND_2 Pin=U28-11
+Added Member To Class: ClassName=U_电源 Member=Component C3 1uF
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C151 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C155 1uF

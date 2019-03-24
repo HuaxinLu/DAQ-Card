@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=AGND_1 Pin=C157-2
+Removed Pin From Net: NetName=AGND_1 Pin=C159-1
+Removed Pin From Net: NetName=GND_1 Pin=DB1-38
+Removed Pin From Net: NetName=AGND_1 Pin=DB1-39
+Removed Pin From Net: NetName=AGND_1 Pin=R120-2
+Added Pin To Net: NetName=V_FC Pin=DB1-1
+Added Pin To Net: NetName=GND_FC Pin=DB1-2
+Added Pin To Net: NetName=V_FC Pin=DB1-20
+Added Pin To Net: NetName=GND_FC Pin=DB1-21
+Added Pin To Net: NetName=GND_FC1 Pin=C157-2
+Added Pin To Net: NetName=GND_FC1 Pin=C159-1
+Added Pin To Net: NetName=GND_FC1 Pin=R120-2
+Added Net: Name=GND_FC1

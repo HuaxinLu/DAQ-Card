@@ -1,0 +1,12 @@
+Added Component: Designator=U20(LFCSP)
+Added Component: Designator=U21(LFCSP)
+Added Component: Designator=U22(LFCSP)
+Added Component: Designator=U23(LFCSP)
+Added Member To Class: ClassName=采集卡 Member=Component U20 AD8426
+Added Member To Class: ClassName=采集卡 Member=Component U21 AD8426
+Added Member To Class: ClassName=采集卡 Member=Component U22 AD8426
+Added Member To Class: ClassName=采集卡 Member=Component U23 AD8426
+Added Room: Name=U_数字部分
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

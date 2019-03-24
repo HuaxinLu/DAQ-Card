@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetD2_1 Pin=D4-1
+Removed Pin From Net: NetName=NetD2_1 Pin=L1-1
+Removed Pin From Net: NetName=6V_0 Pin=U16-1
+Removed Pin From Net: NetName=GND_0 Pin=U16-2
+Removed Pin From Net: NetName=GND_0 Pin=U16-2
+Removed Pin From Net: NetName=5V_0 Pin=U16-3
+Change Component DesignItemId : Designator=D2 Old DesignItemId=Diode 18TQ045 New DesignItemId=Diode 11DQ03
+Change Component DesignItemId : Designator=D3 Old DesignItemId=Diode 18TQ045 New DesignItemId=Diode 11DQ03
+Change Component DesignItemId : Designator=D4 Old DesignItemId=Diode 18TQ045 New DesignItemId=Diode 11DQ03
+Change Component DesignItemId : Designator=D5 Old DesignItemId=Diode 18TQ045 New DesignItemId=Diode 11DQ03
+Change Component DesignItemId : Designator=D6 Old DesignItemId=Diode 18TQ045 New DesignItemId=Diode 11DQ03
+Change Component Comment : Designator=D2 Old Comment=Diode 18TQ045 New Comment=Diode 11DQ03
+Change Component Comment : Designator=D3 Old Comment=Diode 18TQ045 New Comment=Diode 11DQ03
+Change Component Comment : Designator=D4 Old Comment=Diode 18TQ045 New Comment=Diode 11DQ03
+Change Component Comment : Designator=D5 Old Comment=Diode 18TQ045 New Comment=Diode 11DQ03
+Change Component Comment : Designator=D6 Old Comment=Diode 18TQ045 New Comment=Diode 11DQ03
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R30
+Change Component Designator: OldDesignator=R33 NewDesignator=R31
+Change Component Designator: OldDesignator=R34 NewDesignator=R32
+Added Component: Designator=U5(TSSOP16)
+Added Component: Designator=U8(TSSOP16)
+Added Pin To Net: NetName=NetD2_1 Pin=D3-2
+Added Pin To Net: NetName=NetC42_2 Pin=D6-2
+Added Pin To Net: NetName=NetD2_1 Pin=T1-6
+Added Pin To Net: NetName=GND_0 Pin=U16-1
+Added Pin To Net: NetName=5V_0 Pin=U16-2
+Added Pin To Net: NetName=5V_0 Pin=U16-2
+Added Pin To Net: NetName=6V_0 Pin=U16-3
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR30_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D4-2
+Added Pin To Net: NetName=NetD2_2 Pin=L1-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=D5-1
+Added Pin To Net: NetName=NetD3_1 Pin=L2-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Pin To Net: NetName=NetD4_1 Pin=T1-4
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=电池电压检测 Member=Component U5 ADI4-1SW
+Added Member To Class: ClassName=电池电压检测 Member=Component U8 ADI4-1SW
+Added Room: Name=U_电源
+Added Room: Name=电池电压检测

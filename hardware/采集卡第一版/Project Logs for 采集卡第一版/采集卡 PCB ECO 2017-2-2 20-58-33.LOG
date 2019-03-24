@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=OA Pin=R125-2
+Removed Pin From Net: NetName=OB Pin=R126-2
+Removed Pin From Net: NetName=OC Pin=R127-2
+Removed Pin From Net: NetName=OD Pin=R128-2
+Removed Member From Class: ClassName=U_电源 Member=R125
+Removed Member From Class: ClassName=U_电源 Member=R126
+Removed Member From Class: ClassName=U_电源 Member=R127
+Removed Member From Class: ClassName=U_电源 Member=R128
+Added Component: Designator=A?(RCA03-4D)
+Added Pin To Net: NetName=OA Pin=A?-1
+Added Pin To Net: NetName=OB Pin=A?-3
+Added Pin To Net: NetName=OC Pin=A?-5
+Added Pin To Net: NetName=OD Pin=A?-7
+Added Member To Class: ClassName=U_电源 Member=Component A? 排阻 51欧姆

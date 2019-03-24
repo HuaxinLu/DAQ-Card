@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=A? NewDesignator=A20
+Added Component: Designator=C2(0805C)
+Added Pin To Net: NetName=DVCC_1 Pin=C2-1
+Added Pin To Net: NetName=DGND_1 Pin=C2-2
+Added Pin To Net: NetName=DGND_1 Pin=U10-9
+Added Pin To Net: NetName=DVCC_1 Pin=U10-16
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C2 Cap

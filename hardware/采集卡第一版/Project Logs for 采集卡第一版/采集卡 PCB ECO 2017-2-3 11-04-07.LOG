@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+6V_2 Pin=R180-1
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R180
+Added Pin To Net: NetName=+6V_2 Pin=C156-1

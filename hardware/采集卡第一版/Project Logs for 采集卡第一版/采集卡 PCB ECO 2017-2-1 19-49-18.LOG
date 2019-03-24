@@ -1,0 +1,97 @@
+Added Component: Designator=D21(LL34)
+Added Component: Designator=D22(LL34)
+Added Component: Designator=D23(LL34)
+Added Component: Designator=D24(LL34)
+Added Component: Designator=D25(LL34)
+Added Component: Designator=Q1(SOT-23B_L)
+Added Component: Designator=Q2(SOT-23B_L)
+Added Component: Designator=Q3(SOT-23B_L)
+Added Component: Designator=Q4(SOT-23B_L)
+Added Component: Designator=Q5(SOT-23B_L)
+Added Component: Designator=R118(HFD23继电器)
+Added Component: Designator=R119(0805R)
+Added Component: Designator=R120(HFD23继电器)
+Added Component: Designator=R121(0805R)
+Added Component: Designator=R122(HFD23继电器)
+Added Component: Designator=R123(0805R)
+Added Component: Designator=R124(HFD23继电器)
+Added Component: Designator=R125(0805R)
+Added Component: Designator=R126(HFD23继电器)
+Added Component: Designator=R127(0805R)
+Added Component: Designator=U?(LQFP48)
+Added Pin To Net: NetName=5V Pin=D21-2
+Added Pin To Net: NetName=5V Pin=D22-2
+Added Pin To Net: NetName=5V Pin=D23-2
+Added Pin To Net: NetName=5V Pin=D24-2
+Added Pin To Net: NetName=5V Pin=D25-2
+Added Pin To Net: NetName=DGND Pin=Q1-3
+Added Pin To Net: NetName=DGND Pin=Q2-3
+Added Pin To Net: NetName=DGND Pin=Q3-3
+Added Pin To Net: NetName=DGND Pin=Q4-3
+Added Pin To Net: NetName=DGND Pin=Q5-3
+Added Pin To Net: NetName=5V Pin=R118-5
+Added Pin To Net: NetName=5V Pin=R120-5
+Added Pin To Net: NetName=5V Pin=R122-5
+Added Pin To Net: NetName=5V Pin=R124-5
+Added Pin To Net: NetName=5V Pin=R126-5
+Added Pin To Net: NetName=NetD21_1 Pin=D21-1
+Added Pin To Net: NetName=NetD21_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD21_1 Pin=R118-2
+Added Net: Name=NetD21_1
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=NetD22_1 Pin=Q2-1
+Added Pin To Net: NetName=NetD22_1 Pin=R120-2
+Added Net: Name=NetD22_1
+Added Pin To Net: NetName=NetD23_1 Pin=D23-1
+Added Pin To Net: NetName=NetD23_1 Pin=Q3-1
+Added Pin To Net: NetName=NetD23_1 Pin=R122-2
+Added Net: Name=NetD23_1
+Added Pin To Net: NetName=NetD24_1 Pin=D24-1
+Added Pin To Net: NetName=NetD24_1 Pin=Q4-1
+Added Pin To Net: NetName=NetD24_1 Pin=R124-2
+Added Net: Name=NetD24_1
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=NetD25_1 Pin=Q5-1
+Added Pin To Net: NetName=NetD25_1 Pin=R126-2
+Added Net: Name=NetD25_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R119-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R121-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R123-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R125-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R127-2
+Added Net: Name=NetQ5_2
+Added Member To Class: ClassName=U_数字部分 Member=Component D21 Diode
+Added Member To Class: ClassName=U_数字部分 Member=Component D22 Diode
+Added Member To Class: ClassName=U_数字部分 Member=Component D23 Diode
+Added Member To Class: ClassName=U_数字部分 Member=Component D24 Diode
+Added Member To Class: ClassName=U_数字部分 Member=Component D25 Diode
+Added Member To Class: ClassName=U_数字部分 Member=Component Q1 QNPN
+Added Member To Class: ClassName=U_数字部分 Member=Component Q2 QNPN
+Added Member To Class: ClassName=U_数字部分 Member=Component Q3 QNPN
+Added Member To Class: ClassName=U_数字部分 Member=Component Q4 QNPN
+Added Member To Class: ClassName=U_数字部分 Member=Component Q5 QNPN
+Added Member To Class: ClassName=U_数字部分 Member=Component R118 继电器
+Added Member To Class: ClassName=U_数字部分 Member=Component R119 1K
+Added Member To Class: ClassName=U_数字部分 Member=Component R120 继电器
+Added Member To Class: ClassName=U_数字部分 Member=Component R121 1K
+Added Member To Class: ClassName=U_数字部分 Member=Component R122 继电器
+Added Member To Class: ClassName=U_数字部分 Member=Component R123 1K
+Added Member To Class: ClassName=U_数字部分 Member=Component R124 继电器
+Added Member To Class: ClassName=U_数字部分 Member=Component R125 1K
+Added Member To Class: ClassName=U_数字部分 Member=Component R126 继电器
+Added Member To Class: ClassName=U_数字部分 Member=Component R127 1K
+Added Member To Class: ClassName=U_数字部分 Member=Component U? STM32F103C8T6
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

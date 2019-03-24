@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=REFIN_1 Pin=C153-2
+Removed Pin From Net: NetName=REFIN_1 Pin=R117-1
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R117
+Added Component: Designator=C137(0805C)
+Added Pin To Net: NetName=AGND_2 Pin=C137-1
+Added Pin To Net: NetName=REFIN_1 Pin=C137-2
+Added Pin To Net: NetName=AVCC_2 Pin=C153-2
+Added Pin To Net: NetName=REFIN_1 Pin=U29-6
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C137 Cap

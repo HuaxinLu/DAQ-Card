@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C54 Old Footprint=1812 New Footprint=0805C
+Change Component Footprint: Designator=C55 Old Footprint=1812 New Footprint=0805C
+Added Component: Designator=C58(0805C)
+Added Component: Designator=C59(0805C)
+Added Component: Designator=C60(0805C)
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=5V_0 Pin=C58-2
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=5V_0 Pin=C59-2
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=5V_0 Pin=C60-2
+Added Member To Class: ClassName=U_电源 Member=Component C58 Cap
+Added Member To Class: ClassName=U_电源 Member=Component C59 Cap
+Added Member To Class: ClassName=U_电源 Member=Component C60 Cap

@@ -1,0 +1,58 @@
+Added Component: Designator=C184(0805C)
+Added Component: Designator=C185(0805C)
+Added Component: Designator=M1(CTM1051)
+Added Component: Designator=P3(3.81MM-3P*2)
+Added Component: Designator=R135(0805R)
+Added Component: Designator=R136(FB1206)
+Added Component: Designator=R137(0805R)
+Added Component: Designator=R138(0805R)
+Added Component: Designator=R139(0805R)
+Added Component: Designator=U37(共模扼流圈)
+Added Pin To Net: NetName=GND Pin=C184-1
+Added Pin To Net: NetName=5V Pin=C184-2
+Added Pin To Net: NetName=GND Pin=C185-1
+Added Pin To Net: NetName=5V Pin=C185-2
+Added Pin To Net: NetName=5V Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=CAN1_TX Pin=R135-1
+Added Pin To Net: NetName=CAN2_TX Pin=R137-1
+Added Pin To Net: NetName=CAN1_RX Pin=R138-1
+Added Pin To Net: NetName=CAN2_RX Pin=R139-1
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=NetM1_3 Pin=R135-2
+Added Pin To Net: NetName=NetM1_3 Pin=R137-2
+Added Net: Name=NetM1_3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=NetM1_4 Pin=R138-2
+Added Pin To Net: NetName=NetM1_4 Pin=R139-2
+Added Net: Name=NetM1_4
+Added Pin To Net: NetName=NetM1_6 Pin=M1-6
+Added Pin To Net: NetName=NetM1_6 Pin=U37-2
+Added Net: Name=NetM1_6
+Added Pin To Net: NetName=NetM1_7 Pin=M1-7
+Added Pin To Net: NetName=NetM1_7 Pin=U37-1
+Added Net: Name=NetM1_7
+Added Pin To Net: NetName=NetM1_8 Pin=M1-8
+Added Pin To Net: NetName=NetM1_8 Pin=P3-1
+Added Pin To Net: NetName=NetM1_8 Pin=P3-2
+Added Net: Name=NetM1_8
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=P3-4
+Added Pin To Net: NetName=NetP3_3 Pin=R136-2
+Added Pin To Net: NetName=NetP3_3 Pin=U37-4
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_5 Pin=P3-5
+Added Pin To Net: NetName=NetP3_5 Pin=P3-6
+Added Pin To Net: NetName=NetP3_5 Pin=R136-1
+Added Pin To Net: NetName=NetP3_5 Pin=U37-3
+Added Net: Name=NetP3_5
+Added Member To Class: ClassName=U_数字部分 Member=Component C184 104
+Added Member To Class: ClassName=U_数字部分 Member=Component C185 104
+Added Member To Class: ClassName=U_数字部分 Member=Component M1 CTM1051
+Added Member To Class: ClassName=U_数字部分 Member=Component P3 Header 3X2H
+Added Member To Class: ClassName=U_数字部分 Member=Component R135 620
+Added Member To Class: ClassName=U_数字部分 Member=Component R136 620
+Added Member To Class: ClassName=U_数字部分 Member=Component R137 620
+Added Member To Class: ClassName=U_数字部分 Member=Component R138 620
+Added Member To Class: ClassName=U_数字部分 Member=Component R139 620
+Added Member To Class: ClassName=U_数字部分 Member=Component U37 CAN共模电感

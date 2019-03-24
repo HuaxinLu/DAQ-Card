@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CELL_L1 Pin=U11-7
+Removed Pin From Net: NetName=CELL_L2 Pin=U11-8
+Removed Member From Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=U11
+Added Component: Designator=DB37(DB37)
+Added Pin To Net: NetName=CELL_L1 Pin=DB37-1
+Added Pin To Net: NetName=CELL_L2 Pin=DB37-38
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component DB37

@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=GND_1 Pin=C28_DI1-1
+Removed Pin From Net: NetName=GND_1 Pin=C28_DI2-1
+Removed Pin From Net: NetName=GND_1 Pin=C28_DI3-1
+Removed Pin From Net: NetName=GND_1 Pin=C28_DI4-1
+Removed Pin From Net: NetName=GND_1 Pin=C28_DI5-1
+Removed Pin From Net: NetName=GND_1 Pin=C28_DI6-1
+Removed Pin From Net: NetName=GND_1 Pin=C28_DI7-1
+Removed Pin From Net: NetName=GND_1 Pin=C28_DI8-1
+Removed Pin From Net: NetName=NetR19_DI1_1 Pin=R20_DI1-2
+Removed Pin From Net: NetName=NetR19_DI2_1 Pin=R20_DI2-2
+Removed Pin From Net: NetName=NetR19_DI3_1 Pin=R20_DI3-2
+Removed Pin From Net: NetName=NetR19_DI4_1 Pin=R20_DI4-2
+Removed Pin From Net: NetName=NetR19_DI5_1 Pin=R20_DI5-2
+Removed Pin From Net: NetName=NetR19_DI6_1 Pin=R20_DI6-2
+Removed Pin From Net: NetName=NetR19_DI7_1 Pin=R20_DI7-2
+Removed Pin From Net: NetName=NetR19_DI8_1 Pin=R20_DI8-2
+Removed Member From Class: ClassName=DI1 Member=C28_DI1
+Removed Member From Class: ClassName=DI2 Member=C28_DI2
+Removed Member From Class: ClassName=DI3 Member=C28_DI3
+Removed Member From Class: ClassName=DI4 Member=C28_DI4
+Removed Member From Class: ClassName=DI5 Member=C28_DI5
+Removed Member From Class: ClassName=DI6 Member=C28_DI6
+Removed Member From Class: ClassName=DI7 Member=C28_DI7
+Removed Member From Class: ClassName=DI8 Member=C28_DI8
+Removed Member From Class: ClassName=DI1 Member=R20_DI1
+Removed Member From Class: ClassName=DI2 Member=R20_DI2
+Removed Member From Class: ClassName=DI3 Member=R20_DI3
+Removed Member From Class: ClassName=DI4 Member=R20_DI4
+Removed Member From Class: ClassName=DI5 Member=R20_DI5
+Removed Member From Class: ClassName=DI6 Member=R20_DI6
+Removed Member From Class: ClassName=DI7 Member=R20_DI7
+Removed Member From Class: ClassName=DI8 Member=R20_DI8
+Added Component: Designator=A5(RCA03-4D)
+Added Component: Designator=A6(RCA03-4D)
+Added Component: Designator=A7(RCA03-4D)
+Added Component: Designator=A8(RCA03-4D)
+Added Component: Designator=C28(0805C)
+Added Component: Designator=C134(0805C)
+Added Component: Designator=C135(0805C)
+Added Component: Designator=C136(0805C)
+Added Component: Designator=C137(0805C)
+Added Component: Designator=C138(0805C)
+Added Component: Designator=C139(0805C)
+Added Component: Designator=C140(0805C)
+Added Pin To Net: NetName=NetR19_DI8_1 Pin=A5-1
+Added Pin To Net: NetName=AGND_1 Pin=A5-3
+Added Pin To Net: NetName=NetR19_DI7_1 Pin=A5-5
+Added Pin To Net: NetName=AGND_1 Pin=A5-7
+Added Pin To Net: NetName=NetR19_DI6_1 Pin=A6-1
+Added Pin To Net: NetName=AGND_1 Pin=A6-3
+Added Pin To Net: NetName=NetR19_DI5_1 Pin=A6-5
+Added Pin To Net: NetName=AGND_1 Pin=A6-7
+Added Pin To Net: NetName=NetR19_DI4_1 Pin=A7-1
+Added Pin To Net: NetName=AGND_1 Pin=A7-3
+Added Pin To Net: NetName=NetR19_DI3_1 Pin=A7-5
+Added Pin To Net: NetName=AGND_1 Pin=A7-7
+Added Pin To Net: NetName=NetR19_DI2_1 Pin=A8-1
+Added Pin To Net: NetName=AGND_1 Pin=A8-3
+Added Pin To Net: NetName=NetR19_DI1_1 Pin=A8-5
+Added Pin To Net: NetName=AGND_1 Pin=A8-7
+Change Net Name : Old Net Name=NetR19_DI1_1 New Net Name=OUT1
+Change Net Name : Old Net Name=NetR19_DI2_1 New Net Name=OUT2
+Change Net Name : Old Net Name=NetR19_DI3_1 New Net Name=OUT3
+Change Net Name : Old Net Name=NetR19_DI4_1 New Net Name=OUT4
+Change Net Name : Old Net Name=NetR19_DI5_1 New Net Name=OUT5
+Change Net Name : Old Net Name=NetR19_DI6_1 New Net Name=OUT6
+Change Net Name : Old Net Name=NetR19_DI7_1 New Net Name=OUT7
+Change Net Name : Old Net Name=NetR19_DI8_1 New Net Name=OUT8
+Added Pin To Net: NetName=VOUT1 Pin=A8-6
+Added Pin To Net: NetName=VOUT1 Pin=C140-1
+Added Pin To Net: NetName=VOUT1 Pin=U1-63
+Added Net: Name=VOUT1
+Added Pin To Net: NetName=VOUT2 Pin=A8-2
+Added Pin To Net: NetName=VOUT2 Pin=C136-1
+Added Pin To Net: NetName=VOUT2 Pin=U1-61
+Added Net: Name=VOUT2
+Added Pin To Net: NetName=VOUT3 Pin=A7-6
+Added Pin To Net: NetName=VOUT3 Pin=C139-1
+Added Pin To Net: NetName=VOUT3 Pin=U1-59
+Added Net: Name=VOUT3
+Added Pin To Net: NetName=VOUT4 Pin=A7-2
+Added Pin To Net: NetName=VOUT4 Pin=C135-1
+Added Pin To Net: NetName=VOUT4 Pin=U1-57
+Added Net: Name=VOUT4
+Added Pin To Net: NetName=VOUT5 Pin=A6-6
+Added Pin To Net: NetName=VOUT5 Pin=C138-1
+Added Pin To Net: NetName=VOUT5 Pin=U1-55
+Added Net: Name=VOUT5
+Added Pin To Net: NetName=VOUT6 Pin=A6-2
+Added Pin To Net: NetName=VOUT6 Pin=C134-1
+Added Pin To Net: NetName=VOUT6 Pin=U1-53
+Added Net: Name=VOUT6
+Added Pin To Net: NetName=VOUT7 Pin=A5-6
+Added Pin To Net: NetName=VOUT7 Pin=C137-1
+Added Pin To Net: NetName=VOUT7 Pin=U1-51
+Added Net: Name=VOUT7
+Added Pin To Net: NetName=VOUT8 Pin=A5-2
+Added Pin To Net: NetName=VOUT8 Pin=C28-1
+Added Pin To Net: NetName=VOUT8 Pin=U1-49
+Added Net: Name=VOUT8
+Added Pin To Net: NetName=VOUTGND1 Pin=A8-8
+Added Pin To Net: NetName=VOUTGND1 Pin=C140-2
+Added Pin To Net: NetName=VOUTGND1 Pin=U1-64
+Added Net: Name=VOUTGND1
+Added Pin To Net: NetName=VOUTGND2 Pin=A8-4
+Added Pin To Net: NetName=VOUTGND2 Pin=C136-2
+Added Pin To Net: NetName=VOUTGND2 Pin=U1-62
+Added Net: Name=VOUTGND2
+Added Pin To Net: NetName=VOUTGND3 Pin=A7-8
+Added Pin To Net: NetName=VOUTGND3 Pin=C139-2
+Added Pin To Net: NetName=VOUTGND3 Pin=U1-60
+Added Net: Name=VOUTGND3
+Added Pin To Net: NetName=VOUTGND4 Pin=A7-4
+Added Pin To Net: NetName=VOUTGND4 Pin=C135-2
+Added Pin To Net: NetName=VOUTGND4 Pin=U1-58
+Added Net: Name=VOUTGND4
+Added Pin To Net: NetName=VOUTGND5 Pin=A6-8
+Added Pin To Net: NetName=VOUTGND5 Pin=C138-2
+Added Pin To Net: NetName=VOUTGND5 Pin=U1-56
+Added Net: Name=VOUTGND5
+Added Pin To Net: NetName=VOUTGND6 Pin=A6-4
+Added Pin To Net: NetName=VOUTGND6 Pin=C134-2
+Added Pin To Net: NetName=VOUTGND6 Pin=U1-54
+Added Net: Name=VOUTGND6
+Added Pin To Net: NetName=VOUTGND7 Pin=A5-8
+Added Pin To Net: NetName=VOUTGND7 Pin=C137-2
+Added Pin To Net: NetName=VOUTGND7 Pin=U1-52
+Added Net: Name=VOUTGND7
+Added Pin To Net: NetName=VOUTGND8 Pin=A5-4
+Added Pin To Net: NetName=VOUTGND8 Pin=C28-2
+Added Pin To Net: NetName=VOUTGND8 Pin=U1-50
+Added Net: Name=VOUTGND8
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component A5 ÅÅ×è 51Å·Ä·
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component A6 ÅÅ×è 51Å·Ä·
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component A7 ÅÅ×è 51Å·Ä·
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component A8 ÅÅ×è 51Å·Ä·
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component C28 Cap
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component C134 Cap
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component C135 Cap
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component C136 Cap
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component C137 Cap
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component C138 Cap
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component C139 Cap
+Added Member To Class: ClassName=U_µç³ØµçÑ¹¼ì²â Member=Component C140 Cap

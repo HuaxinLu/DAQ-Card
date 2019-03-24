@@ -1,0 +1,45 @@
+Added Component: Designator=R112(0805R)
+Added Component: Designator=R125(0805R)
+Added Component: Designator=R126(0805R)
+Added Component: Designator=R127(0805R)
+Added Component: Designator=R128(0805R)
+Added Component: Designator=R129(0805R)
+Added Component: Designator=R130(0805R)
+Added Component: Designator=R131(0805R)
+Added Component: Designator=R132(0805R)
+Added Pin To Net: NetName=NetR112_1 Pin=R112-1
+Added Pin To Net: NetName=NetR112_1 Pin=U55-14
+Added Net: Name=NetR112_1
+Added Pin To Net: NetName=NetR125_1 Pin=R125-1
+Added Pin To Net: NetName=NetR125_1 Pin=U55-13
+Added Net: Name=NetR125_1
+Added Pin To Net: NetName=NetR126_1 Pin=R126-1
+Added Pin To Net: NetName=NetR126_1 Pin=U55-12
+Added Net: Name=NetR126_1
+Added Pin To Net: NetName=NetR127_1 Pin=R127-1
+Added Pin To Net: NetName=NetR127_1 Pin=U55-11
+Added Net: Name=NetR127_1
+Added Pin To Net: NetName=NetR128_1 Pin=R128-1
+Added Pin To Net: NetName=NetR128_1 Pin=U54-15
+Added Net: Name=NetR128_1
+Added Pin To Net: NetName=NetR129_1 Pin=R129-1
+Added Pin To Net: NetName=NetR129_1 Pin=U54-14
+Added Net: Name=NetR129_1
+Added Pin To Net: NetName=NetR130_1 Pin=R130-1
+Added Pin To Net: NetName=NetR130_1 Pin=U54-13
+Added Net: Name=NetR130_1
+Added Pin To Net: NetName=NetR131_1 Pin=R131-1
+Added Pin To Net: NetName=NetR131_1 Pin=U54-12
+Added Net: Name=NetR131_1
+Added Pin To Net: NetName=NetR132_1 Pin=R132-1
+Added Pin To Net: NetName=NetR132_1 Pin=U54-11
+Added Net: Name=NetR132_1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R112 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R125 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R126 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R127 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R128 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R129 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R130 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R131 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R132 Res2

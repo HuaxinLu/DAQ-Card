@@ -1,0 +1,22 @@
+Added Component: Designator=U20(MSOP8)
+Added Component: Designator=U21(MSOP8)
+Added Component: Designator=U22(MSOP8)
+Added Component: Designator=U23(MSOP8)
+Added Component: Designator=U24(MSOP8)
+Added Component: Designator=U25(MSOP8)
+Added Component: Designator=U26(MSOP8)
+Added Component: Designator=U27(MSOP8)
+Added Component: Designator=U28(MSOP8)
+Added Member To Class: ClassName=采集卡 Member=Component U20 AD620
+Added Member To Class: ClassName=采集卡 Member=Component U21 AD620
+Added Member To Class: ClassName=采集卡 Member=Component U22 AD620
+Added Member To Class: ClassName=采集卡 Member=Component U23 AD620
+Added Member To Class: ClassName=采集卡 Member=Component U24 AD620
+Added Member To Class: ClassName=采集卡 Member=Component U25 AD620
+Added Member To Class: ClassName=采集卡 Member=Component U26 AD620
+Added Member To Class: ClassName=采集卡 Member=Component U27 AD620
+Added Member To Class: ClassName=采集卡 Member=Component U28 AD620
+Added Room: Name=U_数字部分
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

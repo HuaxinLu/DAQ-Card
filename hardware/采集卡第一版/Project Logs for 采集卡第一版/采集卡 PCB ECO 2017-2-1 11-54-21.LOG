@@ -1,0 +1,17 @@
+Added Component: Designator=R150(0805R)
+Added Component: Designator=U30(TSSOP16)
+Added Pin To Net: NetName=DVCC_2 Pin=R150-1
+Added Pin To Net: NetName=AGND_2 Pin=R150-2
+Added Pin To Net: NetName=AGND_2 Pin=U30-4
+Added Pin To Net: NetName=AVCC_2 Pin=U30-5
+Added Pin To Net: NetName=AGND_2 Pin=U30-9
+Added Pin To Net: NetName=DVCC_2 Pin=U30-10
+Added Pin To Net: NetName=DVCC_2 Pin=U30-11
+Added Pin To Net: NetName=AGND_2 Pin=U30-16
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R150 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component U30 AD5686
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

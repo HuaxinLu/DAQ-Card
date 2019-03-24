@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=CELL_L1 New Net Name=CL1
+Change Net Name : Old Net Name=CELL_L New Net Name=CL
+Added Pin To Net: NetName=CL2 Pin=DB37-20
+Added Net: Name=CL2
+Added Class: Name=CL[1..2]

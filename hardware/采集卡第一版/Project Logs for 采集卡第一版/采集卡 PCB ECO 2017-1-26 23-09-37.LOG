@@ -1,0 +1,349 @@
+Change Component Designator: OldDesignator=C92 NewDesignator=C92_SW1
+Change Component Designator: OldDesignator=C93 NewDesignator=C93_SW1
+Change Component Designator: OldDesignator=C94 NewDesignator=C94_SW1
+Change Component Designator: OldDesignator=C95 NewDesignator=C95_SW1
+Change Component Designator: OldDesignator=C96 NewDesignator=C96_SW1
+Change Component Designator: OldDesignator=S90 NewDesignator=S90_SW1
+Change Component Designator: OldDesignator=S91 NewDesignator=S91_SW1
+Change Component Designator: OldDesignator=U1 NewDesignator=U1_SW1
+Added Component: Designator=C92_SW2(0603AC)
+Added Component: Designator=C92_SW3(0603AC)
+Added Component: Designator=C92_SW4(0603AC)
+Added Component: Designator=C92_SW5(0603AC)
+Added Component: Designator=C92_SW6(0603AC)
+Added Component: Designator=C92_SW7(0603AC)
+Added Component: Designator=C92_SW8(0603AC)
+Added Component: Designator=C93_SW2(0603AC)
+Added Component: Designator=C93_SW3(0603AC)
+Added Component: Designator=C93_SW4(0603AC)
+Added Component: Designator=C93_SW5(0603AC)
+Added Component: Designator=C93_SW6(0603AC)
+Added Component: Designator=C93_SW7(0603AC)
+Added Component: Designator=C93_SW8(0603AC)
+Added Component: Designator=C94_SW2(0603AC)
+Added Component: Designator=C94_SW3(0603AC)
+Added Component: Designator=C94_SW4(0603AC)
+Added Component: Designator=C94_SW5(0603AC)
+Added Component: Designator=C94_SW6(0603AC)
+Added Component: Designator=C94_SW7(0603AC)
+Added Component: Designator=C94_SW8(0603AC)
+Added Component: Designator=C95_SW2(0603AC)
+Added Component: Designator=C95_SW3(0603AC)
+Added Component: Designator=C95_SW4(0603AC)
+Added Component: Designator=C95_SW5(0603AC)
+Added Component: Designator=C95_SW6(0603AC)
+Added Component: Designator=C95_SW7(0603AC)
+Added Component: Designator=C95_SW8(0603AC)
+Added Component: Designator=C96_SW2(0603AC)
+Added Component: Designator=C96_SW3(0603AC)
+Added Component: Designator=C96_SW4(0603AC)
+Added Component: Designator=C96_SW5(0603AC)
+Added Component: Designator=C96_SW6(0603AC)
+Added Component: Designator=C96_SW7(0603AC)
+Added Component: Designator=C96_SW8(0603AC)
+Added Component: Designator=S90_SW2(0805C)
+Added Component: Designator=S90_SW3(0805C)
+Added Component: Designator=S90_SW4(0805C)
+Added Component: Designator=S90_SW5(0805C)
+Added Component: Designator=S90_SW6(0805C)
+Added Component: Designator=S90_SW7(0805C)
+Added Component: Designator=S90_SW8(0805C)
+Added Component: Designator=S91_SW2(0603AC)
+Added Component: Designator=S91_SW3(0603AC)
+Added Component: Designator=S91_SW4(0603AC)
+Added Component: Designator=S91_SW5(0603AC)
+Added Component: Designator=S91_SW6(0603AC)
+Added Component: Designator=S91_SW7(0603AC)
+Added Component: Designator=S91_SW8(0603AC)
+Added Component: Designator=U1_SW2(SSOP20)
+Added Component: Designator=U1_SW3(SSOP20)
+Added Component: Designator=U1_SW4(SSOP20)
+Added Component: Designator=U1_SW5(SSOP20)
+Added Component: Designator=U1_SW6(SSOP20)
+Added Component: Designator=U1_SW7(SSOP20)
+Added Component: Designator=U1_SW8(SSOP20)
+Added Pin To Net: NetName=GND_1 Pin=C92_SW2-2
+Added Pin To Net: NetName=GND_1 Pin=C92_SW3-2
+Added Pin To Net: NetName=GND_1 Pin=C92_SW4-2
+Added Pin To Net: NetName=GND_1 Pin=C92_SW5-2
+Added Pin To Net: NetName=GND_1 Pin=C92_SW6-2
+Added Pin To Net: NetName=GND_1 Pin=C92_SW7-2
+Added Pin To Net: NetName=GND_1 Pin=C92_SW8-2
+Added Pin To Net: NetName=GND_1 Pin=C93_SW2-2
+Added Pin To Net: NetName=GND_1 Pin=C93_SW3-2
+Added Pin To Net: NetName=GND_1 Pin=C93_SW4-2
+Added Pin To Net: NetName=GND_1 Pin=C93_SW5-2
+Added Pin To Net: NetName=GND_1 Pin=C93_SW6-2
+Added Pin To Net: NetName=GND_1 Pin=C93_SW7-2
+Added Pin To Net: NetName=GND_1 Pin=C93_SW8-2
+Added Pin To Net: NetName=GND_1 Pin=C94_SW2-2
+Added Pin To Net: NetName=GND_1 Pin=C94_SW3-2
+Added Pin To Net: NetName=GND_1 Pin=C94_SW4-2
+Added Pin To Net: NetName=GND_1 Pin=C94_SW5-2
+Added Pin To Net: NetName=GND_1 Pin=C94_SW6-2
+Added Pin To Net: NetName=GND_1 Pin=C94_SW7-2
+Added Pin To Net: NetName=GND_1 Pin=C94_SW8-2
+Added Pin To Net: NetName=GND_1 Pin=C95_SW2-2
+Added Pin To Net: NetName=GND_1 Pin=C95_SW3-2
+Added Pin To Net: NetName=GND_1 Pin=C95_SW4-2
+Added Pin To Net: NetName=GND_1 Pin=C95_SW5-2
+Added Pin To Net: NetName=GND_1 Pin=C95_SW6-2
+Added Pin To Net: NetName=GND_1 Pin=C95_SW7-2
+Added Pin To Net: NetName=GND_1 Pin=C95_SW8-2
+Added Pin To Net: NetName=GND_1 Pin=C96_SW2-2
+Added Pin To Net: NetName=GND_1 Pin=C96_SW3-2
+Added Pin To Net: NetName=GND_1 Pin=C96_SW4-2
+Added Pin To Net: NetName=GND_1 Pin=C96_SW5-2
+Added Pin To Net: NetName=GND_1 Pin=C96_SW6-2
+Added Pin To Net: NetName=GND_1 Pin=C96_SW7-2
+Added Pin To Net: NetName=GND_1 Pin=C96_SW8-2
+Added Pin To Net: NetName=40V Pin=S90_SW2-1
+Added Pin To Net: NetName=GND_1 Pin=S90_SW2-2
+Added Pin To Net: NetName=40V Pin=S90_SW3-1
+Added Pin To Net: NetName=GND_1 Pin=S90_SW3-2
+Added Pin To Net: NetName=40V Pin=S90_SW4-1
+Added Pin To Net: NetName=GND_1 Pin=S90_SW4-2
+Added Pin To Net: NetName=40V Pin=S90_SW5-1
+Added Pin To Net: NetName=GND_1 Pin=S90_SW5-2
+Added Pin To Net: NetName=40V Pin=S90_SW6-1
+Added Pin To Net: NetName=GND_1 Pin=S90_SW6-2
+Added Pin To Net: NetName=40V Pin=S90_SW7-1
+Added Pin To Net: NetName=GND_1 Pin=S90_SW7-2
+Added Pin To Net: NetName=40V Pin=S90_SW8-1
+Added Pin To Net: NetName=GND_1 Pin=S90_SW8-2
+Added Pin To Net: NetName=40V Pin=S91_SW2-1
+Added Pin To Net: NetName=GND_1 Pin=S91_SW2-2
+Added Pin To Net: NetName=40V Pin=S91_SW3-1
+Added Pin To Net: NetName=GND_1 Pin=S91_SW3-2
+Added Pin To Net: NetName=40V Pin=S91_SW4-1
+Added Pin To Net: NetName=GND_1 Pin=S91_SW4-2
+Added Pin To Net: NetName=40V Pin=S91_SW5-1
+Added Pin To Net: NetName=GND_1 Pin=S91_SW5-2
+Added Pin To Net: NetName=40V Pin=S91_SW6-1
+Added Pin To Net: NetName=GND_1 Pin=S91_SW6-2
+Added Pin To Net: NetName=40V Pin=S91_SW7-1
+Added Pin To Net: NetName=GND_1 Pin=S91_SW7-2
+Added Pin To Net: NetName=40V Pin=S91_SW8-1
+Added Pin To Net: NetName=GND_1 Pin=S91_SW8-2
+Added Pin To Net: NetName=GND_1 Pin=U1_SW2-5
+Added Pin To Net: NetName=GND_1 Pin=U1_SW2-6
+Added Pin To Net: NetName=40V Pin=U1_SW2-16
+Added Pin To Net: NetName=GND_1 Pin=U1_SW3-5
+Added Pin To Net: NetName=GND_1 Pin=U1_SW3-6
+Added Pin To Net: NetName=40V Pin=U1_SW3-16
+Added Pin To Net: NetName=GND_1 Pin=U1_SW4-5
+Added Pin To Net: NetName=GND_1 Pin=U1_SW4-6
+Added Pin To Net: NetName=40V Pin=U1_SW4-16
+Added Pin To Net: NetName=GND_1 Pin=U1_SW5-5
+Added Pin To Net: NetName=GND_1 Pin=U1_SW5-6
+Added Pin To Net: NetName=40V Pin=U1_SW5-16
+Added Pin To Net: NetName=GND_1 Pin=U1_SW6-5
+Added Pin To Net: NetName=GND_1 Pin=U1_SW6-6
+Added Pin To Net: NetName=40V Pin=U1_SW6-16
+Added Pin To Net: NetName=GND_1 Pin=U1_SW7-5
+Added Pin To Net: NetName=GND_1 Pin=U1_SW7-6
+Added Pin To Net: NetName=40V Pin=U1_SW7-16
+Added Pin To Net: NetName=GND_1 Pin=U1_SW8-5
+Added Pin To Net: NetName=GND_1 Pin=U1_SW8-6
+Added Pin To Net: NetName=40V Pin=U1_SW8-16
+Change Net Name : Old Net Name=D1 New Net Name=D1_SW1
+Change Net Name : Old Net Name=D3 New Net Name=D3_SW1
+Change Net Name : Old Net Name=D4 New Net Name=D4_SW1
+Change Net Name : Old Net Name=S1 New Net Name=S1_SW1
+Change Net Name : Old Net Name=S2 New Net Name=S2_SW1
+Change Net Name : Old Net Name=S3 New Net Name=S3_SW1
+Change Net Name : Old Net Name=S4 New Net Name=S4_SW1
+Change Net Name : Old Net Name=S5 New Net Name=S5_SW1
+Added Pin To Net: NetName=D1_SW2 Pin=U1_SW2-3
+Added Pin To Net: NetName=D1_SW2 Pin=U1_SW2-8
+Added Net: Name=D1_SW2
+Added Pin To Net: NetName=D1_SW3 Pin=U1_SW3-3
+Added Pin To Net: NetName=D1_SW3 Pin=U1_SW3-8
+Added Net: Name=D1_SW3
+Added Pin To Net: NetName=D1_SW4 Pin=U1_SW4-3
+Added Pin To Net: NetName=D1_SW4 Pin=U1_SW4-8
+Added Net: Name=D1_SW4
+Added Pin To Net: NetName=D1_SW5 Pin=U1_SW5-3
+Added Pin To Net: NetName=D1_SW5 Pin=U1_SW5-8
+Added Net: Name=D1_SW5
+Added Pin To Net: NetName=D1_SW6 Pin=U1_SW6-3
+Added Pin To Net: NetName=D1_SW6 Pin=U1_SW6-8
+Added Net: Name=D1_SW6
+Added Pin To Net: NetName=D1_SW7 Pin=U1_SW7-3
+Added Pin To Net: NetName=D1_SW7 Pin=U1_SW7-8
+Added Net: Name=D1_SW7
+Added Pin To Net: NetName=D1_SW8 Pin=U1_SW8-3
+Added Pin To Net: NetName=D1_SW8 Pin=U1_SW8-8
+Added Net: Name=D1_SW8
+Added Pin To Net: NetName=D3_SW2 Pin=U1_SW2-18
+Added Net: Name=D3_SW2
+Added Pin To Net: NetName=D3_SW3 Pin=U1_SW3-18
+Added Net: Name=D3_SW3
+Added Pin To Net: NetName=D3_SW4 Pin=U1_SW4-18
+Added Net: Name=D3_SW4
+Added Pin To Net: NetName=D3_SW5 Pin=U1_SW5-18
+Added Net: Name=D3_SW5
+Added Pin To Net: NetName=D3_SW6 Pin=U1_SW6-18
+Added Net: Name=D3_SW6
+Added Pin To Net: NetName=D3_SW7 Pin=U1_SW7-18
+Added Net: Name=D3_SW7
+Added Pin To Net: NetName=D3_SW8 Pin=U1_SW8-18
+Added Net: Name=D3_SW8
+Added Pin To Net: NetName=D4_SW2 Pin=U1_SW2-13
+Added Net: Name=D4_SW2
+Added Pin To Net: NetName=D4_SW3 Pin=U1_SW3-13
+Added Net: Name=D4_SW3
+Added Pin To Net: NetName=D4_SW4 Pin=U1_SW4-13
+Added Net: Name=D4_SW4
+Added Pin To Net: NetName=D4_SW5 Pin=U1_SW5-13
+Added Net: Name=D4_SW5
+Added Pin To Net: NetName=D4_SW6 Pin=U1_SW6-13
+Added Net: Name=D4_SW6
+Added Pin To Net: NetName=D4_SW7 Pin=U1_SW7-13
+Added Net: Name=D4_SW7
+Added Pin To Net: NetName=D4_SW8 Pin=U1_SW8-13
+Added Net: Name=D4_SW8
+Added Pin To Net: NetName=S1_SW2 Pin=C92_SW2-1
+Added Pin To Net: NetName=S1_SW2 Pin=U1_SW2-9
+Added Net: Name=S1_SW2
+Added Pin To Net: NetName=S1_SW3 Pin=C92_SW3-1
+Added Pin To Net: NetName=S1_SW3 Pin=U1_SW3-9
+Added Net: Name=S1_SW3
+Added Pin To Net: NetName=S1_SW4 Pin=C92_SW4-1
+Added Pin To Net: NetName=S1_SW4 Pin=U1_SW4-9
+Added Net: Name=S1_SW4
+Added Pin To Net: NetName=S1_SW5 Pin=C92_SW5-1
+Added Pin To Net: NetName=S1_SW5 Pin=U1_SW5-9
+Added Net: Name=S1_SW5
+Added Pin To Net: NetName=S1_SW6 Pin=C92_SW6-1
+Added Pin To Net: NetName=S1_SW6 Pin=U1_SW6-9
+Added Net: Name=S1_SW6
+Added Pin To Net: NetName=S1_SW7 Pin=C92_SW7-1
+Added Pin To Net: NetName=S1_SW7 Pin=U1_SW7-9
+Added Net: Name=S1_SW7
+Added Pin To Net: NetName=S1_SW8 Pin=C92_SW8-1
+Added Pin To Net: NetName=S1_SW8 Pin=U1_SW8-9
+Added Net: Name=S1_SW8
+Added Pin To Net: NetName=S2_SW2 Pin=C93_SW2-1
+Added Pin To Net: NetName=S2_SW2 Pin=U1_SW2-4
+Added Pin To Net: NetName=S2_SW2 Pin=U1_SW2-7
+Added Net: Name=S2_SW2
+Added Pin To Net: NetName=S2_SW3 Pin=C93_SW3-1
+Added Pin To Net: NetName=S2_SW3 Pin=U1_SW3-4
+Added Pin To Net: NetName=S2_SW3 Pin=U1_SW3-7
+Added Net: Name=S2_SW3
+Added Pin To Net: NetName=S2_SW4 Pin=C93_SW4-1
+Added Pin To Net: NetName=S2_SW4 Pin=U1_SW4-4
+Added Pin To Net: NetName=S2_SW4 Pin=U1_SW4-7
+Added Net: Name=S2_SW4
+Added Pin To Net: NetName=S2_SW5 Pin=C93_SW5-1
+Added Pin To Net: NetName=S2_SW5 Pin=U1_SW5-4
+Added Pin To Net: NetName=S2_SW5 Pin=U1_SW5-7
+Added Net: Name=S2_SW5
+Added Pin To Net: NetName=S2_SW6 Pin=C93_SW6-1
+Added Pin To Net: NetName=S2_SW6 Pin=U1_SW6-4
+Added Pin To Net: NetName=S2_SW6 Pin=U1_SW6-7
+Added Net: Name=S2_SW6
+Added Pin To Net: NetName=S2_SW7 Pin=C93_SW7-1
+Added Pin To Net: NetName=S2_SW7 Pin=U1_SW7-4
+Added Pin To Net: NetName=S2_SW7 Pin=U1_SW7-7
+Added Net: Name=S2_SW7
+Added Pin To Net: NetName=S2_SW8 Pin=C93_SW8-1
+Added Pin To Net: NetName=S2_SW8 Pin=U1_SW8-4
+Added Pin To Net: NetName=S2_SW8 Pin=U1_SW8-7
+Added Net: Name=S2_SW8
+Added Pin To Net: NetName=S3_SW2 Pin=C94_SW2-1
+Added Pin To Net: NetName=S3_SW2 Pin=U1_SW2-2
+Added Pin To Net: NetName=S3_SW2 Pin=U1_SW2-17
+Added Pin To Net: NetName=S3_SW2 Pin=U1_SW2-19
+Added Net: Name=S3_SW2
+Added Pin To Net: NetName=S3_SW3 Pin=C94_SW3-1
+Added Pin To Net: NetName=S3_SW3 Pin=U1_SW3-2
+Added Pin To Net: NetName=S3_SW3 Pin=U1_SW3-17
+Added Pin To Net: NetName=S3_SW3 Pin=U1_SW3-19
+Added Net: Name=S3_SW3
+Added Pin To Net: NetName=S3_SW4 Pin=C94_SW4-1
+Added Pin To Net: NetName=S3_SW4 Pin=U1_SW4-2
+Added Pin To Net: NetName=S3_SW4 Pin=U1_SW4-17
+Added Pin To Net: NetName=S3_SW4 Pin=U1_SW4-19
+Added Net: Name=S3_SW4
+Added Pin To Net: NetName=S3_SW5 Pin=C94_SW5-1
+Added Pin To Net: NetName=S3_SW5 Pin=U1_SW5-2
+Added Pin To Net: NetName=S3_SW5 Pin=U1_SW5-17
+Added Pin To Net: NetName=S3_SW5 Pin=U1_SW5-19
+Added Net: Name=S3_SW5
+Added Pin To Net: NetName=S3_SW6 Pin=C94_SW6-1
+Added Pin To Net: NetName=S3_SW6 Pin=U1_SW6-2
+Added Pin To Net: NetName=S3_SW6 Pin=U1_SW6-17
+Added Pin To Net: NetName=S3_SW6 Pin=U1_SW6-19
+Added Net: Name=S3_SW6
+Added Pin To Net: NetName=S3_SW7 Pin=C94_SW7-1
+Added Pin To Net: NetName=S3_SW7 Pin=U1_SW7-2
+Added Pin To Net: NetName=S3_SW7 Pin=U1_SW7-17
+Added Pin To Net: NetName=S3_SW7 Pin=U1_SW7-19
+Added Net: Name=S3_SW7
+Added Pin To Net: NetName=S3_SW8 Pin=C94_SW8-1
+Added Pin To Net: NetName=S3_SW8 Pin=U1_SW8-2
+Added Pin To Net: NetName=S3_SW8 Pin=U1_SW8-17
+Added Pin To Net: NetName=S3_SW8 Pin=U1_SW8-19
+Added Net: Name=S3_SW8
+Added Pin To Net: NetName=S4_SW2 Pin=C95_SW2-1
+Added Pin To Net: NetName=S4_SW2 Pin=U1_SW2-15
+Added Net: Name=S4_SW2
+Added Pin To Net: NetName=S4_SW3 Pin=C95_SW3-1
+Added Pin To Net: NetName=S4_SW3 Pin=U1_SW3-15
+Added Net: Name=S4_SW3
+Added Pin To Net: NetName=S4_SW4 Pin=C95_SW4-1
+Added Pin To Net: NetName=S4_SW4 Pin=U1_SW4-15
+Added Net: Name=S4_SW4
+Added Pin To Net: NetName=S4_SW5 Pin=C95_SW5-1
+Added Pin To Net: NetName=S4_SW5 Pin=U1_SW5-15
+Added Net: Name=S4_SW5
+Added Pin To Net: NetName=S4_SW6 Pin=C95_SW6-1
+Added Pin To Net: NetName=S4_SW6 Pin=U1_SW6-15
+Added Net: Name=S4_SW6
+Added Pin To Net: NetName=S4_SW7 Pin=C95_SW7-1
+Added Pin To Net: NetName=S4_SW7 Pin=U1_SW7-15
+Added Net: Name=S4_SW7
+Added Pin To Net: NetName=S4_SW8 Pin=C95_SW8-1
+Added Pin To Net: NetName=S4_SW8 Pin=U1_SW8-15
+Added Net: Name=S4_SW8
+Added Pin To Net: NetName=S5_SW2 Pin=C96_SW2-1
+Added Pin To Net: NetName=S5_SW2 Pin=U1_SW2-12
+Added Net: Name=S5_SW2
+Added Pin To Net: NetName=S5_SW3 Pin=C96_SW3-1
+Added Pin To Net: NetName=S5_SW3 Pin=U1_SW3-12
+Added Net: Name=S5_SW3
+Added Pin To Net: NetName=S5_SW4 Pin=C96_SW4-1
+Added Pin To Net: NetName=S5_SW4 Pin=U1_SW4-12
+Added Net: Name=S5_SW4
+Added Pin To Net: NetName=S5_SW5 Pin=C96_SW5-1
+Added Pin To Net: NetName=S5_SW5 Pin=U1_SW5-12
+Added Net: Name=S5_SW5
+Added Pin To Net: NetName=S5_SW6 Pin=C96_SW6-1
+Added Pin To Net: NetName=S5_SW6 Pin=U1_SW6-12
+Added Net: Name=S5_SW6
+Added Pin To Net: NetName=S5_SW7 Pin=C96_SW7-1
+Added Pin To Net: NetName=S5_SW7 Pin=U1_SW7-12
+Added Net: Name=S5_SW7
+Added Pin To Net: NetName=S5_SW8 Pin=C96_SW8-1
+Added Pin To Net: NetName=S5_SW8 Pin=U1_SW8-12
+Added Net: Name=S5_SW8
+Change Class Name : Old Net Name=U_模拟开关 New Net Name=SW1
+Added Class: Name=SW2
+Added Class: Name=SW3
+Added Class: Name=SW4
+Added Class: Name=SW5
+Added Class: Name=SW6
+Added Class: Name=SW7
+Added Class: Name=SW8
+Added Class: Name=模拟开关
+Change Room Name: Old Name=U_模拟开关 New Name=SW1
+Change Room Scope: Old Scope=InComponentClass('U_模拟开关') New Scope=InComponentClass('SW1')
+Added Room: Name=SW2
+Added Room: Name=SW3
+Added Room: Name=SW4
+Added Room: Name=SW5
+Added Room: Name=SW6
+Added Room: Name=SW7
+Added Room: Name=SW8

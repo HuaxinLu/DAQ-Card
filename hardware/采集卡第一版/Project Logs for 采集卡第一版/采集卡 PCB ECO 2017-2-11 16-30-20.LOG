@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=AAGND_1 Pin=C39-2
+Added Pin To Net: NetName=AAGND_1 Pin=C63-1
+Added Pin To Net: NetName=AAGND_1 Pin=C64-2
+Added Pin To Net: NetName=AAGND_1 Pin=C66-2
+Added Pin To Net: NetName=AAGND_1 Pin=C70-2
+Added Pin To Net: NetName=AAGND_1 Pin=C72-2
+Added Pin To Net: NetName=AAGND_1 Pin=C136-2
+Added Pin To Net: NetName=AAGND_1 Pin=U13-2
+Added Pin To Net: NetName=AAGND_1 Pin=U14-1
+Change Net Name : Old Net Name=AAGND_1 New Net Name=AGND_1

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DVCC_1 Pin=C2-1
+Removed Pin From Net: NetName=DVCC_1 Pin=C69-1
+Removed Pin From Net: NetName=DVCC_1 Pin=U10-16
+Removed Pin From Net: NetName=DVCC_1 Pin=U12-18
+Added Component: Designator=R179(0805R)
+Added Pin To Net: NetName=DVCC_1 Pin=R179-1
+Added Pin To Net: NetName=+5V_1 Pin=R179-2
+Added Pin To Net: NetName=VCC_1 Pin=C2-1
+Added Pin To Net: NetName=VCC_1 Pin=C69-1
+Added Pin To Net: NetName=VCC_1 Pin=U10-16
+Added Pin To Net: NetName=VCC_1 Pin=U12-18
+Added Net: Name=VCC_1
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R179 Res2

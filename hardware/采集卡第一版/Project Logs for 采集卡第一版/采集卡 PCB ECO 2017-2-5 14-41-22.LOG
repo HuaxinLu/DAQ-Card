@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=AGND_2 Pin=C151-1
+Removed Pin From Net: NetName=AVCC_2 Pin=C151-2
+Removed Pin From Net: NetName=+6V_2 Pin=U55-16
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R112
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R125
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R126
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R127
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R128
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R129
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R130
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R131
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=R132
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=U54
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=U55
+Added Pin To Net: NetName=GND_2 Pin=C151-1
+Added Pin To Net: NetName=+6V_2 Pin=C151-2
+Added Pin To Net: NetName=CLK_1 Pin=U30-12
+Added Pin To Net: NetName=CS_2 Pin=U30-13
+Added Net: Name=CS_2
+Added Net: Name=D1_1
+Added Pin To Net: NetName=DI_1 Pin=U30-14
+Added Net: Name=DI_1

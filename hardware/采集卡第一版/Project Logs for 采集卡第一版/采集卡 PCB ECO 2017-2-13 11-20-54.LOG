@@ -1,0 +1,48 @@
+Added Component: Designator=C141(0805C)
+Added Component: Designator=C198(0805C)
+Added Component: Designator=C199(0805C)
+Added Component: Designator=C200(0805C)
+Added Component: Designator=C201(0805C)
+Added Component: Designator=C202(0805C)
+Added Component: Designator=C203(0805C)
+Added Component: Designator=C204(0805C)
+Added Component: Designator=R172(0805R)
+Added Component: Designator=R173(0805R)
+Added Component: Designator=R174(0805R)
+Added Pin To Net: NetName=DGND_1 Pin=C141-1
+Added Pin To Net: NetName=GND_FC1 Pin=C141-2
+Added Pin To Net: NetName=DGND_1 Pin=C198-1
+Added Pin To Net: NetName=GND_FC1 Pin=C198-2
+Added Pin To Net: NetName=DGND_1 Pin=C199-1
+Added Pin To Net: NetName=AGND_1 Pin=C199-2
+Added Pin To Net: NetName=DGND_1 Pin=C200-1
+Added Pin To Net: NetName=AGND_1 Pin=C200-2
+Added Pin To Net: NetName=DGND_2 Pin=C201-1
+Added Pin To Net: NetName=AGND_2 Pin=C201-2
+Added Pin To Net: NetName=DGND_2 Pin=C202-1
+Added Pin To Net: NetName=AGND_2 Pin=C202-2
+Added Pin To Net: NetName=DGND_2 Pin=C203-1
+Added Pin To Net: NetName=AGND_2 Pin=C203-2
+Added Pin To Net: NetName=DGND_2 Pin=C204-1
+Added Pin To Net: NetName=AGND_2 Pin=C204-2
+Added Pin To Net: NetName=DGND_1 Pin=R172-1
+Added Pin To Net: NetName=AGND_1 Pin=R172-2
+Added Pin To Net: NetName=DGND_1 Pin=R173-1
+Added Pin To Net: NetName=GND_FC1 Pin=R173-2
+Added Pin To Net: NetName=DGND_2 Pin=R174-1
+Added Pin To Net: NetName=AGND_2 Pin=R174-2
+Added Member To Class: ClassName=U_电池电压检测 Member=Component C141 Cap
+Added Member To Class: ClassName=U_电池电压检测 Member=Component C198 Cap
+Added Member To Class: ClassName=U_电池电压检测 Member=Component C199 Cap
+Added Member To Class: ClassName=U_电池电压检测 Member=Component C200 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C201 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C202 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C203 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C204 Cap
+Added Member To Class: ClassName=U_电池电压检测 Member=Component R172 Res2
+Added Member To Class: ClassName=U_电池电压检测 Member=Component R173 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R174 Res2
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

@@ -1,0 +1,9 @@
+Added Component: Designator=U1(SOIC-20)
+Added Component: Designator=U2(SOIC-20)
+Added Component: Designator=U3(SOIC-20)
+Added Component: Designator=U4(SOIC-20)
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U1 ADG5234
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U2 ADG5234
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U3 ADG5234
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U4 ADG5234
+Added Room: Name=µÁ≥ÿµÁ—πºÏ≤‚

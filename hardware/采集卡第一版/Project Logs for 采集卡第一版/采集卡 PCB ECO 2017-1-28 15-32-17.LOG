@@ -1,0 +1,32 @@
+Added Component: Designator=C2_DI1(0805C)
+Added Component: Designator=C2_DI2(0805C)
+Added Component: Designator=C2_DI3(0805C)
+Added Component: Designator=C2_DI4(0805C)
+Added Component: Designator=C2_DI5(0805C)
+Added Component: Designator=C2_DI6(0805C)
+Added Component: Designator=C2_DI7(0805C)
+Added Component: Designator=C2_DI8(0805C)
+Added Pin To Net: NetName=CL1 Pin=C2_DI1-1
+Added Pin To Net: NetName=CH1 Pin=C2_DI1-2
+Added Pin To Net: NetName=CL2 Pin=C2_DI2-1
+Added Pin To Net: NetName=CH2 Pin=C2_DI2-2
+Added Pin To Net: NetName=CL3 Pin=C2_DI3-1
+Added Pin To Net: NetName=CH3 Pin=C2_DI3-2
+Added Pin To Net: NetName=CL4 Pin=C2_DI4-1
+Added Pin To Net: NetName=CH4 Pin=C2_DI4-2
+Added Pin To Net: NetName=CL5 Pin=C2_DI5-1
+Added Pin To Net: NetName=CH5 Pin=C2_DI5-2
+Added Pin To Net: NetName=CL6 Pin=C2_DI6-1
+Added Pin To Net: NetName=CH6 Pin=C2_DI6-2
+Added Pin To Net: NetName=CL7 Pin=C2_DI7-1
+Added Pin To Net: NetName=CH7 Pin=C2_DI7-2
+Added Pin To Net: NetName=CL8 Pin=C2_DI8-1
+Added Pin To Net: NetName=CH8 Pin=C2_DI8-2
+Added Member To Class: ClassName=DI1 Member=Component C2_DI1 (C2) Cap
+Added Member To Class: ClassName=DI2 Member=Component C2_DI2 (C2) Cap
+Added Member To Class: ClassName=DI3 Member=Component C2_DI3 (C2) Cap
+Added Member To Class: ClassName=DI4 Member=Component C2_DI4 (C2) Cap
+Added Member To Class: ClassName=DI5 Member=Component C2_DI5 (C2) Cap
+Added Member To Class: ClassName=DI6 Member=Component C2_DI6 (C2) Cap
+Added Member To Class: ClassName=DI7 Member=Component C2_DI7 (C2) Cap
+Added Member To Class: ClassName=DI8 Member=Component C2_DI8 (C2) Cap

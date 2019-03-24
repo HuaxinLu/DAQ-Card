@@ -1,0 +1,224 @@
+Removed Pin From Net: NetName=NetC3_DI1_2 Pin=D1_DI1-1
+Removed Pin From Net: NetName=NetC3_DI1_1 Pin=D1_DI1-3
+Removed Pin From Net: NetName=NetC3_DI2_2 Pin=D1_DI2-1
+Removed Pin From Net: NetName=NetC3_DI2_1 Pin=D1_DI2-3
+Removed Pin From Net: NetName=NetC3_DI3_2 Pin=D1_DI3-1
+Removed Pin From Net: NetName=NetC3_DI3_1 Pin=D1_DI3-3
+Removed Pin From Net: NetName=NetC3_DI4_2 Pin=D1_DI4-1
+Removed Pin From Net: NetName=NetC3_DI4_1 Pin=D1_DI4-3
+Removed Pin From Net: NetName=NetC3_DI5_2 Pin=D1_DI5-1
+Removed Pin From Net: NetName=NetC3_DI5_1 Pin=D1_DI5-3
+Removed Pin From Net: NetName=NetC3_DI6_2 Pin=D1_DI6-1
+Removed Pin From Net: NetName=NetC3_DI6_1 Pin=D1_DI6-3
+Removed Pin From Net: NetName=NetC3_DI7_2 Pin=D1_DI7-1
+Removed Pin From Net: NetName=NetC3_DI7_1 Pin=D1_DI7-3
+Removed Pin From Net: NetName=NetC3_DI8_2 Pin=D1_DI8-1
+Removed Pin From Net: NetName=NetC3_DI8_1 Pin=D1_DI8-3
+Removed Pin From Net: NetName=NetC3_DI9_2 Pin=D1_DI9-1
+Removed Pin From Net: NetName=NetC3_DI9_1 Pin=D1_DI9-3
+Removed Pin From Net: NetName=NetC3_DI10_2 Pin=D1_DI10-1
+Removed Pin From Net: NetName=NetC3_DI10_1 Pin=D1_DI10-3
+Removed Pin From Net: NetName=NetC3_DI11_2 Pin=D1_DI11-1
+Removed Pin From Net: NetName=NetC3_DI11_1 Pin=D1_DI11-3
+Removed Pin From Net: NetName=NetC3_DI12_2 Pin=D1_DI12-1
+Removed Pin From Net: NetName=NetC3_DI12_1 Pin=D1_DI12-3
+Removed Pin From Net: NetName=NetC3_DI13_2 Pin=D1_DI13-1
+Removed Pin From Net: NetName=NetC3_DI13_1 Pin=D1_DI13-3
+Removed Pin From Net: NetName=NetC3_DI14_2 Pin=D1_DI14-1
+Removed Pin From Net: NetName=NetC3_DI14_1 Pin=D1_DI14-3
+Removed Pin From Net: NetName=NetC3_DI15_2 Pin=D1_DI15-1
+Removed Pin From Net: NetName=NetC3_DI15_1 Pin=D1_DI15-3
+Removed Pin From Net: NetName=NetC3_DI16_2 Pin=D1_DI16-1
+Removed Pin From Net: NetName=NetC3_DI16_1 Pin=D1_DI16-3
+Removed Pin From Net: NetName=NetC3_DI17_2 Pin=D1_DI17-1
+Removed Pin From Net: NetName=NetC3_DI17_1 Pin=D1_DI17-3
+Removed Pin From Net: NetName=NetC3_DI18_2 Pin=D1_DI18-1
+Removed Pin From Net: NetName=NetC3_DI18_1 Pin=D1_DI18-3
+Removed Pin From Net: NetName=NetC3_DI19_2 Pin=D1_DI19-1
+Removed Pin From Net: NetName=NetC3_DI19_1 Pin=D1_DI19-3
+Removed Pin From Net: NetName=NetC3_DI20_2 Pin=D1_DI20-1
+Removed Pin From Net: NetName=NetC3_DI20_1 Pin=D1_DI20-3
+Removed Pin From Net: NetName=NetC3_DI21_2 Pin=D1_DI21-1
+Removed Pin From Net: NetName=NetC3_DI21_1 Pin=D1_DI21-3
+Removed Pin From Net: NetName=NetC3_DI22_2 Pin=D1_DI22-1
+Removed Pin From Net: NetName=NetC3_DI22_1 Pin=D1_DI22-3
+Removed Pin From Net: NetName=NetC3_DI23_2 Pin=D1_DI23-1
+Removed Pin From Net: NetName=NetC3_DI23_1 Pin=D1_DI23-3
+Removed Pin From Net: NetName=NetC3_DI24_2 Pin=D1_DI24-1
+Removed Pin From Net: NetName=NetC3_DI24_1 Pin=D1_DI24-3
+Removed Pin From Net: NetName=NetC3_DI25_2 Pin=D1_DI25-1
+Removed Pin From Net: NetName=NetC3_DI25_1 Pin=D1_DI25-3
+Removed Pin From Net: NetName=NetC3_DI26_2 Pin=D1_DI26-1
+Removed Pin From Net: NetName=NetC3_DI26_1 Pin=D1_DI26-3
+Removed Pin From Net: NetName=NetC3_DI27_2 Pin=D1_DI27-1
+Removed Pin From Net: NetName=NetC3_DI27_1 Pin=D1_DI27-3
+Removed Pin From Net: NetName=NetC3_DI28_2 Pin=D1_DI28-1
+Removed Pin From Net: NetName=NetC3_DI28_1 Pin=D1_DI28-3
+Removed Pin From Net: NetName=NetC3_DI29_2 Pin=D1_DI29-1
+Removed Pin From Net: NetName=NetC3_DI29_1 Pin=D1_DI29-3
+Removed Pin From Net: NetName=NetC3_DI30_2 Pin=D1_DI30-1
+Removed Pin From Net: NetName=NetC3_DI30_1 Pin=D1_DI30-3
+Removed Pin From Net: NetName=NetC3_DI31_2 Pin=D1_DI31-1
+Removed Pin From Net: NetName=NetC3_DI31_1 Pin=D1_DI31-3
+Removed Pin From Net: NetName=NetC3_DI32_2 Pin=D1_DI32-1
+Removed Pin From Net: NetName=NetC3_DI32_1 Pin=D1_DI32-3
+Change Component DesignItemId : Designator=D1_DI1 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI2 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI3 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI4 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI5 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI6 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI7 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI8 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI9 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI10 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI11 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI12 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI13 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI14 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI15 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI16 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI17 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI18 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI19 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI20 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI21 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI22 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI23 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI24 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI25 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI26 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI27 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI28 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI29 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI30 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI31 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D1_DI32 Old DesignItemId=Diode BAS16 New DesignItemId=Diode
+Change Component Footprint: Designator=D1_DI1 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI2 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI3 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI4 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI5 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI6 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI7 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI8 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI9 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI10 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI11 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI12 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI13 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI14 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI15 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI16 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI17 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI18 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI19 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI20 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI21 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI22 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI23 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI24 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI25 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI26 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI27 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI28 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI29 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI30 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI31 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Footprint: Designator=D1_DI32 Old Footprint=SOT-23_L New Footprint=SMA
+Change Component Comment : Designator=D1_DI1 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI2 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI3 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI4 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI5 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI6 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI7 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI8 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI9 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI10 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI11 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI12 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI13 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI14 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI15 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI16 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI17 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI18 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI19 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI20 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI21 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI22 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI23 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI24 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI25 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI26 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI27 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI28 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI29 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI30 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI31 Old Comment=Diode BAS16 New Comment=Diode
+Change Component Comment : Designator=D1_DI32 Old Comment=Diode BAS16 New Comment=Diode
+Added Pin To Net: NetName=NetC3_DI1_1 Pin=D1_DI1-1
+Added Pin To Net: NetName=NetC3_DI1_2 Pin=D1_DI1-2
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=D1_DI2-1
+Added Pin To Net: NetName=NetC3_DI2_2 Pin=D1_DI2-2
+Added Pin To Net: NetName=NetC3_DI3_1 Pin=D1_DI3-1
+Added Pin To Net: NetName=NetC3_DI3_2 Pin=D1_DI3-2
+Added Pin To Net: NetName=NetC3_DI4_1 Pin=D1_DI4-1
+Added Pin To Net: NetName=NetC3_DI4_2 Pin=D1_DI4-2
+Added Pin To Net: NetName=NetC3_DI5_1 Pin=D1_DI5-1
+Added Pin To Net: NetName=NetC3_DI5_2 Pin=D1_DI5-2
+Added Pin To Net: NetName=NetC3_DI6_1 Pin=D1_DI6-1
+Added Pin To Net: NetName=NetC3_DI6_2 Pin=D1_DI6-2
+Added Pin To Net: NetName=NetC3_DI7_1 Pin=D1_DI7-1
+Added Pin To Net: NetName=NetC3_DI7_2 Pin=D1_DI7-2
+Added Pin To Net: NetName=NetC3_DI8_1 Pin=D1_DI8-1
+Added Pin To Net: NetName=NetC3_DI8_2 Pin=D1_DI8-2
+Added Pin To Net: NetName=NetC3_DI9_1 Pin=D1_DI9-1
+Added Pin To Net: NetName=NetC3_DI9_2 Pin=D1_DI9-2
+Added Pin To Net: NetName=NetC3_DI10_1 Pin=D1_DI10-1
+Added Pin To Net: NetName=NetC3_DI10_2 Pin=D1_DI10-2
+Added Pin To Net: NetName=NetC3_DI11_1 Pin=D1_DI11-1
+Added Pin To Net: NetName=NetC3_DI11_2 Pin=D1_DI11-2
+Added Pin To Net: NetName=NetC3_DI12_1 Pin=D1_DI12-1
+Added Pin To Net: NetName=NetC3_DI12_2 Pin=D1_DI12-2
+Added Pin To Net: NetName=NetC3_DI13_1 Pin=D1_DI13-1
+Added Pin To Net: NetName=NetC3_DI13_2 Pin=D1_DI13-2
+Added Pin To Net: NetName=NetC3_DI14_1 Pin=D1_DI14-1
+Added Pin To Net: NetName=NetC3_DI14_2 Pin=D1_DI14-2
+Added Pin To Net: NetName=NetC3_DI15_1 Pin=D1_DI15-1
+Added Pin To Net: NetName=NetC3_DI15_2 Pin=D1_DI15-2
+Added Pin To Net: NetName=NetC3_DI16_1 Pin=D1_DI16-1
+Added Pin To Net: NetName=NetC3_DI16_2 Pin=D1_DI16-2
+Added Pin To Net: NetName=NetC3_DI17_1 Pin=D1_DI17-1
+Added Pin To Net: NetName=NetC3_DI17_2 Pin=D1_DI17-2
+Added Pin To Net: NetName=NetC3_DI18_1 Pin=D1_DI18-1
+Added Pin To Net: NetName=NetC3_DI18_2 Pin=D1_DI18-2
+Added Pin To Net: NetName=NetC3_DI19_1 Pin=D1_DI19-1
+Added Pin To Net: NetName=NetC3_DI19_2 Pin=D1_DI19-2
+Added Pin To Net: NetName=NetC3_DI20_1 Pin=D1_DI20-1
+Added Pin To Net: NetName=NetC3_DI20_2 Pin=D1_DI20-2
+Added Pin To Net: NetName=NetC3_DI21_1 Pin=D1_DI21-1
+Added Pin To Net: NetName=NetC3_DI21_2 Pin=D1_DI21-2
+Added Pin To Net: NetName=NetC3_DI22_1 Pin=D1_DI22-1
+Added Pin To Net: NetName=NetC3_DI22_2 Pin=D1_DI22-2
+Added Pin To Net: NetName=NetC3_DI23_1 Pin=D1_DI23-1
+Added Pin To Net: NetName=NetC3_DI23_2 Pin=D1_DI23-2
+Added Pin To Net: NetName=NetC3_DI24_1 Pin=D1_DI24-1
+Added Pin To Net: NetName=NetC3_DI24_2 Pin=D1_DI24-2
+Added Pin To Net: NetName=NetC3_DI25_1 Pin=D1_DI25-1
+Added Pin To Net: NetName=NetC3_DI25_2 Pin=D1_DI25-2
+Added Pin To Net: NetName=NetC3_DI26_1 Pin=D1_DI26-1
+Added Pin To Net: NetName=NetC3_DI26_2 Pin=D1_DI26-2
+Added Pin To Net: NetName=NetC3_DI27_1 Pin=D1_DI27-1
+Added Pin To Net: NetName=NetC3_DI27_2 Pin=D1_DI27-2
+Added Pin To Net: NetName=NetC3_DI28_1 Pin=D1_DI28-1
+Added Pin To Net: NetName=NetC3_DI28_2 Pin=D1_DI28-2
+Added Pin To Net: NetName=NetC3_DI29_1 Pin=D1_DI29-1
+Added Pin To Net: NetName=NetC3_DI29_2 Pin=D1_DI29-2
+Added Pin To Net: NetName=NetC3_DI30_1 Pin=D1_DI30-1
+Added Pin To Net: NetName=NetC3_DI30_2 Pin=D1_DI30-2
+Added Pin To Net: NetName=NetC3_DI31_1 Pin=D1_DI31-1
+Added Pin To Net: NetName=NetC3_DI31_2 Pin=D1_DI31-2
+Added Pin To Net: NetName=NetC3_DI32_1 Pin=D1_DI32-1
+Added Pin To Net: NetName=NetC3_DI32_2 Pin=D1_DI32-2

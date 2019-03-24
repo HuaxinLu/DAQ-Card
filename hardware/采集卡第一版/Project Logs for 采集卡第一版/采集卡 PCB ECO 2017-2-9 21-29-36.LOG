@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=AGND_1 Pin=C158-2
+Removed Pin From Net: NetName=AGND_1 Pin=C160-2
+Removed Pin From Net: NetName=AGND_1 Pin=C162-2
+Removed Pin From Net: NetName=AGND_1 Pin=C164-2
+Removed Pin From Net: NetName=AGND_1 Pin=C166-2
+Removed Pin From Net: NetName=AGND_1 Pin=C168-2
+Removed Pin From Net: NetName=AGND_1 Pin=C170-2
+Removed Pin From Net: NetName=AGND_1 Pin=C172-2
+Removed Pin From Net: NetName=AGND_1 Pin=U2-15
+Removed Pin From Net: NetName=AGND_1 Pin=U3-15
+Removed Pin From Net: NetName=AGND_1 Pin=U4-15
+Removed Pin From Net: NetName=AGND_1 Pin=U5-15
+Removed Pin From Net: NetName=AGND_1 Pin=U6-15
+Removed Pin From Net: NetName=AGND_1 Pin=U7-15
+Removed Pin From Net: NetName=AGND_1 Pin=U8-15
+Removed Pin From Net: NetName=AGND_1 Pin=U9-15
+Added Component: Designator=D21(LED-0805)
+Added Component: Designator=D22(LED-0805)
+Added Component: Designator=D23(LED-0805)
+Added Component: Designator=R14(0805R)
+Added Component: Designator=R161(0805R)
+Added Component: Designator=R162(0805R)
+Added Pin To Net: NetName=GND_FC1 Pin=C158-2
+Added Pin To Net: NetName=GND_FC1 Pin=C160-2
+Added Pin To Net: NetName=GND_FC1 Pin=C162-2
+Added Pin To Net: NetName=GND_FC1 Pin=C164-2
+Added Pin To Net: NetName=GND_FC1 Pin=C166-2
+Added Pin To Net: NetName=GND_FC1 Pin=C168-2
+Added Pin To Net: NetName=GND_FC1 Pin=C170-2
+Added Pin To Net: NetName=GND_FC1 Pin=C172-2
+Added Pin To Net: NetName=GND Pin=D21-2
+Added Pin To Net: NetName=GND Pin=D22-2
+Added Pin To Net: NetName=GND Pin=D23-2
+Added Pin To Net: NetName=GND_FC1 Pin=U2-3
+Added Pin To Net: NetName=GND_FC1 Pin=U2-15
+Added Pin To Net: NetName=GND_FC1 Pin=U3-3
+Added Pin To Net: NetName=GND_FC1 Pin=U3-15
+Added Pin To Net: NetName=GND_FC1 Pin=U4-3
+Added Pin To Net: NetName=GND_FC1 Pin=U4-15
+Added Pin To Net: NetName=GND_FC1 Pin=U5-3
+Added Pin To Net: NetName=GND_FC1 Pin=U5-15
+Added Pin To Net: NetName=GND_FC1 Pin=U6-3
+Added Pin To Net: NetName=GND_FC1 Pin=U6-15
+Added Pin To Net: NetName=GND_FC1 Pin=U7-3
+Added Pin To Net: NetName=GND_FC1 Pin=U7-15
+Added Pin To Net: NetName=GND_FC1 Pin=U8-3
+Added Pin To Net: NetName=GND_FC1 Pin=U8-15
+Added Pin To Net: NetName=GND_FC1 Pin=U9-3
+Added Pin To Net: NetName=GND_FC1 Pin=U9-15
+Added Pin To Net: NetName=LED1 Pin=R14-1
+Added Pin To Net: NetName=LED1 Pin=U19-32
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R161-1
+Added Pin To Net: NetName=LED2 Pin=U19-33
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=R162-1
+Added Pin To Net: NetName=LED3 Pin=U19-34
+Added Net: Name=LED3
+Added Pin To Net: NetName=NetD21_1 Pin=D21-1
+Added Pin To Net: NetName=NetD21_1 Pin=R14-2
+Added Net: Name=NetD21_1
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=NetD22_1 Pin=R161-2
+Added Net: Name=NetD22_1
+Added Pin To Net: NetName=NetD23_1 Pin=D23-1
+Added Pin To Net: NetName=NetD23_1 Pin=R162-2
+Added Net: Name=NetD23_1
+Added Member To Class: ClassName=U_数字部分 Member=Component D21 LED0
+Added Member To Class: ClassName=U_数字部分 Member=Component D22 LED0
+Added Member To Class: ClassName=U_数字部分 Member=Component D23 LED0
+Added Member To Class: ClassName=U_数字部分 Member=Component R14 4.7k
+Added Member To Class: ClassName=U_数字部分 Member=Component R161 4.7k
+Added Member To Class: ClassName=U_数字部分 Member=Component R162 4.7k

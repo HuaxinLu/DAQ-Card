@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND_0 Pin=C350-1
+Removed Pin From Net: NetName=24V Pin=C350-2
+Removed Member From Class: ClassName=U_电源 Member=C350
+Added Component: Designator=C35(C1210)
+Added Component: Designator=C42(SMD-EC-F8)
+Added Component: Designator=C60(0805C)
+Added Component: Designator=C600(3216)
+Added Component: Designator=C610(3216)
+Added Component: Designator=R35(0805R)
+Added Pin To Net: NetName=GND_0 Pin=C35-1
+Added Pin To Net: NetName=24V Pin=C35-2
+Added Pin To Net: NetName=GND_0 Pin=C42-1
+Added Pin To Net: NetName=6V_0 Pin=C42-2
+Added Pin To Net: NetName=5V_0 Pin=C60-1
+Added Pin To Net: NetName=GND_0 Pin=C60-2
+Added Pin To Net: NetName=NetC600_1 Pin=C600-1
+Added Pin To Net: NetName=GND_1 Pin=C600-2
+Added Pin To Net: NetName=-5V_1 Pin=C610-1
+Added Pin To Net: NetName=GND_1 Pin=C610-2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=GND_1 Pin=R35-2
+Added Member To Class: ClassName=U_电源 Member=Component C35 Cap
+Added Member To Class: ClassName=U_电源 Member=Component C42 Cap
+Added Member To Class: ClassName=U_电源 Member=Component C60 Cap
+Added Member To Class: ClassName=U_电源 Member=Component C600 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component C610 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component R35 Res2
+Added Room: Name=U_电源

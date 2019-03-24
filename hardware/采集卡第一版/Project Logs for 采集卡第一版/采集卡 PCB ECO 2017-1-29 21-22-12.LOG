@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=C35 NewDesignator=C350
+Added Component: Designator=C420(SMD-EC-F8)
+Added Component: Designator=C600(3216)
+Added Component: Designator=C610(3216)
+Added Component: Designator=C630(0805C)
+Added Component: Designator=R35(0805R)
+Added Pin To Net: NetName=GND_0 Pin=C420-1
+Added Pin To Net: NetName=6V_0 Pin=C420-2
+Added Pin To Net: NetName=GND_1 Pin=C600-2
+Added Pin To Net: NetName=-5V_1 Pin=C610-1
+Added Pin To Net: NetName=GND_1 Pin=C610-2
+Added Pin To Net: NetName=5V_0 Pin=C630-1
+Added Pin To Net: NetName=GND_0 Pin=C630-2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=GND_1 Pin=R35-2
+Added Pin To Net: NetName=NetC600_1 Pin=C600-1
+Added Pin To Net: NetName=NetC600_1 Pin=R33-1
+Added Pin To Net: NetName=NetC600_1 Pin=U16-5
+Added Net: Name=NetC600_1
+Added Member To Class: ClassName=U_电源 Member=Component C420 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component C600 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component C610 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component C630 Cap
+Added Member To Class: ClassName=U_电源 Member=Component R35 Res2
+Added Room: Name=U_电源

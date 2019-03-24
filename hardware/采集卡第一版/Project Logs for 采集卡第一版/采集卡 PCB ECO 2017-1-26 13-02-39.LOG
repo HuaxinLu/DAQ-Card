@@ -1,0 +1,146 @@
+Added Component: Designator=C1_DI1(0603AC)
+Added Component: Designator=C1_DI2(0603AC)
+Added Component: Designator=C2_DI1(0603AC)
+Added Component: Designator=C2_DI2(0603AC)
+Added Component: Designator=C3_DI1(0603AC)
+Added Component: Designator=C3_DI2(0603AC)
+Added Component: Designator=C4_DI1(0603AC)
+Added Component: Designator=C4_DI2(0603AC)
+Added Component: Designator=C5_DI1(0603AC)
+Added Component: Designator=C5_DI2(0603AC)
+Added Component: Designator=C6_DI1(0603AC)
+Added Component: Designator=C6_DI2(0603AC)
+Added Component: Designator=C7_DI1(0603AC)
+Added Component: Designator=C7_DI2(0603AC)
+Added Component: Designator=C8_DI1(0603AC)
+Added Component: Designator=C8_DI2(0603AC)
+Added Component: Designator=C9_DI1(0603AC)
+Added Component: Designator=C9_DI2(0603AC)
+Added Component: Designator=D1_DI1(SMA)
+Added Component: Designator=D1_DI2(SMA)
+Added Component: Designator=DB1(DB37)
+Added Component: Designator=R1_DI1(0603AR)
+Added Component: Designator=R1_DI2(0603AR)
+Added Component: Designator=R2_DI1(0603AR)
+Added Component: Designator=R2_DI2(0603AR)
+Added Component: Designator=R3_DI1(0603AR)
+Added Component: Designator=R3_DI2(0603AR)
+Added Component: Designator=R4_DI1(0603AR)
+Added Component: Designator=R4_DI2(0603AR)
+Added Component: Designator=R5_DI1(0603AR)
+Added Component: Designator=R5_DI2(0603AR)
+Added Component: Designator=R6_DI1(0603AR)
+Added Component: Designator=R6_DI2(0603AR)
+Added Component: Designator=R7_DI1(0603AR)
+Added Component: Designator=R7_DI2(0603AR)
+Added Component: Designator=U1_DI1(SO8_M)
+Added Component: Designator=U1_DI2(SO8_M)
+Added Pin To Net: NetName=GND_1 Pin=C1_DI1-2
+Added Pin To Net: NetName=GND_1 Pin=C1_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=C5_DI1-1
+Added Pin To Net: NetName=GND_1 Pin=C5_DI2-1
+Added Pin To Net: NetName=GND_1 Pin=C6_DI1-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI1-2
+Added Pin To Net: NetName=GND_1 Pin=C6_DI2-1
+Added Pin To Net: NetName=-5V_1 Pin=C6_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI1-1
+Added Pin To Net: NetName=-5V_1 Pin=C7_DI1-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI2-1
+Added Pin To Net: NetName=-5V_1 Pin=C7_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=C8_DI1-1
+Added Pin To Net: NetName=GND_1 Pin=C8_DI2-1
+Added Pin To Net: NetName=GND_1 Pin=C9_DI1-1
+Added Pin To Net: NetName=GND_1 Pin=C9_DI2-1
+Added Pin To Net: NetName=GND_1 Pin=R7_DI1-1
+Added Pin To Net: NetName=GND_1 Pin=R7_DI2-1
+Added Pin To Net: NetName=-5V_1 Pin=U1_DI1-2
+Added Pin To Net: NetName=GND_1 Pin=U1_DI1-3
+Added Pin To Net: NetName=+5V_1 Pin=U1_DI1-7
+Added Pin To Net: NetName=-5V_1 Pin=U1_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=U1_DI2-3
+Added Pin To Net: NetName=+5V_1 Pin=U1_DI2-7
+Added Pin To Net: NetName=CELL_L Pin=C2_DI1-2
+Added Pin To Net: NetName=CELL_L Pin=C2_DI2-2
+Added Pin To Net: NetName=CELL_L Pin=R1_DI1-2
+Added Pin To Net: NetName=CELL_L Pin=R1_DI2-2
+Added Net: Name=CELL_L
+Added Pin To Net: NetName=NetC1_DI1_1 Pin=C1_DI1-1
+Added Pin To Net: NetName=NetC1_DI1_1 Pin=C4_DI1-2
+Added Pin To Net: NetName=NetC1_DI1_1 Pin=R2_DI1-1
+Added Pin To Net: NetName=NetC1_DI1_1 Pin=U1_DI1-8
+Added Net: Name=NetC1_DI1_1
+Added Pin To Net: NetName=NetC1_DI2_1 Pin=C1_DI2-1
+Added Pin To Net: NetName=NetC1_DI2_1 Pin=C4_DI2-2
+Added Pin To Net: NetName=NetC1_DI2_1 Pin=R2_DI2-1
+Added Pin To Net: NetName=NetC1_DI2_1 Pin=U1_DI2-8
+Added Net: Name=NetC1_DI2_1
+Added Pin To Net: NetName=NetC2_DI1_1 Pin=C2_DI1-1
+Added Pin To Net: NetName=NetC2_DI1_1 Pin=C2_DI2-1
+Added Pin To Net: NetName=NetC2_DI1_1 Pin=R3_DI1-2
+Added Pin To Net: NetName=NetC2_DI1_1 Pin=R3_DI2-2
+Added Net: Name=NetC2_DI1_1
+Added Pin To Net: NetName=NetC3_DI1_1 Pin=C3_DI1-1
+Added Pin To Net: NetName=NetC3_DI1_1 Pin=D1_DI1-2
+Added Pin To Net: NetName=NetC3_DI1_1 Pin=R3_DI1-1
+Added Pin To Net: NetName=NetC3_DI1_1 Pin=R4_DI1-2
+Added Net: Name=NetC3_DI1_1
+Added Pin To Net: NetName=NetC3_DI1_2 Pin=C3_DI1-2
+Added Pin To Net: NetName=NetC3_DI1_2 Pin=D1_DI1-1
+Added Pin To Net: NetName=NetC3_DI1_2 Pin=R1_DI1-1
+Added Pin To Net: NetName=NetC3_DI1_2 Pin=R2_DI1-2
+Added Net: Name=NetC3_DI1_2
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=C3_DI2-1
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=D1_DI2-2
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=R3_DI2-1
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=R4_DI2-2
+Added Net: Name=NetC3_DI2_1
+Added Pin To Net: NetName=NetC3_DI2_2 Pin=C3_DI2-2
+Added Pin To Net: NetName=NetC3_DI2_2 Pin=D1_DI2-1
+Added Pin To Net: NetName=NetC3_DI2_2 Pin=R1_DI2-1
+Added Pin To Net: NetName=NetC3_DI2_2 Pin=R2_DI2-2
+Added Net: Name=NetC3_DI2_2
+Added Pin To Net: NetName=NetC4_DI1_1 Pin=C4_DI1-1
+Added Pin To Net: NetName=NetC4_DI1_1 Pin=C5_DI1-2
+Added Pin To Net: NetName=NetC4_DI1_1 Pin=R4_DI1-1
+Added Pin To Net: NetName=NetC4_DI1_1 Pin=U1_DI1-1
+Added Net: Name=NetC4_DI1_1
+Added Pin To Net: NetName=NetC4_DI2_1 Pin=C4_DI2-1
+Added Pin To Net: NetName=NetC4_DI2_1 Pin=C5_DI2-2
+Added Pin To Net: NetName=NetC4_DI2_1 Pin=R4_DI2-1
+Added Pin To Net: NetName=NetC4_DI2_1 Pin=U1_DI2-1
+Added Net: Name=NetC4_DI2_1
+Added Pin To Net: NetName=NetC8_DI1_2 Pin=C8_DI1-2
+Added Pin To Net: NetName=NetC8_DI1_2 Pin=U1_DI1-4
+Added Net: Name=NetC8_DI1_2
+Added Pin To Net: NetName=NetC8_DI2_2 Pin=C8_DI2-2
+Added Pin To Net: NetName=NetC8_DI2_2 Pin=U1_DI2-4
+Added Net: Name=NetC8_DI2_2
+Added Pin To Net: NetName=NetC9_DI1_2 Pin=C9_DI1-2
+Added Pin To Net: NetName=NetC9_DI1_2 Pin=C9_DI2-2
+Added Pin To Net: NetName=NetC9_DI1_2 Pin=R6_DI1-1
+Added Pin To Net: NetName=NetC9_DI1_2 Pin=R6_DI2-1
+Added Net: Name=NetC9_DI1_2
+Added Pin To Net: NetName=NetR5_DI1_1 Pin=R5_DI1-1
+Added Pin To Net: NetName=NetR5_DI1_1 Pin=R6_DI1-2
+Added Pin To Net: NetName=NetR5_DI1_1 Pin=R7_DI1-2
+Added Pin To Net: NetName=NetR5_DI1_1 Pin=U1_DI1-5
+Added Net: Name=NetR5_DI1_1
+Added Pin To Net: NetName=NetR5_DI1_2 Pin=R5_DI1-2
+Added Pin To Net: NetName=NetR5_DI1_2 Pin=U1_DI1-6
+Added Net: Name=NetR5_DI1_2
+Added Pin To Net: NetName=NetR5_DI2_1 Pin=R5_DI2-1
+Added Pin To Net: NetName=NetR5_DI2_1 Pin=R6_DI2-2
+Added Pin To Net: NetName=NetR5_DI2_1 Pin=R7_DI2-2
+Added Pin To Net: NetName=NetR5_DI2_1 Pin=U1_DI2-5
+Added Net: Name=NetR5_DI2_1
+Added Pin To Net: NetName=NetR5_DI2_2 Pin=R5_DI2-2
+Added Pin To Net: NetName=NetR5_DI2_2 Pin=U1_DI2-6
+Added Net: Name=NetR5_DI2_2
+Added Class: Name=DI1
+Added Class: Name=DI2
+Added Class: Name=CELL_L[1..2]
+Added Class: Name=AD628Ä£¿é
+Added Member To Class: ClassName=µç³ØµçÑ¹¼ì²â Member=Component DB1 DB37
+Added Room: Name=DI1
+Added Room: Name=DI2
+Added Room: Name=µç³ØµçÑ¹¼ì²â

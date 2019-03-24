@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=AGND_1 Pin=C2-2
+Added Pin To Net: NetName=AGND_1 Pin=SW1-1
+Added Pin To Net: NetName=AGND_1 Pin=SW1-3
+Added Pin To Net: NetName=AGND_1 Pin=SW1-5
+Added Pin To Net: NetName=AGND_1 Pin=U1-8
+Added Pin To Net: NetName=AGND_1 Pin=U1-16
+Added Pin To Net: NetName=AGND_1 Pin=U10-9
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

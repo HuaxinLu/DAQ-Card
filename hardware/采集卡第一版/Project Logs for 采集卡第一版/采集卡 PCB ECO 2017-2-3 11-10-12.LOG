@@ -1,0 +1,26 @@
+Added Component: Designator=C3(0805C)
+Added Component: Designator=C4(0805C)
+Added Component: Designator=C5(0805C)
+Added Component: Designator=C6(3216)
+Added Component: Designator=C7(0805C)
+Added Component: Designator=U21(SOT-23-5)
+Added Pin To Net: NetName=GND_2 Pin=C3-1
+Added Pin To Net: NetName=+6V_2 Pin=C3-2
+Added Pin To Net: NetName=GND_2 Pin=C4-1
+Added Pin To Net: NetName=+6V_2 Pin=C4-2
+Added Pin To Net: NetName=GND_2 Pin=C5-1
+Added Pin To Net: NetName=+6V_2 Pin=C5-2
+Added Pin To Net: NetName=+5V_2 Pin=C6-1
+Added Pin To Net: NetName=GND_2 Pin=C6-2
+Added Pin To Net: NetName=+5V_2 Pin=C7-1
+Added Pin To Net: NetName=GND_2 Pin=C7-2
+Added Pin To Net: NetName=+6V_2 Pin=U21-1
+Added Pin To Net: NetName=GND_2 Pin=U21-2
+Added Pin To Net: NetName=+6V_2 Pin=U21-3
+Added Pin To Net: NetName=+5V_2 Pin=U21-5
+Added Member To Class: ClassName=U_电源 Member=Component C3 1uF
+Added Member To Class: ClassName=U_电源 Member=Component C4 1uF
+Added Member To Class: ClassName=U_电源 Member=Component C5 1uF
+Added Member To Class: ClassName=U_电源 Member=Component C6 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component C7 1uF
+Added Member To Class: ClassName=U_电源 Member=Component U21 ADP7118

@@ -1,0 +1,18 @@
+Added Component: Designator=R133(0603AR)
+Added Component: Designator=R134(0603AR)
+Added Pin To Net: NetName=GND Pin=U49-2
+Added Pin To Net: NetName=GND Pin=U53-2
+Added Pin To Net: NetName=NetR133_2 Pin=R133-2
+Added Pin To Net: NetName=NetR133_2 Pin=U19-78
+Added Net: Name=NetR133_2
+Added Pin To Net: NetName=NetR134_2 Pin=R134-2
+Added Pin To Net: NetName=NetR134_2 Pin=U19-77
+Added Net: Name=NetR134_2
+Added Pin To Net: NetName=PWM3 Pin=R134-1
+Added Pin To Net: NetName=PWM3 Pin=U49-1
+Added Net: Name=PWM3
+Added Pin To Net: NetName=PWM4 Pin=R133-1
+Added Pin To Net: NetName=PWM4 Pin=U53-1
+Added Net: Name=PWM4
+Added Member To Class: ClassName=U_数字部分 Member=Component R133 Res2
+Added Member To Class: ClassName=U_数字部分 Member=Component R134 Res2

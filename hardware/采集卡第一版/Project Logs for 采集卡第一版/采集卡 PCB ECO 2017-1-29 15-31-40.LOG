@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND_0 Pin=J1-1A
+Removed Pin From Net: NetName=GND_0 Pin=J1-1B
+Removed Pin From Net: NetName=GND_0 Pin=J1-1
+Removed Pin From Net: NetName=VIN Pin=J1-2A
+Removed Pin From Net: NetName=VIN Pin=J1-2B
+Removed Pin From Net: NetName=VIN Pin=J1-2
+Removed Pin From Net: NetName=GND_0 Pin=J1-3A
+Removed Pin From Net: NetName=GND_0 Pin=J1-3B
+Change Component DesignItemId : Designator=J1 Old DesignItemId=PWR2.5 New DesignItemId=Header 3
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X2 New Footprint=HT3.96-2P
+Change Component Footprint: Designator=J1 Old Footprint=KLD-0202 New Footprint=DC-005A
+Change Component Comment : Designator=J1 Old Comment=PWR2.5 New Comment=Header 3
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=GND_0 Pin=J1-2
+Added Room: Name=U_µÁ≥ÿµÁ—πºÏ≤‚

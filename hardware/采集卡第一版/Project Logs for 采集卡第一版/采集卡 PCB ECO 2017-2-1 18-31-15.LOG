@@ -1,0 +1,48 @@
+Added Component: Designator=U31(SOIC20)
+Added Component: Designator=U32(SOT-23-5)
+Added Component: Designator=U33(SOT-23-5)
+Added Component: Designator=U34(SOT-23-5)
+Added Component: Designator=U35(SOT-23-5)
+Added Component: Designator=U36(SOT-23-5)
+Added Pin To Net: NetName=DGND Pin=U31-1
+Added Pin To Net: NetName=DGND Pin=U31-3
+Added Pin To Net: NetName=DGND Pin=U31-7
+Added Pin To Net: NetName=DGND Pin=U31-9
+Added Pin To Net: NetName=DGND Pin=U31-10
+Added Pin To Net: NetName=DGND_2 Pin=U31-11
+Added Pin To Net: NetName=DGND_2 Pin=U31-13
+Added Pin To Net: NetName=DGND_2 Pin=U31-16
+Added Pin To Net: NetName=DGND_2 Pin=U31-20
+Added Pin To Net: NetName=DGND Pin=U32-3
+Added Pin To Net: NetName=3.3V Pin=U32-5
+Added Pin To Net: NetName=DGND Pin=U33-3
+Added Pin To Net: NetName=3.3V Pin=U33-5
+Added Pin To Net: NetName=DGND Pin=U34-3
+Added Pin To Net: NetName=3.3V Pin=U34-5
+Added Pin To Net: NetName=DGND Pin=U35-3
+Added Pin To Net: NetName=3.3V Pin=U35-5
+Added Pin To Net: NetName=DGND Pin=U36-3
+Added Pin To Net: NetName=3.3V Pin=U36-5
+Added Pin To Net: NetName=NetU32_1 Pin=U32-1
+Added Pin To Net: NetName=NetU32_1 Pin=U32-4
+Added Net: Name=NetU32_1
+Added Pin To Net: NetName=NetU33_1 Pin=U33-1
+Added Pin To Net: NetName=NetU33_1 Pin=U33-4
+Added Net: Name=NetU33_1
+Added Pin To Net: NetName=NetU34_1 Pin=U34-1
+Added Pin To Net: NetName=NetU34_1 Pin=U34-4
+Added Net: Name=NetU34_1
+Added Pin To Net: NetName=NetU35_1 Pin=U35-1
+Added Pin To Net: NetName=NetU35_1 Pin=U35-4
+Added Net: Name=NetU35_1
+Added Member To Class: ClassName=U_数字部分 Member=Component U31 ADM3503
+Added Member To Class: ClassName=U_数字部分 Member=Component U32 D触发器
+Added Member To Class: ClassName=U_数字部分 Member=Component U33 D触发器
+Added Member To Class: ClassName=U_数字部分 Member=Component U34 D触发器
+Added Member To Class: ClassName=U_数字部分 Member=Component U35 D触发器
+Added Member To Class: ClassName=U_数字部分 Member=Component U36 非门
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

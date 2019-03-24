@@ -1,0 +1,16 @@
+Added Component: Designator=C146(3216)
+Added Component: Designator=C194(3216)
+Added Component: Designator=C195(3216)
+Added Component: Designator=C196(3216)
+Added Pin To Net: NetName=AVCC_1 Pin=C146-1
+Added Pin To Net: NetName=AGND_1 Pin=C146-2
+Added Pin To Net: NetName=AVCC_1 Pin=C194-1
+Added Pin To Net: NetName=AGND_1 Pin=C194-2
+Added Pin To Net: NetName=AVCC_1 Pin=C195-1
+Added Pin To Net: NetName=AGND_1 Pin=C195-2
+Added Pin To Net: NetName=AVCC_1 Pin=C196-1
+Added Pin To Net: NetName=AGND_1 Pin=C196-2
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C146 Cap Pol1
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C194 Cap Pol1
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C195 Cap Pol1
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C196 Cap Pol1

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=DGND_2 Pin=U22-9
+Removed Pin From Net: NetName=DGND_2 Pin=U22-15
+Removed Pin From Net: NetName=+6V_2 Pin=U22-16
+Added Component: Designator=R169(0603AR)
+Added Component: Designator=R170(0603AR)
+Added Component: Designator=R171(0805R)
+Added Pin To Net: NetName=+6V_2 Pin=R169-1
+Added Pin To Net: NetName=DGND_2 Pin=R170-1
+Added Pin To Net: NetName=DGND_2 Pin=R171-2
+Added Pin To Net: NetName=NetR169_2 Pin=R169-2
+Added Pin To Net: NetName=NetR169_2 Pin=U22-16
+Added Net: Name=NetR169_2
+Added Pin To Net: NetName=NetR170_2 Pin=R170-2
+Added Pin To Net: NetName=NetR170_2 Pin=U22-15
+Added Net: Name=NetR170_2
+Added Pin To Net: NetName=NetR171_1 Pin=R171-1
+Added Pin To Net: NetName=NetR171_1 Pin=U22-9
+Added Net: Name=NetR171_1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R169 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R170 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R171 Res2

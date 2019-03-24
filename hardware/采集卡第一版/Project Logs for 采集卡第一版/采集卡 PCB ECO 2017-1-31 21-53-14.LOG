@@ -1,0 +1,262 @@
+Added Component: Designator=A5(RCA03-4D)
+Added Component: Designator=A6(RCA03-4D)
+Added Component: Designator=A7(RCA03-4D)
+Added Component: Designator=A8(RCA03-4D)
+Added Component: Designator=C134(0805C)
+Added Component: Designator=C135(0805C)
+Added Component: Designator=C136(0805C)
+Added Component: Designator=C137(0805C)
+Added Component: Designator=C138(0805C)
+Added Component: Designator=C139(0805C)
+Added Component: Designator=C140(0805C)
+Added Component: Designator=C141(0805C)
+Added Component: Designator=C142(3216)
+Added Component: Designator=C143(3216)
+Added Component: Designator=C144(3216)
+Added Component: Designator=C145(3216)
+Added Component: Designator=C146(3216)
+Added Component: Designator=C147(3216)
+Added Component: Designator=C148(3216)
+Added Component: Designator=C149(3216)
+Added Component: Designator=C150(3216)
+Added Component: Designator=C151(1812)
+Added Component: Designator=C152(3216)
+Added Component: Designator=C153(0805C)
+Added Component: Designator=R106(0805R)
+Added Component: Designator=R107(0805R)
+Added Component: Designator=R108(0805R)
+Added Component: Designator=R109(0805R)
+Added Component: Designator=R110(0805R)
+Added Component: Designator=R111(0805R)
+Added Component: Designator=R112(0805R)
+Added Component: Designator=R113(0805R)
+Added Component: Designator=R114(0805R)
+Added Component: Designator=R115(0805R)
+Added Component: Designator=R116(0805R)
+Added Component: Designator=R117(0805R)
+Added Component: Designator=SW2(SW_6)
+Added Component: Designator=U27(TQFP64)
+Added Component: Designator=U28(SO16NB)
+Added Component: Designator=U29(SOP8)
+Added Pin To Net: NetName=AGND_2 Pin=C142-2
+Added Pin To Net: NetName=AGND_2 Pin=C143-2
+Added Pin To Net: NetName=AGND_2 Pin=C144-2
+Added Pin To Net: NetName=AGND_2 Pin=C145-2
+Added Pin To Net: NetName=AGND_2 Pin=C146-2
+Added Pin To Net: NetName=AGND_2 Pin=C147-2
+Added Pin To Net: NetName=AGND_2 Pin=C148-2
+Added Pin To Net: NetName=AGND_2 Pin=C149-2
+Added Pin To Net: NetName=AGND_2 Pin=C150-2
+Added Pin To Net: NetName=AGND_2 Pin=C151-1
+Added Pin To Net: NetName=AGND_2 Pin=C152-2
+Added Pin To Net: NetName=AGND_2 Pin=C153-1
+Added Pin To Net: NetName=AGND_2 Pin=R112-2
+Added Pin To Net: NetName=AGND_2 Pin=R115-1
+Added Pin To Net: NetName=AGND_2 Pin=U27-2
+Added Pin To Net: NetName=AGND_2 Pin=U27-17
+Added Pin To Net: NetName=AGND_2 Pin=U27-18
+Added Pin To Net: NetName=AGND_2 Pin=U27-19
+Added Pin To Net: NetName=AGND_2 Pin=U27-20
+Added Pin To Net: NetName=AGND_2 Pin=U27-21
+Added Pin To Net: NetName=AGND_2 Pin=U27-22
+Added Pin To Net: NetName=AGND_2 Pin=U27-26
+Added Pin To Net: NetName=AGND_2 Pin=U27-27
+Added Pin To Net: NetName=AGND_2 Pin=U27-28
+Added Pin To Net: NetName=AGND_2 Pin=U27-29
+Added Pin To Net: NetName=AGND_2 Pin=U27-30
+Added Pin To Net: NetName=AGND_2 Pin=U27-31
+Added Pin To Net: NetName=AGND_2 Pin=U27-32
+Added Pin To Net: NetName=AGND_2 Pin=U27-33
+Added Pin To Net: NetName=AGND_2 Pin=U27-35
+Added Pin To Net: NetName=AGND_2 Pin=U27-40
+Added Pin To Net: NetName=AGND_2 Pin=U27-41
+Added Pin To Net: NetName=AGND_2 Pin=U27-43
+Added Pin To Net: NetName=AGND_2 Pin=U27-46
+Added Pin To Net: NetName=AGND_2 Pin=U27-47
+Added Pin To Net: NetName=AGND_2 Pin=U29-4
+Added Pin To Net: NetName=AVCC_2 Pin=C142-1
+Added Pin To Net: NetName=AVCC_2 Pin=C143-1
+Added Pin To Net: NetName=AVCC_2 Pin=C144-1
+Added Pin To Net: NetName=AVCC_2 Pin=C145-1
+Added Pin To Net: NetName=AVCC_2 Pin=C150-1
+Added Pin To Net: NetName=AVCC_2 Pin=C151-2
+Added Pin To Net: NetName=AVCC_2 Pin=U27-1
+Added Pin To Net: NetName=AVCC_2 Pin=U27-37
+Added Pin To Net: NetName=AVCC_2 Pin=U27-38
+Added Pin To Net: NetName=AVCC_2 Pin=U27-48
+Added Pin To Net: NetName=AVCC_2 Pin=U29-2
+Added Net: Name=AVCC_2
+Added Pin To Net: NetName=BUSY_1 Pin=U27-14
+Added Net: Name=BUSY_1
+Added Pin To Net: NetName=CLK_1 Pin=U27-12
+Added Net: Name=CLK_1
+Added Pin To Net: NetName=CONV_1 Pin=U27-9
+Added Pin To Net: NetName=CONV_1 Pin=U27-10
+Added Net: Name=CONV_1
+Added Pin To Net: NetName=CS_1 Pin=U27-13
+Added Net: Name=CS_1
+Added Pin To Net: NetName=DGND_2 Pin=R111-2
+Added Pin To Net: NetName=DGND_2 Pin=SW2-1
+Added Pin To Net: NetName=DGND_2 Pin=SW2-3
+Added Pin To Net: NetName=DGND_2 Pin=SW2-5
+Added Net: Name=DGND_2
+Added Pin To Net: NetName=DO_1 Pin=R113-1
+Added Pin To Net: NetName=DO_1 Pin=R114-1
+Added Net: Name=DO_1
+Added Pin To Net: NetName=DOUTA_1 Pin=R113-2
+Added Pin To Net: NetName=DOUTA_1 Pin=U27-24
+Added Net: Name=DOUTA_1
+Added Pin To Net: NetName=DOUTB_1 Pin=R114-2
+Added Pin To Net: NetName=DOUTB_1 Pin=U27-25
+Added Net: Name=DOUTB_1
+Added Pin To Net: NetName=DVCC_2 Pin=R106-1
+Added Pin To Net: NetName=DVCC_2 Pin=R107-1
+Added Pin To Net: NetName=DVCC_2 Pin=R108-1
+Added Pin To Net: NetName=DVCC_2 Pin=R109-2
+Added Pin To Net: NetName=DVCC_2 Pin=R110-2
+Added Pin To Net: NetName=DVCC_2 Pin=R116-1
+Added Pin To Net: NetName=DVCC_2 Pin=U27-23
+Added Net: Name=DVCC_2
+Added Pin To Net: NetName=NetA5_2 Pin=A5-2
+Added Pin To Net: NetName=NetA5_2 Pin=C134-2
+Added Net: Name=NetA5_2
+Added Pin To Net: NetName=NetA5_4 Pin=A5-4
+Added Pin To Net: NetName=NetA5_4 Pin=C134-1
+Added Net: Name=NetA5_4
+Added Pin To Net: NetName=NetA5_6 Pin=A5-6
+Added Pin To Net: NetName=NetA5_6 Pin=C136-2
+Added Net: Name=NetA5_6
+Added Pin To Net: NetName=NetA5_8 Pin=A5-8
+Added Pin To Net: NetName=NetA5_8 Pin=C136-1
+Added Net: Name=NetA5_8
+Added Pin To Net: NetName=NetA6_2 Pin=A6-2
+Added Pin To Net: NetName=NetA6_2 Pin=C135-2
+Added Net: Name=NetA6_2
+Added Pin To Net: NetName=NetA6_4 Pin=A6-4
+Added Pin To Net: NetName=NetA6_4 Pin=C135-1
+Added Net: Name=NetA6_4
+Added Pin To Net: NetName=NetA6_6 Pin=A6-6
+Added Pin To Net: NetName=NetA6_6 Pin=C137-2
+Added Net: Name=NetA6_6
+Added Pin To Net: NetName=NetA6_8 Pin=A6-8
+Added Pin To Net: NetName=NetA6_8 Pin=C137-1
+Added Net: Name=NetA6_8
+Added Pin To Net: NetName=NetA7_2 Pin=A7-2
+Added Pin To Net: NetName=NetA7_2 Pin=C138-2
+Added Net: Name=NetA7_2
+Added Pin To Net: NetName=NetA7_4 Pin=A7-4
+Added Pin To Net: NetName=NetA7_4 Pin=C138-1
+Added Net: Name=NetA7_4
+Added Pin To Net: NetName=NetA7_6 Pin=A7-6
+Added Pin To Net: NetName=NetA7_6 Pin=C140-2
+Added Net: Name=NetA7_6
+Added Pin To Net: NetName=NetA7_8 Pin=A7-8
+Added Pin To Net: NetName=NetA7_8 Pin=C140-1
+Added Net: Name=NetA7_8
+Added Pin To Net: NetName=NetA8_2 Pin=A8-2
+Added Pin To Net: NetName=NetA8_2 Pin=C139-2
+Added Net: Name=NetA8_2
+Added Pin To Net: NetName=NetA8_4 Pin=A8-4
+Added Pin To Net: NetName=NetA8_4 Pin=C139-1
+Added Net: Name=NetA8_4
+Added Pin To Net: NetName=NetA8_6 Pin=A8-6
+Added Pin To Net: NetName=NetA8_6 Pin=C141-2
+Added Net: Name=NetA8_6
+Added Pin To Net: NetName=NetA8_8 Pin=A8-8
+Added Pin To Net: NetName=NetA8_8 Pin=C141-1
+Added Net: Name=NetA8_8
+Added Pin To Net: NetName=NetC146_1 Pin=C146-1
+Added Pin To Net: NetName=NetC146_1 Pin=U27-45
+Added Net: Name=NetC146_1
+Added Pin To Net: NetName=NetC147_1 Pin=C147-1
+Added Pin To Net: NetName=NetC147_1 Pin=U27-44
+Added Net: Name=NetC147_1
+Added Pin To Net: NetName=NetC148_1 Pin=C148-1
+Added Pin To Net: NetName=NetC148_1 Pin=U27-39
+Added Net: Name=NetC148_1
+Added Pin To Net: NetName=NetC149_1 Pin=C149-1
+Added Pin To Net: NetName=NetC149_1 Pin=U27-36
+Added Net: Name=NetC149_1
+Added Pin To Net: NetName=NetC152_1 Pin=C152-1
+Added Pin To Net: NetName=NetC152_1 Pin=C153-2
+Added Pin To Net: NetName=NetC152_1 Pin=R117-2
+Added Pin To Net: NetName=NetC152_1 Pin=U29-6
+Added Net: Name=NetC152_1
+Added Pin To Net: NetName=NetR109_1 Pin=R109-1
+Added Pin To Net: NetName=NetR109_1 Pin=U27-6
+Added Net: Name=NetR109_1
+Added Pin To Net: NetName=NetR110_1 Pin=R110-1
+Added Pin To Net: NetName=NetR110_1 Pin=U27-7
+Added Net: Name=NetR110_1
+Added Pin To Net: NetName=NetR111_1 Pin=R111-1
+Added Pin To Net: NetName=NetR111_1 Pin=U27-8
+Added Net: Name=NetR111_1
+Added Pin To Net: NetName=NetR112_1 Pin=R112-1
+Added Pin To Net: NetName=NetR112_1 Pin=U27-16
+Added Net: Name=NetR112_1
+Added Pin To Net: NetName=OS0_1 Pin=R106-2
+Added Pin To Net: NetName=OS0_1 Pin=SW2-2
+Added Pin To Net: NetName=OS0_1 Pin=U27-3
+Added Net: Name=OS0_1
+Added Pin To Net: NetName=OS1_1 Pin=R107-2
+Added Pin To Net: NetName=OS1_1 Pin=SW2-4
+Added Pin To Net: NetName=OS1_1 Pin=U27-4
+Added Net: Name=OS1_1
+Added Pin To Net: NetName=OS2_1 Pin=R108-2
+Added Pin To Net: NetName=OS2_1 Pin=SW2-6
+Added Pin To Net: NetName=OS2_1 Pin=U27-5
+Added Net: Name=OS2_1
+Added Pin To Net: NetName=REFIN_1 Pin=R117-1
+Added Pin To Net: NetName=REFIN_1 Pin=U27-42
+Added Net: Name=REFIN_1
+Added Pin To Net: NetName=REFSEL_1 Pin=R115-2
+Added Pin To Net: NetName=REFSEL_1 Pin=R116-2
+Added Pin To Net: NetName=REFSEL_1 Pin=U27-34
+Added Net: Name=REFSEL_1
+Added Pin To Net: NetName=REST_1 Pin=U27-11
+Added Net: Name=REST_1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A5 排阻 51欧姆
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A6 排阻 51欧姆
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A7 排阻 51欧姆
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A8 排阻 51欧姆
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C134 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C135 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C136 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C137 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C138 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C139 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C140 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C141 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C142 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C143 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C144 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C145 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C146 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C147 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C148 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C149 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C150 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C151 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C152 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C153 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R106 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R107 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R108 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R109 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R110 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R111 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R112 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R113 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R114 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R115 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R116 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R117 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component SW2 Header 3X2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component U27 AD7606
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component U28 ADUM152
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component U29 REF5025
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

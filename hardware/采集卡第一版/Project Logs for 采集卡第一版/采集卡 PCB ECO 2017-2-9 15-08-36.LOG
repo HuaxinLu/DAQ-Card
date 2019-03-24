@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=URX2 Pin=P7-3
+Removed Pin From Net: NetName=UTX2 Pin=P7-4
+Added Pin To Net: NetName=UTX2 Pin=P7-3
+Added Pin To Net: NetName=URX2 Pin=P7-4

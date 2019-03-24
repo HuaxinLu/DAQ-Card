@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND_1 Pin=C39-1
+Removed Pin From Net: NetName=NetC67_1 Pin=C67-1
+Removed Pin From Net: NetName=-5V_1 Pin=C68-1
+Removed Pin From Net: NetName=-5V_1 Pin=C69-1
+Removed Pin From Net: NetName=-5V_1 Pin=R35-2
+Removed Pin From Net: NetName=NetC67_1 Pin=U14-5
+Change Component Designator: OldDesignator=C67 NewDesignator=C39
+Added Component: Designator=C67(3216)
+Added Component: Designator=C71(3216)
+Added Component: Designator=C72(0805C)
+Added Component: Designator=R36(0805R)
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=GND_1 Pin=C67-2
+Added Pin To Net: NetName=DVCC_1 Pin=C68-1
+Added Pin To Net: NetName=DVCC_1 Pin=C69-1
+Added Pin To Net: NetName=-5V_1 Pin=C71-1
+Added Pin To Net: NetName=GND_1 Pin=C71-2
+Added Pin To Net: NetName=-5V_1 Pin=C72-1
+Added Pin To Net: NetName=GND_1 Pin=C72-2
+Added Pin To Net: NetName=DVCC_1 Pin=R35-2
+Added Pin To Net: NetName=-5V_1 Pin=R36-2
+Added Pin To Net: NetName=NetC67_1 Pin=U12-18
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=R36-1
+Added Pin To Net: NetName=NetC39_1 Pin=U14-5
+Added Net: Name=NetC39_1
+Added Member To Class: ClassName=U_电源 Member=Component C71 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component C72 1uF
+Added Member To Class: ClassName=U_电源 Member=Component R36 Res2
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

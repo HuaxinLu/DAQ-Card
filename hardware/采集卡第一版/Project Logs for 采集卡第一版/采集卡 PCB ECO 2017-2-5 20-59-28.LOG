@@ -1,0 +1,38 @@
+Added Component: Designator=A4(RCA03-4D)
+Added Component: Designator=A17(RCA03-4D)
+Added Component: Designator=R130(0603AR)
+Added Pin To Net: NetName=5V_0 Pin=U22-1
+Added Pin To Net: NetName=GND Pin=U22-2
+Added Pin To Net: NetName=GND Pin=U22-8
+Added Pin To Net: NetName=5V_0 Pin=U28-1
+Added Pin To Net: NetName=GND Pin=U28-2
+Added Pin To Net: NetName=NetA4_2 Pin=A4-2
+Added Pin To Net: NetName=NetA4_2 Pin=U22-3
+Added Net: Name=NetA4_2
+Added Pin To Net: NetName=NetA4_4 Pin=A4-4
+Added Pin To Net: NetName=NetA4_4 Pin=U22-4
+Added Net: Name=NetA4_4
+Added Pin To Net: NetName=NetA4_6 Pin=A4-6
+Added Pin To Net: NetName=NetA4_6 Pin=U22-5
+Added Net: Name=NetA4_6
+Added Pin To Net: NetName=NetA4_8 Pin=A4-8
+Added Pin To Net: NetName=NetA4_8 Pin=U22-6
+Added Net: Name=NetA4_8
+Added Pin To Net: NetName=NetA17_2 Pin=A17-2
+Added Pin To Net: NetName=NetA17_2 Pin=U28-3
+Added Net: Name=NetA17_2
+Added Pin To Net: NetName=NetA17_4 Pin=A17-4
+Added Pin To Net: NetName=NetA17_4 Pin=U28-4
+Added Net: Name=NetA17_4
+Added Pin To Net: NetName=NetA17_6 Pin=A17-6
+Added Pin To Net: NetName=NetA17_6 Pin=U28-5
+Added Net: Name=NetA17_6
+Added Pin To Net: NetName=NetA17_8 Pin=A17-8
+Added Pin To Net: NetName=NetA17_8 Pin=U28-6
+Added Net: Name=NetA17_8
+Added Pin To Net: NetName=NetR130_1 Pin=R130-1
+Added Pin To Net: NetName=NetR130_1 Pin=U28-7
+Added Net: Name=NetR130_1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A4 排阻 51欧姆
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A17 排阻 51欧姆
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R130 Res2

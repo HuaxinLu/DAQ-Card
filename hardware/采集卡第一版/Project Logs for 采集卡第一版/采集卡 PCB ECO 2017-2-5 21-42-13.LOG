@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=DGND_2 Pin=U31-11
+Removed Pin From Net: NetName=DGND_2 Pin=U31-13
+Removed Pin From Net: NetName=DGND_2 Pin=U31-16
+Removed Pin From Net: NetName=DGND_2 Pin=U31-20
+Added Component: Designator=C179(0805C)
+Added Component: Designator=C180(0805C)
+Added Component: Designator=C181(0805C)
+Added Component: Designator=C182(0805C)
+Added Component: Designator=C183(0805C)
+Added Pin To Net: NetName=GND Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-2
+Added Pin To Net: NetName=GND Pin=C77-2
+Added Pin To Net: NetName=GND Pin=C78-2
+Added Pin To Net: NetName=GND Pin=C79-2
+Added Pin To Net: NetName=GND Pin=C80-2
+Added Pin To Net: NetName=GND Pin=C81-2
+Added Pin To Net: NetName=GND Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=GND Pin=C86-1
+Added Pin To Net: NetName=GND Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C179-1
+Added Pin To Net: NetName=3.3V Pin=C179-2
+Added Pin To Net: NetName=GND Pin=C180-1
+Added Pin To Net: NetName=3.3V Pin=C180-2
+Added Pin To Net: NetName=GND Pin=C181-1
+Added Pin To Net: NetName=3.3V Pin=C181-2
+Added Pin To Net: NetName=GND Pin=C182-1
+Added Pin To Net: NetName=3.3V Pin=C182-2
+Added Pin To Net: NetName=GND Pin=C183-1
+Added Pin To Net: NetName=3.3V Pin=C183-2
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=U18-1
+Added Pin To Net: NetName=GND Pin=U19-15
+Added Pin To Net: NetName=GND Pin=U19-45
+Added Pin To Net: NetName=GND Pin=U19-65
+Added Pin To Net: NetName=GND Pin=U19-75
+Added Pin To Net: NetName=GND Pin=U31-1
+Added Pin To Net: NetName=GND Pin=U31-3
+Added Pin To Net: NetName=GND Pin=U31-7
+Added Pin To Net: NetName=GND Pin=U31-9
+Added Pin To Net: NetName=GND Pin=U31-10
+Added Pin To Net: NetName=GND_2 Pin=U31-11
+Added Pin To Net: NetName=GND_2 Pin=U31-13
+Added Pin To Net: NetName=GND_2 Pin=U31-16
+Added Pin To Net: NetName=GND_2 Pin=U31-20
+Added Pin To Net: NetName=GND Pin=U32-3
+Added Pin To Net: NetName=GND Pin=U33-3
+Added Pin To Net: NetName=GND Pin=U34-3
+Added Pin To Net: NetName=GND Pin=U35-3
+Added Pin To Net: NetName=GND Pin=U36-3
+Added Pin To Net: NetName=GND Pin=USB-4
+Added Pin To Net: NetName=GND Pin=USB-6
+Added Pin To Net: NetName=GND Pin=USB-7
+Added Pin To Net: NetName=GND Pin=USB-8
+Added Pin To Net: NetName=GND Pin=USB-9
+Added Member To Class: ClassName=U_数字部分 Member=Component C179 104
+Added Member To Class: ClassName=U_数字部分 Member=Component C180 104
+Added Member To Class: ClassName=U_数字部分 Member=Component C181 104
+Added Member To Class: ClassName=U_数字部分 Member=Component C182 104
+Added Member To Class: ClassName=U_数字部分 Member=Component C183 104

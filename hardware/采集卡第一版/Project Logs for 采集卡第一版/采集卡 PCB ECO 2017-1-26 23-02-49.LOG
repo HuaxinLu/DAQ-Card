@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=40V Pin=C90_S1-1
+Removed Pin From Net: NetName=GND_1 Pin=C90_S1-2
+Removed Pin From Net: NetName=40V Pin=C90_S2-1
+Removed Pin From Net: NetName=GND_1 Pin=C90_S2-2
+Removed Pin From Net: NetName=40V Pin=C90_S3-1
+Removed Pin From Net: NetName=GND_1 Pin=C90_S3-2
+Removed Pin From Net: NetName=40V Pin=C91_S1-1
+Removed Pin From Net: NetName=GND_1 Pin=C91_S1-2
+Removed Pin From Net: NetName=40V Pin=C91_S2-1
+Removed Pin From Net: NetName=GND_1 Pin=C91_S2-2
+Removed Pin From Net: NetName=40V Pin=C91_S3-1
+Removed Pin From Net: NetName=GND_1 Pin=C91_S3-2
+Removed Pin From Net: NetName=GND_1 Pin=C92_S1-2
+Removed Pin From Net: NetName=GND_1 Pin=C92_S2-2
+Removed Pin From Net: NetName=GND_1 Pin=C92_S3-2
+Removed Pin From Net: NetName=GND_1 Pin=C93_S1-2
+Removed Pin From Net: NetName=GND_1 Pin=C93_S2-2
+Removed Pin From Net: NetName=GND_1 Pin=C93_S3-2
+Removed Pin From Net: NetName=GND_1 Pin=C94_S1-2
+Removed Pin From Net: NetName=GND_1 Pin=C94_S2-2
+Removed Pin From Net: NetName=GND_1 Pin=C94_S3-2
+Removed Pin From Net: NetName=GND_1 Pin=C95_S1-2
+Removed Pin From Net: NetName=GND_1 Pin=C95_S2-2
+Removed Pin From Net: NetName=GND_1 Pin=C95_S3-2
+Removed Pin From Net: NetName=GND_1 Pin=U1_S1-5
+Removed Pin From Net: NetName=GND_1 Pin=U1_S1-6
+Removed Pin From Net: NetName=GND_1 Pin=U1_S1-9
+Removed Pin From Net: NetName=40V Pin=U1_S1-16
+Removed Pin From Net: NetName=GND_1 Pin=U1_S2-5
+Removed Pin From Net: NetName=GND_1 Pin=U1_S2-6
+Removed Pin From Net: NetName=GND_1 Pin=U1_S2-9
+Removed Pin From Net: NetName=40V Pin=U1_S2-16
+Removed Pin From Net: NetName=GND_1 Pin=U1_S3-5
+Removed Pin From Net: NetName=GND_1 Pin=U1_S3-6
+Removed Pin From Net: NetName=GND_1 Pin=U1_S3-9
+Removed Pin From Net: NetName=40V Pin=U1_S3-16
+Added Component: Designator=C92(0603AC)
+Added Component: Designator=C93(0603AC)
+Added Component: Designator=C94(0603AC)
+Added Component: Designator=C95(0603AC)
+Added Component: Designator=C96(0603AC)
+Added Component: Designator=S90(0805C)
+Added Component: Designator=S91(0603AC)
+Added Component: Designator=U1(SSOP20)
+Added Pin To Net: NetName=GND_1 Pin=C92-2
+Added Pin To Net: NetName=GND_1 Pin=C93-2
+Added Pin To Net: NetName=GND_1 Pin=C94-2
+Added Pin To Net: NetName=GND_1 Pin=C95-2
+Added Pin To Net: NetName=GND_1 Pin=C96-2
+Added Pin To Net: NetName=40V Pin=S90-1
+Added Pin To Net: NetName=GND_1 Pin=S90-2
+Added Pin To Net: NetName=40V Pin=S91-1
+Added Pin To Net: NetName=GND_1 Pin=S91-2
+Added Pin To Net: NetName=GND_1 Pin=U1-5
+Added Pin To Net: NetName=GND_1 Pin=U1-6
+Added Pin To Net: NetName=40V Pin=U1-16
+Added Pin To Net: NetName=D1 Pin=U1-3
+Added Pin To Net: NetName=D1 Pin=U1-8
+Added Net: Name=D1
+Added Pin To Net: NetName=D3 Pin=U1-18
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=U1-13
+Added Net: Name=D4
+Added Pin To Net: NetName=S1 Pin=C92-1
+Added Pin To Net: NetName=S1 Pin=U1-9
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=C93-1
+Added Pin To Net: NetName=S2 Pin=U1-4
+Added Pin To Net: NetName=S2 Pin=U1-7
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=C94-1
+Added Pin To Net: NetName=S3 Pin=U1-2
+Added Pin To Net: NetName=S3 Pin=U1-17
+Added Pin To Net: NetName=S3 Pin=U1-19
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=C95-1
+Added Pin To Net: NetName=S4 Pin=U1-15
+Added Net: Name=S4
+Added Pin To Net: NetName=S5 Pin=C96-1
+Added Pin To Net: NetName=S5 Pin=U1-12
+Added Net: Name=S5
+Added Class: Name=U_模拟开关
+Change Room Name: Old Name=S3 New Name=U_模拟开关
+Change Room Scope: Old Scope=InComponentClass('S3') New Scope=InComponentClass('U_模拟开关')

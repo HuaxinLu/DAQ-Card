@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND_2 Pin=C96-2
+Removed Pin From Net: NetName=5V_0 Pin=C104-1
+Removed Pin From Net: NetName=GND Pin=C104-2
+Removed Pin From Net: NetName=5V_0 Pin=C105-1
+Removed Pin From Net: NetName=GND Pin=C105-2
+Removed Pin From Net: NetName=5V_0 Pin=C106-1
+Removed Pin From Net: NetName=GND Pin=C106-2
+Removed Pin From Net: NetName=5V_0 Pin=C107-1
+Removed Pin From Net: NetName=GND Pin=C107-2
+Removed Pin From Net: NetName=GND_2 Pin=C108-2
+Removed Pin From Net: NetName=GND_2 Pin=C109-2
+Removed Pin From Net: NetName=GND_2 Pin=C110-2
+Removed Pin From Net: NetName=GND_2 Pin=C111-2
+Removed Pin From Net: NetName=NetD8_1 Pin=D10-2
+Removed Pin From Net: NetName=NetD11_1 Pin=D12-2
+Removed Pin From Net: NetName=GND_2 Pin=U22-1
+Removed Member From Class: ClassName=U_电源 Member=C96
+Removed Member From Class: ClassName=U_电源 Member=C108
+Removed Member From Class: ClassName=U_电源 Member=C109
+Removed Member From Class: ClassName=U_电源 Member=C110
+Removed Member From Class: ClassName=U_电源 Member=C111
+Removed Member From Class: ClassName=U_电源 Member=D10
+Removed Member From Class: ClassName=U_电源 Member=D12
+Removed Member From Class: ClassName=U_电源 Member=L5
+Removed Member From Class: ClassName=U_电源 Member=R43
+Removed Member From Class: ClassName=U_电源 Member=U22
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=5V_0 Pin=C104-2
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=5V_0 Pin=C105-2
+Added Pin To Net: NetName=GND Pin=C106-1
+Added Pin To Net: NetName=5V_0 Pin=C106-2
+Added Pin To Net: NetName=GND Pin=C107-1
+Added Pin To Net: NetName=5V_0 Pin=C107-2
+Added Room: Name=U_数字部分
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

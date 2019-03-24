@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=AGND_2 Pin=D8-1
+Removed Pin From Net: NetName=NetC121_2 Pin=D8-2
+Removed Pin From Net: NetName=NetC126_1 Pin=D18-1
+Removed Pin From Net: NetName=NetC126_2 Pin=D18-2
+Removed Pin From Net: NetName=NetR59_2 Pin=R60-2
+Removed Pin From Net: NetName=NetR59_2 Pin=R61-2
+Removed Pin From Net: NetName=NetR59_1 Pin=R96-2
+Added Pin To Net: NetName=NetC126_1 Pin=D8-1
+Added Pin To Net: NetName=NetC126_2 Pin=D8-2
+Added Pin To Net: NetName=AGND_2 Pin=D18-1
+Added Pin To Net: NetName=NetC121_2 Pin=D18-2
+Added Pin To Net: NetName=NetR59_1 Pin=R60-2
+Added Pin To Net: NetName=NetR59_1 Pin=R61-2
+Added Pin To Net: NetName=NetR59_2 Pin=R96-2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R59 Res2
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=5V Pin=D21-2
+Removed Pin From Net: NetName=5V Pin=D22-2
+Removed Pin From Net: NetName=5V Pin=D23-2
+Removed Pin From Net: NetName=5V Pin=D24-2
+Removed Pin From Net: NetName=5V Pin=D25-2
+Removed Pin From Net: NetName=DGND Pin=Q1-3
+Removed Pin From Net: NetName=DGND Pin=Q2-3
+Removed Pin From Net: NetName=DGND Pin=Q3-3
+Removed Pin From Net: NetName=DGND Pin=Q4-3
+Removed Pin From Net: NetName=DGND Pin=Q5-3
+Removed Pin From Net: NetName=5V Pin=R118-5
+Removed Pin From Net: NetName=5V Pin=R120-5
+Removed Pin From Net: NetName=5V Pin=R122-5
+Removed Pin From Net: NetName=5V Pin=R124-5
+Removed Pin From Net: NetName=5V Pin=R126-5
+Removed Member From Class: ClassName=U_数字部分 Member=D21
+Removed Member From Class: ClassName=U_数字部分 Member=D22
+Removed Member From Class: ClassName=U_数字部分 Member=D23
+Removed Member From Class: ClassName=U_数字部分 Member=D24
+Removed Member From Class: ClassName=U_数字部分 Member=D25
+Removed Member From Class: ClassName=U_数字部分 Member=Q1
+Removed Member From Class: ClassName=U_数字部分 Member=Q2
+Removed Member From Class: ClassName=U_数字部分 Member=Q3
+Removed Member From Class: ClassName=U_数字部分 Member=Q4
+Removed Member From Class: ClassName=U_数字部分 Member=Q5
+Removed Member From Class: ClassName=U_数字部分 Member=R118
+Removed Member From Class: ClassName=U_数字部分 Member=R119
+Removed Member From Class: ClassName=U_数字部分 Member=R120
+Removed Member From Class: ClassName=U_数字部分 Member=R121
+Removed Member From Class: ClassName=U_数字部分 Member=R122
+Removed Member From Class: ClassName=U_数字部分 Member=R123
+Removed Member From Class: ClassName=U_数字部分 Member=R124
+Removed Member From Class: ClassName=U_数字部分 Member=R125
+Removed Member From Class: ClassName=U_数字部分 Member=R126
+Removed Member From Class: ClassName=U_数字部分 Member=R127
+Change Component Designator: OldDesignator=U? NewDesignator=U37
+Added Component: Designator=U38(SOP4)
+Added Component: Designator=U39(SOP4)
+Added Component: Designator=U40(SOP4)
+Added Component: Designator=U41(SOP4)
+Added Component: Designator=U42(SOP4)
+Added Component: Designator=U43(SOP4)
+Added Component: Designator=U44(SOP4)
+Added Component: Designator=U45(SOP4)
+Added Component: Designator=U46(SOP4)
+Added Component: Designator=U47(SOP4)
+Added Component: Designator=U48(SOP4)
+Added Component: Designator=U49(SOP4)
+Added Component: Designator=U50(SOP4)
+Added Component: Designator=U51(SOP4)
+Added Component: Designator=U52(SOP4)
+Added Component: Designator=U53(SOP4)
+Added Member To Class: ClassName=U_数字部分 Member=Component U38 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U39 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U40 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U41 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U42 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U43 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U44 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U45 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U46 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U47 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U48 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U49 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U50 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U51 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U52 TLP521-1
+Added Member To Class: ClassName=U_数字部分 Member=Component U53 TLP521-1
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

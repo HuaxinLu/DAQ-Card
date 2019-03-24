@@ -1,0 +1,20 @@
+Added Component: Designator=C189(0805C)
+Added Component: Designator=C190(0805C)
+Added Component: Designator=C191(0805C)
+Added Component: Designator=C192(0805C)
+Added Component: Designator=C193(0805C)
+Added Pin To Net: NetName=GND Pin=C189-1
+Added Pin To Net: NetName=3.3V Pin=C189-2
+Added Pin To Net: NetName=GND Pin=C190-1
+Added Pin To Net: NetName=3.3V Pin=C190-2
+Added Pin To Net: NetName=GND Pin=C191-1
+Added Pin To Net: NetName=3.3V Pin=C191-2
+Added Pin To Net: NetName=GND Pin=C192-1
+Added Pin To Net: NetName=3.3V Pin=C192-2
+Added Pin To Net: NetName=GND Pin=C193-1
+Added Pin To Net: NetName=3.3V Pin=C193-2
+Added Member To Class: ClassName=U_数字部分 Member=Component C189 106
+Added Member To Class: ClassName=U_数字部分 Member=Component C190 106
+Added Member To Class: ClassName=U_数字部分 Member=Component C191 106
+Added Member To Class: ClassName=U_数字部分 Member=Component C192 106
+Added Member To Class: ClassName=U_数字部分 Member=Component C193 106

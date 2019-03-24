@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CONVA Pin=A20-8
+Added Pin To Net: NetName=CONVA Pin=U1-9
+Added Pin To Net: NetName=CONVA Pin=U1-10
+Added Net: Name=CONVA

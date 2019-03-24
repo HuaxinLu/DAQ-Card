@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND_1 Pin=C71-2
+Removed Pin From Net: NetName=-5V_1 Pin=C72-1
+Removed Pin From Net: NetName=GND_1 Pin=C72-2
+Added Component: Designator=C73(3216)
+Added Component: Designator=C74(3216)
+Added Pin To Net: NetName=GND_1 Pin=C73-2
+Added Pin To Net: NetName=-5V_1 Pin=C74-1
+Added Pin To Net: NetName=GND_1 Pin=C74-2
+Added Pin To Net: NetName=NetC73_1 Pin=C73-1
+Added Pin To Net: NetName=NetC73_1 Pin=R33-1
+Added Pin To Net: NetName=NetC73_1 Pin=U16-5
+Added Net: Name=NetC73_1
+Added Member To Class: ClassName=U_电源 Member=Component C73 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component C74 Cap Pol1

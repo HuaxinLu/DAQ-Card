@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND_0 Pin=C39-1
+Removed Pin From Net: NetName=6V_0 Pin=C39-2
+Removed Pin From Net: NetName=GND_0 Pin=C48-2
+Removed Pin From Net: NetName=GND_0 Pin=C49-2
+Removed Pin From Net: NetName=GND_0 Pin=D3-1
+Removed Pin From Net: NetName=6V_0 Pin=L2-2
+Removed Pin From Net: NetName=6V_0 Pin=R25-2
+Removed Pin From Net: NetName=GND_0 Pin=R26-1
+Removed Pin From Net: NetName=GND_0 Pin=R27-1
+Removed Pin From Net: NetName=24V Pin=U13-2
+Removed Pin From Net: NetName=GND Pin=U13-7
+Removed Pin From Net: NetName=GND_0 Pin=U13-9
+Removed Member From Class: ClassName=U_电源 Member=C33
+Removed Member From Class: ClassName=U_电源 Member=C39
+Removed Member From Class: ClassName=U_电源 Member=C48
+Removed Member From Class: ClassName=U_电源 Member=C49
+Removed Member From Class: ClassName=U_电源 Member=D3
+Removed Member From Class: ClassName=U_电源 Member=L2
+Removed Member From Class: ClassName=U_电源 Member=R25
+Removed Member From Class: ClassName=U_电源 Member=R26
+Removed Member From Class: ClassName=U_电源 Member=R27
+Removed Member From Class: ClassName=U_电源 Member=R28
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

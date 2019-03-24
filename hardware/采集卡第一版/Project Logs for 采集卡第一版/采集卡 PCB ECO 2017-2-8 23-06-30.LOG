@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=D1 Pin=R131-2
+Removed Pin From Net: NetName=D2 Pin=R132-2
+Removed Pin From Net: NetName=D3 Pin=R133-2
+Removed Pin From Net: NetName=D4 Pin=R134-2
+Removed Pin From Net: NetName=D8 Pin=R135-2
+Removed Pin From Net: NetName=D6 Pin=R136-2
+Removed Pin From Net: NetName=D7 Pin=R137-2
+Removed Pin From Net: NetName=D5 Pin=R138-2
+Removed Pin From Net: NetName=D10 Pin=R139-2
+Removed Pin From Net: NetName=D9 Pin=R140-2
+Removed Pin From Net: NetName=D10 Pin=U19-91
+Removed Pin From Net: NetName=D9 Pin=U19-92
+Removed Pin From Net: NetName=D8 Pin=U19-93
+Removed Pin From Net: NetName=D7 Pin=U19-94
+Removed Pin From Net: NetName=D6 Pin=U19-95
+Removed Pin From Net: NetName=D5 Pin=U19-96
+Removed Pin From Net: NetName=D4 Pin=U19-97
+Removed Pin From Net: NetName=D3 Pin=U19-98
+Removed Pin From Net: NetName=D2 Pin=U19-99
+Removed Pin From Net: NetName=D1 Pin=U19-100
+Removed Member From Class: ClassName=U_数字部分 Member=R133
+Removed Member From Class: ClassName=U_数字部分 Member=R134
+Removed Member From Class: ClassName=U_数字部分 Member=R135
+Removed Member From Class: ClassName=U_数字部分 Member=R136
+Removed Member From Class: ClassName=U_数字部分 Member=R137
+Removed Member From Class: ClassName=U_数字部分 Member=R138
+Removed Member From Class: ClassName=U_数字部分 Member=R139
+Removed Member From Class: ClassName=U_数字部分 Member=R140
+Change Component Footprint: Designator=R131 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R132 Old Footprint=0805R New Footprint=0603AR
+Change Component Comment : Designator=R131 Old Comment=0 New Comment=Res2
+Change Component Comment : Designator=R132 Old Comment=0 New Comment=Res2
+Added Component: Designator=A18(RCA03-4D)
+Added Component: Designator=A19(RCA03-4D)
+Added Pin To Net: NetName=D1 Pin=A18-2
+Added Pin To Net: NetName=D2 Pin=A18-4
+Added Pin To Net: NetName=D3 Pin=A18-6
+Added Pin To Net: NetName=D4 Pin=A18-8
+Added Pin To Net: NetName=D5 Pin=A19-2
+Added Pin To Net: NetName=D6 Pin=A19-4
+Added Pin To Net: NetName=D7 Pin=A19-6
+Added Pin To Net: NetName=D8 Pin=A19-8
+Added Pin To Net: NetName=D9 Pin=R131-1
+Added Pin To Net: NetName=D10 Pin=R132-1
+Added Pin To Net: NetName=D10 Pin=U38-1
+Added Pin To Net: NetName=D6 Pin=U39-1
+Added Pin To Net: NetName=D2 Pin=U40-1
+Added Pin To Net: NetName=D5 Pin=U42-1
+Added Pin To Net: NetName=D1 Pin=U43-1
+Added Pin To Net: NetName=D9 Pin=U45-1
+Added Pin To Net: NetName=D8 Pin=U46-1
+Added Pin To Net: NetName=D3 Pin=U47-1
+Added Pin To Net: NetName=D7 Pin=U50-1
+Added Pin To Net: NetName=D4 Pin=U51-1
+Added Pin To Net: NetName=NetA18_1 Pin=A18-1
+Added Pin To Net: NetName=NetA18_1 Pin=U19-100
+Added Net: Name=NetA18_1
+Added Pin To Net: NetName=NetA18_3 Pin=A18-3
+Added Pin To Net: NetName=NetA18_3 Pin=U19-99
+Added Net: Name=NetA18_3
+Added Pin To Net: NetName=NetA18_5 Pin=A18-5
+Added Pin To Net: NetName=NetA18_5 Pin=U19-98
+Added Net: Name=NetA18_5
+Added Pin To Net: NetName=NetA18_7 Pin=A18-7
+Added Pin To Net: NetName=NetA18_7 Pin=U19-97
+Added Net: Name=NetA18_7
+Added Pin To Net: NetName=NetA19_1 Pin=A19-1
+Added Pin To Net: NetName=NetA19_1 Pin=U19-96
+Added Net: Name=NetA19_1
+Added Pin To Net: NetName=NetA19_3 Pin=A19-3
+Added Pin To Net: NetName=NetA19_3 Pin=U19-95
+Added Net: Name=NetA19_3
+Added Pin To Net: NetName=NetA19_5 Pin=A19-5
+Added Pin To Net: NetName=NetA19_5 Pin=U19-94
+Added Net: Name=NetA19_5
+Added Pin To Net: NetName=NetA19_7 Pin=A19-7
+Added Pin To Net: NetName=NetA19_7 Pin=U19-93
+Added Net: Name=NetA19_7
+Added Pin To Net: NetName=NetR131_2 Pin=R131-2
+Added Pin To Net: NetName=NetR131_2 Pin=U19-92
+Added Net: Name=NetR131_2
+Added Pin To Net: NetName=NetR132_2 Pin=R132-2
+Added Pin To Net: NetName=NetR132_2 Pin=U19-91
+Added Net: Name=NetR132_2
+Added Member To Class: ClassName=U_数字部分 Member=Component A18 排阻 51欧姆
+Added Member To Class: ClassName=U_数字部分 Member=Component A19 排阻 51欧姆

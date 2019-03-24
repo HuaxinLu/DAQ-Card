@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DGND_2 Pin=C8-1
+Removed Pin From Net: NetName=+6V_2 Pin=C8-2
+Removed Pin From Net: NetName=DGND_2 Pin=C154-2
+Added Pin To Net: NetName=+6V_2 Pin=C8-1
+Added Pin To Net: NetName=AGND_2 Pin=C8-2
+Added Pin To Net: NetName=AGND_2 Pin=C154-2

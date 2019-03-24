@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=P33 Old DesignItemId=Header 13X2 New DesignItemId=Header 14X2H
+Change Component Footprint: Designator=P33 Old Footprint=3.5MM-2*12P New Footprint=3.5mm_2*14P
+Change Component Comment : Designator=P33 Old Comment=Header 13X2 New Comment=Header 14X2H
+Added Pin To Net: NetName=AGND_2 Pin=P33-27
+Added Pin To Net: NetName=AGND_2 Pin=P33-28

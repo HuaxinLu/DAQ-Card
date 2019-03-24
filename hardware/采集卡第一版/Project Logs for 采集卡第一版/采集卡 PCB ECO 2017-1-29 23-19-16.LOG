@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=VIN Pin=P1-3
+Change Component Footprint: Designator=C46 Old Footprint=SMD-EC-F10 New Footprint=SMD-EC-F16
+Added Pin To Net: NetName=VIN Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

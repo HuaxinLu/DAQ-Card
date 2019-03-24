@@ -1,0 +1,128 @@
+Added Component: Designator=C134(0805C)
+Added Component: Designator=C135(0805C)
+Added Component: Designator=C136(0805C)
+Added Component: Designator=C137(0805C)
+Added Component: Designator=C138(0805C)
+Added Component: Designator=C139(0805C)
+Added Component: Designator=C140(0805C)
+Added Component: Designator=C141(0805C)
+Added Component: Designator=C198(0805C)
+Added Component: Designator=C199(0805C)
+Added Component: Designator=C200(0805C)
+Added Component: Designator=C201(0805C)
+Added Component: Designator=C202(0805C)
+Added Component: Designator=C203(0805C)
+Added Component: Designator=C204(0805C)
+Added Component: Designator=C205(0805C)
+Added Component: Designator=C206(0805C)
+Added Component: Designator=C207(0805C)
+Added Component: Designator=C208(0805C)
+Added Component: Designator=C209(0805C)
+Added Component: Designator=C210(0805C)
+Added Component: Designator=C211(0805C)
+Added Component: Designator=C212(0805C)
+Added Component: Designator=C213(0805C)
+Added Component: Designator=C214(0805C)
+Added Component: Designator=C215(0805C)
+Added Component: Designator=C216(0805C)
+Added Component: Designator=C217(0805C)
+Added Component: Designator=C218(0805C)
+Added Component: Designator=C219(0805C)
+Added Component: Designator=C220(0805C)
+Added Component: Designator=C221(0805C)
+Added Pin To Net: NetName=+5V_1 Pin=C134-1
+Added Pin To Net: NetName=GND_1 Pin=C134-2
+Added Pin To Net: NetName=+5V_1 Pin=C135-1
+Added Pin To Net: NetName=GND_1 Pin=C135-2
+Added Pin To Net: NetName=+5V_1 Pin=C136-1
+Added Pin To Net: NetName=GND_1 Pin=C136-2
+Added Pin To Net: NetName=+5V_1 Pin=C137-1
+Added Pin To Net: NetName=GND_1 Pin=C137-2
+Added Pin To Net: NetName=+5V_1 Pin=C138-1
+Added Pin To Net: NetName=GND_1 Pin=C138-2
+Added Pin To Net: NetName=+5V_1 Pin=C139-1
+Added Pin To Net: NetName=GND_1 Pin=C139-2
+Added Pin To Net: NetName=+5V_1 Pin=C140-1
+Added Pin To Net: NetName=GND_1 Pin=C140-2
+Added Pin To Net: NetName=+5V_1 Pin=C141-1
+Added Pin To Net: NetName=GND_1 Pin=C141-2
+Added Pin To Net: NetName=+5V_1 Pin=C198-1
+Added Pin To Net: NetName=GND_1 Pin=C198-2
+Added Pin To Net: NetName=+5V_1 Pin=C199-1
+Added Pin To Net: NetName=GND_1 Pin=C199-2
+Added Pin To Net: NetName=+5V_1 Pin=C200-1
+Added Pin To Net: NetName=GND_1 Pin=C200-2
+Added Pin To Net: NetName=+5V_1 Pin=C201-1
+Added Pin To Net: NetName=GND_1 Pin=C201-2
+Added Pin To Net: NetName=+5V_1 Pin=C202-1
+Added Pin To Net: NetName=GND_1 Pin=C202-2
+Added Pin To Net: NetName=+5V_1 Pin=C203-1
+Added Pin To Net: NetName=GND_1 Pin=C203-2
+Added Pin To Net: NetName=+5V_1 Pin=C204-1
+Added Pin To Net: NetName=GND_1 Pin=C204-2
+Added Pin To Net: NetName=+5V_1 Pin=C205-1
+Added Pin To Net: NetName=GND_1 Pin=C205-2
+Added Pin To Net: NetName=-5V_1 Pin=C206-1
+Added Pin To Net: NetName=GND_1 Pin=C206-2
+Added Pin To Net: NetName=-5V_1 Pin=C207-1
+Added Pin To Net: NetName=GND_1 Pin=C207-2
+Added Pin To Net: NetName=-5V_1 Pin=C208-1
+Added Pin To Net: NetName=GND_1 Pin=C208-2
+Added Pin To Net: NetName=-5V_1 Pin=C209-1
+Added Pin To Net: NetName=GND_1 Pin=C209-2
+Added Pin To Net: NetName=-5V_1 Pin=C210-1
+Added Pin To Net: NetName=GND_1 Pin=C210-2
+Added Pin To Net: NetName=-5V_1 Pin=C211-1
+Added Pin To Net: NetName=GND_1 Pin=C211-2
+Added Pin To Net: NetName=-5V_1 Pin=C212-1
+Added Pin To Net: NetName=GND_1 Pin=C212-2
+Added Pin To Net: NetName=-5V_1 Pin=C213-1
+Added Pin To Net: NetName=GND_1 Pin=C213-2
+Added Pin To Net: NetName=-5V_1 Pin=C214-1
+Added Pin To Net: NetName=GND_1 Pin=C214-2
+Added Pin To Net: NetName=-5V_1 Pin=C215-1
+Added Pin To Net: NetName=GND_1 Pin=C215-2
+Added Pin To Net: NetName=-5V_1 Pin=C216-1
+Added Pin To Net: NetName=GND_1 Pin=C216-2
+Added Pin To Net: NetName=-5V_1 Pin=C217-1
+Added Pin To Net: NetName=GND_1 Pin=C217-2
+Added Pin To Net: NetName=-5V_1 Pin=C218-1
+Added Pin To Net: NetName=GND_1 Pin=C218-2
+Added Pin To Net: NetName=-5V_1 Pin=C219-1
+Added Pin To Net: NetName=GND_1 Pin=C219-2
+Added Pin To Net: NetName=-5V_1 Pin=C220-1
+Added Pin To Net: NetName=GND_1 Pin=C220-2
+Added Pin To Net: NetName=-5V_1 Pin=C221-1
+Added Pin To Net: NetName=GND_1 Pin=C221-2
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C134 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C135 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C136 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C137 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C138 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C139 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C140 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C141 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C198 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C199 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C200 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C201 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C202 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C203 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C204 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C205 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C206 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C207 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C208 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C209 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C210 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C211 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C212 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C213 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C214 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C215 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C216 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C217 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C218 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C219 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C220 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C221 Cap

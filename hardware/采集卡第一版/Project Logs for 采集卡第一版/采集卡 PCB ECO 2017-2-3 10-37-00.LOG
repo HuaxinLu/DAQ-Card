@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=REFIN_1 Pin=C152-1
+Added Pin To Net: NetName=REFIN_1 Pin=C153-2
+Added Pin To Net: NetName=REFIN_1 Pin=U30-1
+Added Pin To Net: NetName=NetR117_2 Pin=R117-2
+Added Pin To Net: NetName=NetR117_2 Pin=U29-6
+Added Net: Name=NetR117_2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component U23 OPA354

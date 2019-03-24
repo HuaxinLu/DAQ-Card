@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=URX1 Pin=U19-52
+Removed Pin From Net: NetName=UTX1 Pin=U19-53
+Added Pin To Net: NetName=A0 Pin=A20-4
+Added Pin To Net: NetName=A0 Pin=U2-1
+Added Pin To Net: NetName=A0 Pin=U3-1
+Added Pin To Net: NetName=A0 Pin=U4-1
+Added Pin To Net: NetName=A0 Pin=U5-1
+Added Pin To Net: NetName=A0 Pin=U6-1
+Added Pin To Net: NetName=A0 Pin=U7-1
+Added Pin To Net: NetName=A0 Pin=U8-1
+Added Pin To Net: NetName=A0 Pin=U9-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=A20-6
+Added Pin To Net: NetName=A1 Pin=U2-16
+Added Pin To Net: NetName=A1 Pin=U3-16
+Added Pin To Net: NetName=A1 Pin=U4-16
+Added Pin To Net: NetName=A1 Pin=U5-16
+Added Pin To Net: NetName=A1 Pin=U6-16
+Added Pin To Net: NetName=A1 Pin=U7-16
+Added Pin To Net: NetName=A1 Pin=U8-16
+Added Pin To Net: NetName=A1 Pin=U9-16
+Added Net: Name=A1
+Added Pin To Net: NetName=DOUT1 Pin=R125-2
+Added Pin To Net: NetName=DOUT1 Pin=U19-57
+Added Net: Name=DOUT1
+Added Pin To Net: NetName=DOUT2 Pin=A3-1
+Added Pin To Net: NetName=DOUT2 Pin=U19-84
+Added Net: Name=DOUT2
+Added Pin To Net: NetName=DOUT3 Pin=A3-3
+Added Pin To Net: NetName=DOUT3 Pin=U19-83
+Added Net: Name=DOUT3
+Added Pin To Net: NetName=DOUT4 Pin=A3-5
+Added Pin To Net: NetName=DOUT4 Pin=U19-82
+Added Net: Name=DOUT4
+Added Pin To Net: NetName=DOUT5 Pin=A4-5
+Added Pin To Net: NetName=DOUT5 Pin=U19-80
+Added Net: Name=DOUT5
+Added Pin To Net: NetName=EN Pin=A20-2
+Added Pin To Net: NetName=EN Pin=U2-2
+Added Pin To Net: NetName=EN Pin=U3-2
+Added Pin To Net: NetName=EN Pin=U4-2
+Added Pin To Net: NetName=EN Pin=U5-2
+Added Pin To Net: NetName=EN Pin=U6-2
+Added Pin To Net: NetName=EN Pin=U7-2
+Added Pin To Net: NetName=EN Pin=U8-2
+Added Pin To Net: NetName=EN Pin=U9-2
+Added Net: Name=EN
+Added Pin To Net: NetName=INT1 Pin=R128-2
+Added Pin To Net: NetName=INT1 Pin=U19-18
+Added Net: Name=INT1
+Added Pin To Net: NetName=INT2 Pin=A4-7
+Added Pin To Net: NetName=INT2 Pin=U19-72
+Added Net: Name=INT2
+Added Pin To Net: NetName=PWM1 Pin=A3-7
+Added Pin To Net: NetName=PWM1 Pin=U19-76
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=A4-3
+Added Pin To Net: NetName=PWM2 Pin=U19-81
+Added Net: Name=PWM2
+Added Pin To Net: NetName=SPI1CS1 Pin=A17-7
+Added Pin To Net: NetName=SPI1CS1 Pin=U19-8
+Added Net: Name=SPI1CS1
+Added Pin To Net: NetName=SPI1CS2 Pin=R130-2
+Added Pin To Net: NetName=SPI1CS2 Pin=U19-9
+Added Net: Name=SPI1CS2
+Added Pin To Net: NetName=SPI1CS Pin=R127-2
+Added Pin To Net: NetName=SPI1CS Pin=U19-56
+Added Net: Name=SPI1CS
+Added Pin To Net: NetName=SPI1DI Pin=A17-3
+Added Pin To Net: NetName=SPI1DI Pin=U19-12
+Added Net: Name=SPI1DI
+Added Pin To Net: NetName=SPI1DO Pin=A17-5
+Added Pin To Net: NetName=SPI1DO Pin=R129-2
+Added Pin To Net: NetName=SPI1DO Pin=U19-11
+Added Pin To Net: NetName=SPI1DO Pin=U19-52
+Added Net: Name=SPI1DO
+Added Pin To Net: NetName=SPI1SCK Pin=A17-1
+Added Pin To Net: NetName=SPI1SCK Pin=R126-2
+Added Pin To Net: NetName=SPI1SCK Pin=U19-10
+Added Pin To Net: NetName=SPI1SCK Pin=U19-48
+Added Net: Name=SPI1SCK

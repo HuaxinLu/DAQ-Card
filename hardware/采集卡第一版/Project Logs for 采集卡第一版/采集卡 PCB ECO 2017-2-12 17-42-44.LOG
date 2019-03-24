@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SPI1DO Pin=A17-5
+Removed Pin From Net: NetName=SPI1SCK Pin=U19-10
+Removed Pin From Net: NetName=SPI1DO Pin=U19-11
+Change Net Name : Old Net Name=SPI1CS1 New Net Name=SPI2CS1
+Change Net Name : Old Net Name=SPI1CS2 New Net Name=SPI2CS2
+Change Net Name : Old Net Name=SPI1DI New Net Name=SPI2DI
+Added Pin To Net: NetName=SPI2DO Pin=A17-5
+Added Pin To Net: NetName=SPI2DO Pin=U19-11
+Added Net: Name=SPI2DO
+Added Pin To Net: NetName=SPI2SCK Pin=U19-10
+Added Net: Name=SPI2SCK

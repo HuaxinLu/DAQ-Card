@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=CL[1..8] Member=CH1
+Removed Member From Class: ClassName=CL[1..8] Member=CH3
+Removed Member From Class: ClassName=CL[1..8] Member=CH4
+Removed Member From Class: ClassName=CL[1..8] Member=CH6
+Removed Member From Class: ClassName=CL[1..8] Member=CH7
+Removed Member From Class: ClassName=CL[1..8] Member=CH8
+Removed Member From Class: ClassName=CH[1..8] Member=CL2
+Removed Member From Class: ClassName=CH[1..8] Member=CL5
+Change Component Footprint: Designator=U9_DI1 Old Footprint=SO8NB New Footprint=MSOP8
+Change Component Footprint: Designator=U9_DI2 Old Footprint=SO8NB New Footprint=MSOP8
+Change Component Footprint: Designator=U9_DI3 Old Footprint=SO8NB New Footprint=MSOP8
+Change Component Footprint: Designator=U9_DI4 Old Footprint=SO8NB New Footprint=MSOP8
+Change Component Footprint: Designator=U9_DI5 Old Footprint=SO8NB New Footprint=MSOP8
+Change Component Footprint: Designator=U9_DI6 Old Footprint=SO8NB New Footprint=MSOP8
+Change Component Footprint: Designator=U9_DI7 Old Footprint=SO8NB New Footprint=MSOP8
+Change Component Footprint: Designator=U9_DI8 Old Footprint=SO8NB New Footprint=MSOP8
+Added Member To Class: ClassName=CH[1..8] Member=Element[2]: CH
+Added Member To Class: ClassName=CH[1..8] Member=Element[5]: CH
+Added Member To Class: ClassName=CL[1..8] Member=Element[1]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[3]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[4]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[6]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[7]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[8]: CL

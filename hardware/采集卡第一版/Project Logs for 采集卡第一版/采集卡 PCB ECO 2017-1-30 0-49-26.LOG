@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=1812
+Change Component Footprint: Designator=L2 Old Footprint=0402-A New Footprint=1812
+Change Component Footprint: Designator=R30 Old Footprint=FB1206 New Footprint=0805R
+Change Component Footprint: Designator=R35 Old Footprint=FB1206 New Footprint=0805R
+Change Component Comment : Designator=C61 Old Comment=Cap New Comment=1uF
+Change Component Comment : Designator=C62 Old Comment=Cap New Comment=1uF
+Added Member To Class: ClassName=U_电源 Member=Component C61 1uF
+Added Member To Class: ClassName=U_电源 Member=Component C62 1uF
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

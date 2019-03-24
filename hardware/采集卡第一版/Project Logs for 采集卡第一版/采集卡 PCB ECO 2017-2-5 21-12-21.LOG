@@ -1,0 +1,12 @@
+Added Component: Designator=C176(3216)
+Added Component: Designator=C177(0805C)
+Added Component: Designator=C178(0805C)
+Added Pin To Net: NetName=5V_0 Pin=C176-1
+Added Pin To Net: NetName=GND Pin=C176-2
+Added Pin To Net: NetName=5V_0 Pin=C177-1
+Added Pin To Net: NetName=GND Pin=C177-2
+Added Pin To Net: NetName=5V_0 Pin=C178-1
+Added Pin To Net: NetName=GND Pin=C178-2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C176 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C177 1uF
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C178 1uF

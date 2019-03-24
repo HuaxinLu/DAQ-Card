@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+5V_2 Pin=C6-1
+Removed Pin From Net: NetName=DGND_2 Pin=C6-2
+Removed Pin From Net: NetName=+5V_2 Pin=C7-1
+Removed Pin From Net: NetName=DGND_2 Pin=C7-2
+Removed Pin From Net: NetName=+5V_2 Pin=C101-1
+Removed Pin From Net: NetName=DGND_2 Pin=C101-2
+Removed Pin From Net: NetName=+5V_2 Pin=C103-1
+Removed Pin From Net: NetName=DGND_2 Pin=C103-2
+Removed Pin From Net: NetName=DGND_2 Pin=U20-2
+Removed Pin From Net: NetName=+5V_2 Pin=U20-5
+Removed Pin From Net: NetName=DGND_2 Pin=U21-2
+Removed Pin From Net: NetName=+5V_2 Pin=U21-5
+Added Pin To Net: NetName=AGND_2 Pin=C6-2
+Added Pin To Net: NetName=AGND_2 Pin=C7-2
+Added Pin To Net: NetName=AGND_2 Pin=C101-2
+Added Pin To Net: NetName=AGND_2 Pin=C103-2
+Added Pin To Net: NetName=AGND_2 Pin=U20-2
+Added Pin To Net: NetName=AGND_2 Pin=U21-2
+Added Pin To Net: NetName=+AVCC_2 Pin=C101-1
+Added Pin To Net: NetName=+AVCC_2 Pin=C103-1
+Added Pin To Net: NetName=+AVCC_2 Pin=U20-5
+Added Net: Name=+AVCC_2
+Added Pin To Net: NetName=+DVCC_2 Pin=C6-1
+Added Pin To Net: NetName=+DVCC_2 Pin=C7-1
+Added Pin To Net: NetName=+DVCC_2 Pin=U21-5
+Added Net: Name=+DVCC_2

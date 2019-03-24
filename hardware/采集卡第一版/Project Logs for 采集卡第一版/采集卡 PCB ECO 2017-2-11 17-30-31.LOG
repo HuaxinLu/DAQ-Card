@@ -1,0 +1,12 @@
+Added Component: Designator=C130(0805C)
+Added Component: Designator=C131(0805C)
+Added Component: Designator=R103(0805R)
+Added Pin To Net: NetName=AGND_2 Pin=C130-1
+Added Pin To Net: NetName=+5V_2 Pin=C130-2
+Added Pin To Net: NetName=AGND_2 Pin=C131-1
+Added Pin To Net: NetName=+5V_2 Pin=C131-2
+Added Pin To Net: NetName=NetR103_1 Pin=R103-1
+Added Pin To Net: NetName=AN4 Pin=R103-2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C130 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C131 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R103 Res2

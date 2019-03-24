@@ -1,0 +1,20 @@
+Added Component: Designator=C3(0805C)
+Added Component: Designator=C5(0805C)
+Added Component: Designator=R174(0805R)
+Added Component: Designator=R176(0805R)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=3.3V Pin=R174-2
+Added Pin To Net: NetName=5V_0 Pin=R176-2
+Added Pin To Net: NetName=NetR174_1 Pin=R174-1
+Added Pin To Net: NetName=NetR174_1 Pin=U19-55
+Added Net: Name=NetR174_1
+Added Pin To Net: NetName=NetR176_1 Pin=R176-1
+Added Pin To Net: NetName=NetR176_1 Pin=U19-54
+Added Net: Name=NetR176_1
+Added Member To Class: ClassName=U_数字部分 Member=Component C3 Cap
+Added Member To Class: ClassName=U_数字部分 Member=Component C5 Cap
+Added Member To Class: ClassName=U_数字部分 Member=Component R174 620
+Added Member To Class: ClassName=U_数字部分 Member=Component R176 620

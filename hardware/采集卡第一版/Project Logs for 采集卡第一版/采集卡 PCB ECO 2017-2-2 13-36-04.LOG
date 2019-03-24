@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=C3 Pin=U8-4
+Removed Pin From Net: NetName=C2 Pin=U8-5
+Removed Pin From Net: NetName=C1 Pin=U8-6
+Removed Pin From Net: NetName=C0 Pin=U8-7
+Removed Pin From Net: NetName=C1 Pin=U8-10
+Removed Pin From Net: NetName=C2 Pin=U8-11
+Removed Pin From Net: NetName=C3 Pin=U8-12
+Removed Pin From Net: NetName=C4 Pin=U8-13
+Removed Member From Class: ClassName=CL[1..8] Member=CH1
+Removed Member From Class: ClassName=CL[1..8] Member=CH2
+Removed Member From Class: ClassName=CL[1..8] Member=CH3
+Removed Member From Class: ClassName=CL[1..8] Member=CH4
+Removed Member From Class: ClassName=CL[1..8] Member=CH5
+Removed Member From Class: ClassName=CL[1..8] Member=CH6
+Removed Member From Class: ClassName=CH[1..8] Member=CL7
+Removed Member From Class: ClassName=CH[1..8] Member=CL8
+Added Pin To Net: NetName=C4 Pin=U8-4
+Added Pin To Net: NetName=C3 Pin=U8-5
+Added Pin To Net: NetName=C2 Pin=U8-6
+Added Pin To Net: NetName=C1 Pin=U8-7
+Added Pin To Net: NetName=C0 Pin=U8-10
+Added Pin To Net: NetName=C1 Pin=U8-11
+Added Pin To Net: NetName=C2 Pin=U8-12
+Added Pin To Net: NetName=C3 Pin=U8-13
+Added Member To Class: ClassName=CH[1..8] Member=Element[7]: CH
+Added Member To Class: ClassName=CH[1..8] Member=Element[8]: CH
+Added Member To Class: ClassName=CL[1..8] Member=Element[1]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[2]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[3]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[4]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[5]: CL
+Added Member To Class: ClassName=CL[1..8] Member=Element[6]: CL

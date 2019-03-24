@@ -1,0 +1,8 @@
+Added Component: Designator=R175(0805R)
+Added Component: Designator=R176(0805R)
+Added Pin To Net: NetName=DGND_2 Pin=R175-1
+Added Pin To Net: NetName=AGND_2 Pin=R175-2
+Added Pin To Net: NetName=DGND_2 Pin=R176-1
+Added Pin To Net: NetName=AGND_2 Pin=R176-2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R175 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R176 Res2

@@ -1,0 +1,32 @@
+Added Component: Designator=A3(RCA03-4D)
+Added Component: Designator=C175(0805C)
+Added Component: Designator=R125(0805R)
+Added Component: Designator=R126(0805R)
+Added Component: Designator=R127(0805R)
+Added Component: Designator=R128(0805R)
+Added Component: Designator=R129(0805R)
+Added Pin To Net: NetName=GND Pin=C175-1
+Added Pin To Net: NetName=5V_0 Pin=C175-2
+Added Pin To Net: NetName=5V_0 Pin=U10-1
+Added Pin To Net: NetName=NetR125_1 Pin=R125-1
+Added Pin To Net: NetName=NetR125_1 Pin=U10-2
+Added Net: Name=NetR125_1
+Added Pin To Net: NetName=NetR126_1 Pin=R126-1
+Added Pin To Net: NetName=NetR126_1 Pin=U10-3
+Added Net: Name=NetR126_1
+Added Pin To Net: NetName=NetR127_1 Pin=R127-1
+Added Pin To Net: NetName=NetR127_1 Pin=U10-4
+Added Net: Name=NetR127_1
+Added Pin To Net: NetName=NetR128_1 Pin=R128-1
+Added Pin To Net: NetName=NetR128_1 Pin=U10-5
+Added Net: Name=NetR128_1
+Added Pin To Net: NetName=NetR129_1 Pin=R129-1
+Added Pin To Net: NetName=NetR129_1 Pin=U10-6
+Added Net: Name=NetR129_1
+Added Member To Class: ClassName=U_µÁ‘¥ Member=Component A3 ≈≈◊Ë 51≈∑ƒ∑
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C175 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R125 Res2
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R126 Res2
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R127 Res2
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R128 Res2
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R129 Res2

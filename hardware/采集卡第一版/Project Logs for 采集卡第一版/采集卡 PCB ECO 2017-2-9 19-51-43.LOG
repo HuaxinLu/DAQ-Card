@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC_OUT Pin=P4-1
+Removed Pin From Net: NetName=VCC_OUT Pin=P4-2
+Removed Pin From Net: NetName=GND_OUT Pin=P4-3
+Removed Pin From Net: NetName=GND_OUT Pin=P4-4
+Added Component: Designator=C186(0805C)
+Added Component: Designator=C187(0805C)
+Added Pin To Net: NetName=GND_OUT Pin=C186-1
+Added Pin To Net: NetName=VCC_OUT Pin=C186-2
+Added Pin To Net: NetName=GND_OUT Pin=C187-1
+Added Pin To Net: NetName=VCC_OUT Pin=C187-2
+Added Pin To Net: NetName=GND_OUT Pin=P4-1
+Added Pin To Net: NetName=GND_OUT Pin=P4-2
+Added Pin To Net: NetName=VCC_OUT Pin=P4-3
+Added Pin To Net: NetName=VCC_OUT Pin=P4-4
+Added Member To Class: ClassName=U_数字部分 Member=Component C186 104
+Added Member To Class: ClassName=U_数字部分 Member=Component C187 104

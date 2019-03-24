@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=D1_SW1 Pin=U2_SW1-3
+Removed Pin From Net: NetName=D1_SW2 Pin=U2_SW2-3
+Removed Pin From Net: NetName=D1_SW3 Pin=U2_SW3-3
+Removed Pin From Net: NetName=D1_SW4 Pin=U2_SW4-3
+Removed Pin From Net: NetName=S5_SW4 Pin=U2_SW4-12
+Removed Pin From Net: NetName=S3_SW4 Pin=U2_SW4-19
+Removed Pin From Net: NetName=D1_SW5 Pin=U2_SW5-3
+Removed Pin From Net: NetName=S5_SW5 Pin=U2_SW5-12
+Removed Pin From Net: NetName=S3_SW5 Pin=U2_SW5-19
+Removed Pin From Net: NetName=D1_SW6 Pin=U2_SW6-3
+Removed Pin From Net: NetName=S5_SW6 Pin=U2_SW6-12
+Removed Pin From Net: NetName=S3_SW6 Pin=U2_SW6-19
+Removed Pin From Net: NetName=D1_SW7 Pin=U2_SW7-3
+Removed Pin From Net: NetName=S5_SW7 Pin=U2_SW7-12
+Removed Pin From Net: NetName=S3_SW7 Pin=U2_SW7-19
+Removed Pin From Net: NetName=D1_SW8 Pin=U2_SW8-3
+Removed Pin From Net: NetName=S5_SW8 Pin=U2_SW8-12
+Removed Pin From Net: NetName=S3_SW8 Pin=U2_SW8-19
+Added Pin To Net: NetName=C2 Pin=U2_SW1-2
+Added Pin To Net: NetName=C1 Pin=U2_SW1-4
+Added Pin To Net: NetName=C1 Pin=U2_SW1-7
+Added Pin To Net: NetName=GND_1 Pin=U2_SW1-9
+Added Pin To Net: NetName=C2 Pin=U2_SW1-12
+Added Pin To Net: NetName=C3 Pin=U2_SW1-15
+Added Pin To Net: NetName=C3 Pin=U2_SW1-17
+Added Pin To Net: NetName=C4 Pin=U2_SW1-20
+Added Pin To Net: NetName=C6 Pin=U2_SW2-2
+Added Pin To Net: NetName=C5 Pin=U2_SW2-4
+Added Pin To Net: NetName=C5 Pin=U2_SW2-7
+Added Pin To Net: NetName=C4 Pin=U2_SW2-9
+Added Pin To Net: NetName=C6 Pin=U2_SW2-12
+Added Pin To Net: NetName=C7 Pin=U2_SW2-15
+Added Pin To Net: NetName=C7 Pin=U2_SW2-17
+Added Pin To Net: NetName=C8 Pin=U2_SW2-20
+Added Pin To Net: NetName=C10 Pin=U2_SW3-2
+Added Pin To Net: NetName=C9 Pin=U2_SW3-4
+Added Pin To Net: NetName=C9 Pin=U2_SW3-7
+Added Pin To Net: NetName=C8 Pin=U2_SW3-9
+Added Pin To Net: NetName=C10 Pin=U2_SW3-12
+Added Pin To Net: NetName=C11 Pin=U2_SW3-15
+Added Pin To Net: NetName=C11 Pin=U2_SW3-17
+Added Pin To Net: NetName=C12 Pin=U2_SW3-20
+Added Pin To Net: NetName=S3_SW4 Pin=U2_SW4-12
+Added Pin To Net: NetName=S5_SW4 Pin=U2_SW4-20
+Added Pin To Net: NetName=S3_SW5 Pin=U2_SW5-12
+Added Pin To Net: NetName=S5_SW5 Pin=U2_SW5-20
+Added Pin To Net: NetName=S3_SW6 Pin=U2_SW6-12
+Added Pin To Net: NetName=S5_SW6 Pin=U2_SW6-20
+Added Pin To Net: NetName=S3_SW7 Pin=U2_SW7-12
+Added Pin To Net: NetName=S5_SW7 Pin=U2_SW7-20
+Added Pin To Net: NetName=S3_SW8 Pin=U2_SW8-12
+Added Pin To Net: NetName=S5_SW8 Pin=U2_SW8-20
+Change Net Name : Old Net Name=D3_SW1 New Net Name=D4_SW1
+Change Net Name : Old Net Name=D3_SW2 New Net Name=D4_SW2
+Change Net Name : Old Net Name=D3_SW3 New Net Name=D4_SW3
+Change Net Name : Old Net Name=D3_SW4 New Net Name=D4_SW4
+Change Net Name : Old Net Name=D3_SW5 New Net Name=D4_SW5
+Change Net Name : Old Net Name=D3_SW6 New Net Name=D4_SW6
+Change Net Name : Old Net Name=D3_SW7 New Net Name=D4_SW7
+Change Net Name : Old Net Name=D3_SW8 New Net Name=D4_SW8
+Change Net Name : Old Net Name=D4_SW1 New Net Name=D3_SW1
+Change Net Name : Old Net Name=D4_SW2 New Net Name=D3_SW2
+Change Net Name : Old Net Name=D4_SW3 New Net Name=D3_SW3
+Change Net Name : Old Net Name=D4_SW4 New Net Name=D3_SW4
+Change Net Name : Old Net Name=D4_SW5 New Net Name=D3_SW5
+Change Net Name : Old Net Name=D4_SW6 New Net Name=D3_SW6
+Change Net Name : Old Net Name=D4_SW7 New Net Name=D3_SW7
+Change Net Name : Old Net Name=D4_SW8 New Net Name=D3_SW8
+Change Net Name : Old Net Name=GND_1 New Net Name=S1_SW1
+Added Pin To Net: NetName=D2_SW1 Pin=U2_SW1-3
+Added Net: Name=D2_SW1
+Added Pin To Net: NetName=D2_SW2 Pin=U2_SW2-3
+Added Net: Name=D2_SW2
+Added Pin To Net: NetName=D2_SW3 Pin=U2_SW3-3
+Added Net: Name=D2_SW3
+Added Pin To Net: NetName=D2_SW4 Pin=U2_SW4-3
+Added Net: Name=D2_SW4
+Added Pin To Net: NetName=D2_SW5 Pin=U2_SW5-3
+Added Net: Name=D2_SW5
+Added Pin To Net: NetName=D2_SW6 Pin=U2_SW6-3
+Added Net: Name=D2_SW6
+Added Pin To Net: NetName=D2_SW7 Pin=U2_SW7-3
+Added Net: Name=D2_SW7
+Added Pin To Net: NetName=D2_SW8 Pin=U2_SW8-3
+Added Net: Name=D2_SW8

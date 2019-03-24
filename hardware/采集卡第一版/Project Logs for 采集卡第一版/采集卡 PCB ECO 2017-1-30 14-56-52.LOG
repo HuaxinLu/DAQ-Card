@@ -1,0 +1,5 @@
+Added Component: Designator=P5(SIP03)
+Added Member To Class: ClassName=U_数字部分 Member=Component P5 Header 3
+Added Room: Name=U_数字部分
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

@@ -1,0 +1,233 @@
+Removed Pin From Net: NetName=5V_0 Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C41-2
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=5V_0 Pin=C56-2
+Removed Pin From Net: NetName=GND Pin=C94-1
+Removed Pin From Net: NetName=GND_2 Pin=C95-1
+Removed Pin From Net: NetName=+6V_2 Pin=C95-2
+Removed Pin From Net: NetName=GND Pin=C100-1
+Removed Pin From Net: NetName=GND Pin=C104-1
+Removed Pin From Net: NetName=5V_0 Pin=C104-2
+Removed Pin From Net: NetName=GND Pin=C105-1
+Removed Pin From Net: NetName=5V_0 Pin=C105-2
+Removed Pin From Net: NetName=GND Pin=C106-1
+Removed Pin From Net: NetName=5V_0 Pin=C106-2
+Removed Pin From Net: NetName=GND Pin=C107-1
+Removed Pin From Net: NetName=5V_0 Pin=C107-2
+Removed Pin From Net: NetName=GND_2 Pin=C112-2
+Removed Pin From Net: NetName=GND_2 Pin=C114-2
+Removed Pin From Net: NetName=GND_2 Pin=C120-1
+Removed Pin From Net: NetName=+6V_2 Pin=C120-2
+Removed Pin From Net: NetName=NetD8_2 Pin=D11-2
+Removed Pin From Net: NetName=NetD8_2 Pin=L4-1
+Removed Pin From Net: NetName=+6V_2 Pin=L4-2
+Removed Pin From Net: NetName=NetC100_2 Pin=R38-1
+Removed Pin From Net: NetName=+6V_2 Pin=R40-1
+Removed Pin From Net: NetName=GND_2 Pin=R41-2
+Removed Pin From Net: NetName=GND_2 Pin=R42-2
+Removed Pin From Net: NetName=5V_0 Pin=T2-2
+Removed Pin From Net: NetName=5V_0 Pin=T2-2
+Removed Pin From Net: NetName=NetD11_1 Pin=T2-4
+Removed Pin From Net: NetName=GND_2 Pin=T2-5
+Removed Pin From Net: NetName=GND_2 Pin=T2-5
+Removed Pin From Net: NetName=NetD8_1 Pin=T2-6
+Removed Pin From Net: NetName=GND Pin=U21-2
+Removed Pin From Net: NetName=5V_0 Pin=U21-3
+Removed Pin From Net: NetName=5V_0 Pin=U21-9
+Removed Pin From Net: NetName=GND Pin=U21-10
+Removed Pin From Net: NetName=GND_2 Pin=U21-11
+Removed Pin From Net: NetName=GND_2 Pin=U21-19
+Removed Pin From Net: NetName=+6V_2 Pin=U21-20
+Removed Member From Class: ClassName=U_电源 Member=C41
+Removed Member From Class: ClassName=U_电源 Member=C56
+Removed Member From Class: ClassName=U_电源 Member=C94
+Removed Member From Class: ClassName=U_电源 Member=C95
+Removed Member From Class: ClassName=U_电源 Member=C100
+Removed Member From Class: ClassName=U_电源 Member=C104
+Removed Member From Class: ClassName=U_电源 Member=C105
+Removed Member From Class: ClassName=U_电源 Member=C106
+Removed Member From Class: ClassName=U_电源 Member=C107
+Removed Member From Class: ClassName=U_电源 Member=C112
+Removed Member From Class: ClassName=U_电源 Member=C114
+Removed Member From Class: ClassName=U_电源 Member=C120
+Removed Member From Class: ClassName=U_电源 Member=D8
+Removed Member From Class: ClassName=U_电源 Member=D11
+Removed Member From Class: ClassName=U_电源 Member=L4
+Removed Member From Class: ClassName=U_电源 Member=R37
+Removed Member From Class: ClassName=U_电源 Member=R38
+Removed Member From Class: ClassName=U_电源 Member=R40
+Removed Member From Class: ClassName=U_电源 Member=R41
+Removed Member From Class: ClassName=U_电源 Member=R42
+Removed Member From Class: ClassName=U_电源 Member=T2
+Removed Member From Class: ClassName=U_电源 Member=U21
+Change Component DesignItemId : Designator=U21 Old DesignItemId=ADUM3471 New DesignItemId=ADI4-1SW
+Change Component DesignItemId : Designator=D8 Old DesignItemId=Diode 11DQ03 New DesignItemId=Diode
+Change Component DesignItemId : Designator=D11 Old DesignItemId=Diode 11DQ03 New DesignItemId=Diode
+Change Component Footprint: Designator=C95 Old Footprint=1812 New Footprint=0805C
+Change Component Footprint: Designator=D8 Old Footprint=FB1206 New Footprint=SMA
+Change Component Footprint: Designator=D11 Old Footprint=FB1206 New Footprint=SMA
+Change Component Footprint: Designator=U21 Old Footprint=SSOP20 New Footprint=TSSOP16
+Change Component Comment : Designator=D8 Old Comment= New Comment=Diode
+Change Component Comment : Designator=D11 Old Comment= New Comment=Diode
+Change Component Comment : Designator=C106 Old Comment=1uF New Comment=Cap
+Change Component Comment : Designator=C107 Old Comment=1uF New Comment=Cap
+Change Component Comment : Designator=U21 Old Comment=ADUM3471 New Comment=ADI4-1SW
+Added Component: Designator=C65(0805C)
+Added Component: Designator=C67(0805C)
+Added Component: Designator=C71(0805C)
+Added Component: Designator=C96(0805C)
+Added Component: Designator=C102(0805C)
+Added Component: Designator=C108(0805C)
+Added Component: Designator=C109(0805C)
+Added Component: Designator=D10(SMA)
+Added Component: Designator=D12(SMA)
+Added Component: Designator=D13(SMA)
+Added Component: Designator=D14(SMA)
+Added Component: Designator=D15(SMA)
+Added Component: Designator=D16(SMA)
+Added Component: Designator=R30(0805R)
+Added Component: Designator=R35(0805R)
+Added Component: Designator=R36(0805R)
+Added Component: Designator=R39(0805R)
+Added Component: Designator=R43(0805R)
+Added Component: Designator=R44(0805R)
+Added Component: Designator=R45(0805R)
+Added Component: Designator=R46(0805R)
+Added Component: Designator=R47(0805R)
+Added Component: Designator=R48(0805R)
+Added Component: Designator=R49(0805R)
+Added Component: Designator=R50(0805R)
+Added Component: Designator=R51(0805R)
+Added Component: Designator=R52(0805R)
+Added Component: Designator=R53(0805R)
+Added Component: Designator=R54(0805R)
+Added Component: Designator=R55(0805R)
+Added Component: Designator=R56(0805R)
+Added Component: Designator=R57(0805R)
+Added Component: Designator=U22(TSSOP16)
+Added Pin To Net: NetName=NetC100_2 Pin=C102-2
+Added Pin To Net: NetName=NetD8_2 Pin=R30-1
+Added Pin To Net: NetName=NetD8_2 Pin=R35-1
+Added Pin To Net: NetName=NetD8_1 Pin=R35-2
+Added Pin To Net: NetName=NetD8_1 Pin=R36-1
+Added Pin To Net: NetName=NetD11_1 Pin=R41-2
+Added Pin To Net: NetName=NetD11_1 Pin=R42-1
+Added Pin To Net: NetName=NetC100_2 Pin=R46-2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=C56-1
+Added Pin To Net: NetName=NetC41_1 Pin=R36-2
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=C56-2
+Added Pin To Net: NetName=NetC41_2 Pin=R30-2
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC65_1 Pin=C65-1
+Added Pin To Net: NetName=NetC65_1 Pin=C67-1
+Added Pin To Net: NetName=NetC65_1 Pin=R39-2
+Added Net: Name=NetC65_1
+Added Pin To Net: NetName=NetC65_2 Pin=C65-2
+Added Pin To Net: NetName=NetC65_2 Pin=C67-2
+Added Pin To Net: NetName=NetC65_2 Pin=R37-2
+Added Net: Name=NetC65_2
+Added Pin To Net: NetName=NetC71_1 Pin=C71-1
+Added Pin To Net: NetName=NetC71_1 Pin=C94-1
+Added Pin To Net: NetName=NetC71_1 Pin=R42-2
+Added Net: Name=NetC71_1
+Added Pin To Net: NetName=NetC71_2 Pin=C71-2
+Added Pin To Net: NetName=NetC71_2 Pin=C94-2
+Added Pin To Net: NetName=NetC71_2 Pin=R40-2
+Added Net: Name=NetC71_2
+Added Pin To Net: NetName=NetC95_1 Pin=C95-1
+Added Pin To Net: NetName=NetC95_1 Pin=C96-1
+Added Pin To Net: NetName=NetC95_1 Pin=R45-2
+Added Net: Name=NetC95_1
+Added Pin To Net: NetName=NetC95_2 Pin=C95-2
+Added Pin To Net: NetName=NetC95_2 Pin=C96-2
+Added Pin To Net: NetName=NetC95_2 Pin=R43-2
+Added Net: Name=NetC95_2
+Added Pin To Net: NetName=NetC100_1 Pin=C100-1
+Added Pin To Net: NetName=NetC100_1 Pin=C102-1
+Added Pin To Net: NetName=NetC100_1 Pin=R48-2
+Added Net: Name=NetC100_1
+Added Pin To Net: NetName=NetC104_1 Pin=C104-1
+Added Pin To Net: NetName=NetC104_1 Pin=C105-1
+Added Pin To Net: NetName=NetC104_1 Pin=R51-2
+Added Net: Name=NetC104_1
+Added Pin To Net: NetName=NetC104_2 Pin=C104-2
+Added Pin To Net: NetName=NetC104_2 Pin=C105-2
+Added Pin To Net: NetName=NetC104_2 Pin=R49-2
+Added Net: Name=NetC104_2
+Added Pin To Net: NetName=NetC106_1 Pin=C106-1
+Added Pin To Net: NetName=NetC106_1 Pin=C107-1
+Added Pin To Net: NetName=NetC106_1 Pin=R54-2
+Added Net: Name=NetC106_1
+Added Pin To Net: NetName=NetC106_2 Pin=C106-2
+Added Pin To Net: NetName=NetC106_2 Pin=C107-2
+Added Pin To Net: NetName=NetC106_2 Pin=R52-2
+Added Net: Name=NetC106_2
+Added Pin To Net: NetName=NetC108_1 Pin=C108-1
+Added Pin To Net: NetName=NetC108_1 Pin=C109-1
+Added Pin To Net: NetName=NetC108_1 Pin=R57-2
+Added Net: Name=NetC108_1
+Added Pin To Net: NetName=NetC108_2 Pin=C108-2
+Added Pin To Net: NetName=NetC108_2 Pin=C109-2
+Added Pin To Net: NetName=NetC108_2 Pin=R55-2
+Added Net: Name=NetC108_2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R38-2
+Added Pin To Net: NetName=NetD10_1 Pin=R39-1
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R37-1
+Added Pin To Net: NetName=NetD10_2 Pin=R38-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R40-1
+Added Pin To Net: NetName=NetD11_2 Pin=R41-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=R44-2
+Added Pin To Net: NetName=NetD12_1 Pin=R45-1
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R43-1
+Added Pin To Net: NetName=NetD12_2 Pin=R44-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=R47-2
+Added Pin To Net: NetName=NetD13_1 Pin=R48-1
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R46-1
+Added Pin To Net: NetName=NetD13_2 Pin=R47-1
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=R50-2
+Added Pin To Net: NetName=NetD14_1 Pin=R51-1
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=R49-1
+Added Pin To Net: NetName=NetD14_2 Pin=R50-1
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=R53-2
+Added Pin To Net: NetName=NetD15_1 Pin=R54-1
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=R52-1
+Added Pin To Net: NetName=NetD15_2 Pin=R53-1
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_1 Pin=R56-2
+Added Pin To Net: NetName=NetD16_1 Pin=R57-1
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=R55-1
+Added Pin To Net: NetName=NetD16_2 Pin=R56-1
+Added Net: Name=NetD16_2
+Added Class: Name=U_模拟量输入输出
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

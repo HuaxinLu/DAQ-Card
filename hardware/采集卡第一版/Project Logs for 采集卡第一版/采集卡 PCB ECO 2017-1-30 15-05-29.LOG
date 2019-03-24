@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=U_数字部分 Member=P3
+Removed Member From Class: ClassName=U_电源 Member=P3
+Change Component Footprint: Designator=C89 Old Footprint=0805C New Footprint=1812
+Added Member To Class: ClassName=U_电源 Member=Component P5 Header 3
+Added Room: Name=U_数字部分
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

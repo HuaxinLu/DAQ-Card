@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=U10 Old DesignItemId=ADUM252 New DesignItemId=ADUM152
+Change Component Footprint: Designator=U10 Old Footprint=SOL-16 New Footprint=SO16NB
+Change Component Comment : Designator=U10 Old Comment=ADUM252 New Comment=ADUM152
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

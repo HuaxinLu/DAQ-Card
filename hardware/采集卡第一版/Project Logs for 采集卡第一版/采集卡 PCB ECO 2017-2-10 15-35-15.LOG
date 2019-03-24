@@ -1,0 +1,56 @@
+Change Component DesignItemId : Designator=D1_DI1 Old DesignItemId=Diode New DesignItemId=TVS-sot23-3
+Change Component DesignItemId : Designator=D1_DI2 Old DesignItemId=Diode New DesignItemId=TVS-sot23-3
+Change Component DesignItemId : Designator=D1_DI3 Old DesignItemId=Diode New DesignItemId=TVS-sot23-3
+Change Component DesignItemId : Designator=D1_DI4 Old DesignItemId=Diode New DesignItemId=TVS-sot23-3
+Change Component DesignItemId : Designator=D1_DI5 Old DesignItemId=Diode New DesignItemId=TVS-sot23-3
+Change Component DesignItemId : Designator=D1_DI6 Old DesignItemId=Diode New DesignItemId=TVS-sot23-3
+Change Component DesignItemId : Designator=D1_DI7 Old DesignItemId=Diode New DesignItemId=TVS-sot23-3
+Change Component DesignItemId : Designator=D1_DI8 Old DesignItemId=Diode New DesignItemId=TVS-sot23-3
+Change Component Footprint: Designator=D1_DI1 Old Footprint=SMA New Footprint=SOT23
+Change Component Footprint: Designator=D1_DI2 Old Footprint=SMA New Footprint=SOT23
+Change Component Footprint: Designator=D1_DI3 Old Footprint=SMA New Footprint=SOT23
+Change Component Footprint: Designator=D1_DI4 Old Footprint=SMA New Footprint=SOT23
+Change Component Footprint: Designator=D1_DI5 Old Footprint=SMA New Footprint=SOT23
+Change Component Footprint: Designator=D1_DI6 Old Footprint=SMA New Footprint=SOT23
+Change Component Footprint: Designator=D1_DI7 Old Footprint=SMA New Footprint=SOT23
+Change Component Footprint: Designator=D1_DI8 Old Footprint=SMA New Footprint=SOT23
+Change Component Comment : Designator=D1_DI1 Old Comment=Diode New Comment=TVS-sot23-3
+Change Component Comment : Designator=D1_DI2 Old Comment=Diode New Comment=TVS-sot23-3
+Change Component Comment : Designator=D1_DI3 Old Comment=Diode New Comment=TVS-sot23-3
+Change Component Comment : Designator=D1_DI4 Old Comment=Diode New Comment=TVS-sot23-3
+Change Component Comment : Designator=D1_DI5 Old Comment=Diode New Comment=TVS-sot23-3
+Change Component Comment : Designator=D1_DI6 Old Comment=Diode New Comment=TVS-sot23-3
+Change Component Comment : Designator=D1_DI7 Old Comment=Diode New Comment=TVS-sot23-3
+Change Component Comment : Designator=D1_DI8 Old Comment=Diode New Comment=TVS-sot23-3
+Added Component: Designator=C134(0805C)
+Added Component: Designator=C135(0805C)
+Added Component: Designator=C206(0805C)
+Added Component: Designator=C207(0805C)
+Added Pin To Net: NetName=+5V_1 Pin=C134-1
+Added Pin To Net: NetName=GND_1 Pin=C134-2
+Added Pin To Net: NetName=+5V_1 Pin=C135-1
+Added Pin To Net: NetName=GND_1 Pin=C135-2
+Added Pin To Net: NetName=-5V_1 Pin=C206-1
+Added Pin To Net: NetName=GND_1 Pin=C206-2
+Added Pin To Net: NetName=-5V_1 Pin=C207-1
+Added Pin To Net: NetName=GND_1 Pin=C207-2
+Added Pin To Net: NetName=CH1 Pin=D1_DI1-3
+Added Pin To Net: NetName=CH2 Pin=D1_DI2-3
+Added Pin To Net: NetName=CH3 Pin=D1_DI3-3
+Added Pin To Net: NetName=CH4 Pin=D1_DI4-3
+Added Pin To Net: NetName=CH5 Pin=D1_DI5-3
+Added Pin To Net: NetName=CH6 Pin=D1_DI6-3
+Added Pin To Net: NetName=CH7 Pin=D1_DI7-3
+Added Pin To Net: NetName=CH8 Pin=D1_DI8-3
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C134 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C135 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C206 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C207 Cap
+Added Member To Class: ClassName=OUT[1..8] Member=Element[1]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[2]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[3]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[4]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[5]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[6]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[7]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[8]: OUT

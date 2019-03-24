@@ -1,0 +1,64 @@
+Added Component: Designator=C134_DI1(0805C)
+Added Component: Designator=C134_DI2(0805C)
+Added Component: Designator=C134_DI3(0805C)
+Added Component: Designator=C134_DI4(0805C)
+Added Component: Designator=C134_DI5(0805C)
+Added Component: Designator=C134_DI6(0805C)
+Added Component: Designator=C134_DI7(0805C)
+Added Component: Designator=C134_DI8(0805C)
+Added Component: Designator=C135_DI1(0805C)
+Added Component: Designator=C135_DI2(0805C)
+Added Component: Designator=C135_DI3(0805C)
+Added Component: Designator=C135_DI4(0805C)
+Added Component: Designator=C135_DI5(0805C)
+Added Component: Designator=C135_DI6(0805C)
+Added Component: Designator=C135_DI7(0805C)
+Added Component: Designator=C135_DI8(0805C)
+Added Pin To Net: NetName=AGND_1 Pin=C134_DI1-1
+Added Pin To Net: NetName=+5V_1 Pin=C134_DI1-2
+Added Pin To Net: NetName=AGND_1 Pin=C134_DI2-1
+Added Pin To Net: NetName=+5V_1 Pin=C134_DI2-2
+Added Pin To Net: NetName=AGND_1 Pin=C134_DI3-1
+Added Pin To Net: NetName=+5V_1 Pin=C134_DI3-2
+Added Pin To Net: NetName=AGND_1 Pin=C134_DI4-1
+Added Pin To Net: NetName=+5V_1 Pin=C134_DI4-2
+Added Pin To Net: NetName=AGND_1 Pin=C134_DI5-1
+Added Pin To Net: NetName=+5V_1 Pin=C134_DI5-2
+Added Pin To Net: NetName=AGND_1 Pin=C134_DI6-1
+Added Pin To Net: NetName=+5V_1 Pin=C134_DI6-2
+Added Pin To Net: NetName=AGND_1 Pin=C134_DI7-1
+Added Pin To Net: NetName=+5V_1 Pin=C134_DI7-2
+Added Pin To Net: NetName=AGND_1 Pin=C134_DI8-1
+Added Pin To Net: NetName=+5V_1 Pin=C134_DI8-2
+Added Pin To Net: NetName=AGND_1 Pin=C135_DI1-1
+Added Pin To Net: NetName=-5V_1 Pin=C135_DI1-2
+Added Pin To Net: NetName=AGND_1 Pin=C135_DI2-1
+Added Pin To Net: NetName=-5V_1 Pin=C135_DI2-2
+Added Pin To Net: NetName=AGND_1 Pin=C135_DI3-1
+Added Pin To Net: NetName=-5V_1 Pin=C135_DI3-2
+Added Pin To Net: NetName=AGND_1 Pin=C135_DI4-1
+Added Pin To Net: NetName=-5V_1 Pin=C135_DI4-2
+Added Pin To Net: NetName=AGND_1 Pin=C135_DI5-1
+Added Pin To Net: NetName=-5V_1 Pin=C135_DI5-2
+Added Pin To Net: NetName=AGND_1 Pin=C135_DI6-1
+Added Pin To Net: NetName=-5V_1 Pin=C135_DI6-2
+Added Pin To Net: NetName=AGND_1 Pin=C135_DI7-1
+Added Pin To Net: NetName=-5V_1 Pin=C135_DI7-2
+Added Pin To Net: NetName=AGND_1 Pin=C135_DI8-1
+Added Pin To Net: NetName=-5V_1 Pin=C135_DI8-2
+Added Member To Class: ClassName=DI1 Member=Component C134_DI1 (C134) Cap
+Added Member To Class: ClassName=DI2 Member=Component C134_DI2 (C134) Cap
+Added Member To Class: ClassName=DI3 Member=Component C134_DI3 (C134) Cap
+Added Member To Class: ClassName=DI4 Member=Component C134_DI4 (C134) Cap
+Added Member To Class: ClassName=DI5 Member=Component C134_DI5 (C134) Cap
+Added Member To Class: ClassName=DI6 Member=Component C134_DI6 (C134) Cap
+Added Member To Class: ClassName=DI7 Member=Component C134_DI7 (C134) Cap
+Added Member To Class: ClassName=DI8 Member=Component C134_DI8 (C134) Cap
+Added Member To Class: ClassName=DI1 Member=Component C135_DI1 (C135) Cap
+Added Member To Class: ClassName=DI2 Member=Component C135_DI2 (C135) Cap
+Added Member To Class: ClassName=DI3 Member=Component C135_DI3 (C135) Cap
+Added Member To Class: ClassName=DI4 Member=Component C135_DI4 (C135) Cap
+Added Member To Class: ClassName=DI5 Member=Component C135_DI5 (C135) Cap
+Added Member To Class: ClassName=DI6 Member=Component C135_DI6 (C135) Cap
+Added Member To Class: ClassName=DI7 Member=Component C135_DI7 (C135) Cap
+Added Member To Class: ClassName=DI8 Member=Component C135_DI8 (C135) Cap

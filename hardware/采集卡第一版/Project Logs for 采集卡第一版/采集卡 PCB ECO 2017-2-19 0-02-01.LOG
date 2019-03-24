@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND_OUT Pin=C186-1
+Removed Pin From Net: NetName=VCC_OUT Pin=C186-2
+Removed Pin From Net: NetName=GND_OUT Pin=C187-1
+Removed Pin From Net: NetName=VCC_OUT Pin=C187-2
+Removed Member From Class: ClassName=U_数字部分 Member=C186
+Removed Member From Class: ClassName=U_数字部分 Member=C187

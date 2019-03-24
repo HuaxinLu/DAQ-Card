@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=+5V_2 Pin=C101-1
+Added Pin To Net: NetName=+5V_2 Pin=C103-1
+Added Pin To Net: NetName=DVCC_2 Pin=C207-1
+Added Pin To Net: NetName=+5V_2 Pin=C207-2
+Added Pin To Net: NetName=DVCC_2 Pin=R180-2
+Added Pin To Net: NetName=DVCC_2 Pin=R181-1
+Added Pin To Net: NetName=+5V_2 Pin=R181-2

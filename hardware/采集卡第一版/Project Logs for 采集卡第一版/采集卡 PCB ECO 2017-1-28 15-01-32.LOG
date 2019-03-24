@@ -1,0 +1,611 @@
+Removed Pin From Net: NetName=NetC5_DI1_1 Pin=D1_DI1-3
+Removed Member From Class: ClassName=CH[1..20] Member=CH9
+Removed Member From Class: ClassName=CH[1..20] Member=CH10
+Removed Member From Class: ClassName=CH[1..20] Member=CH11
+Removed Member From Class: ClassName=CH[1..20] Member=CH12
+Removed Member From Class: ClassName=CH[1..20] Member=CH13
+Removed Member From Class: ClassName=CH[1..20] Member=CH14
+Removed Member From Class: ClassName=CH[1..20] Member=CH15
+Removed Member From Class: ClassName=CH[1..20] Member=CH16
+Removed Member From Class: ClassName=CL[1..20] Member=CL9
+Removed Member From Class: ClassName=CL[1..20] Member=CL10
+Removed Member From Class: ClassName=CL[1..20] Member=CL11
+Removed Member From Class: ClassName=CL[1..20] Member=CL12
+Removed Member From Class: ClassName=CL[1..20] Member=CL13
+Removed Member From Class: ClassName=CL[1..20] Member=CL14
+Removed Member From Class: ClassName=CL[1..20] Member=CL15
+Removed Member From Class: ClassName=CL[1..20] Member=CL16
+Removed Member From Class: ClassName=OUT[1..20] Member=OUT9
+Removed Member From Class: ClassName=OUT[1..20] Member=OUT10
+Removed Member From Class: ClassName=OUT[1..20] Member=OUT11
+Removed Member From Class: ClassName=OUT[1..20] Member=OUT12
+Removed Member From Class: ClassName=OUT[1..20] Member=OUT13
+Removed Member From Class: ClassName=OUT[1..20] Member=OUT14
+Removed Member From Class: ClassName=OUT[1..20] Member=OUT15
+Removed Member From Class: ClassName=OUT[1..20] Member=OUT16
+Change Component DesignItemId : Designator=D1_DI1 Old DesignItemId=TVS-sot23-3 New DesignItemId=Diode
+Change Component Footprint: Designator=C3_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=C4_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=C5_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=C6_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=C7_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=C8_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=C9_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=C10_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=C11_DI1 Old Footprint=0603AC New Footprint=0805C
+Change Component Footprint: Designator=R1_DI1 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=R2_DI1 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=R3_DI1 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=R4_DI1 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=R5_DI1 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=R6_DI1 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=R7_DI1 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=U1_DI1 Old Footprint=MSOP8 New Footprint=SOIC8
+Change Component Footprint: Designator=D1_DI1 Old Footprint=SOT23_N New Footprint=SMA
+Change Component Comment : Designator=D1_DI1 Old Comment=TVS-sot23-3 New Comment=Diode
+Change Component Designator: OldDesignator=U1_DI1 NewDesignator=U9_DI1
+Added Component: Designator=C3_DI2(0805C)
+Added Component: Designator=C3_DI3(0805C)
+Added Component: Designator=C3_DI4(0805C)
+Added Component: Designator=C3_DI5(0805C)
+Added Component: Designator=C3_DI6(0805C)
+Added Component: Designator=C3_DI7(0805C)
+Added Component: Designator=C3_DI8(0805C)
+Added Component: Designator=C4_DI2(0805C)
+Added Component: Designator=C4_DI3(0805C)
+Added Component: Designator=C4_DI4(0805C)
+Added Component: Designator=C4_DI5(0805C)
+Added Component: Designator=C4_DI6(0805C)
+Added Component: Designator=C4_DI7(0805C)
+Added Component: Designator=C4_DI8(0805C)
+Added Component: Designator=C5_DI2(0805C)
+Added Component: Designator=C5_DI3(0805C)
+Added Component: Designator=C5_DI4(0805C)
+Added Component: Designator=C5_DI5(0805C)
+Added Component: Designator=C5_DI6(0805C)
+Added Component: Designator=C5_DI7(0805C)
+Added Component: Designator=C5_DI8(0805C)
+Added Component: Designator=C6_DI2(0805C)
+Added Component: Designator=C6_DI3(0805C)
+Added Component: Designator=C6_DI4(0805C)
+Added Component: Designator=C6_DI5(0805C)
+Added Component: Designator=C6_DI6(0805C)
+Added Component: Designator=C6_DI7(0805C)
+Added Component: Designator=C6_DI8(0805C)
+Added Component: Designator=C7_DI2(0805C)
+Added Component: Designator=C7_DI3(0805C)
+Added Component: Designator=C7_DI4(0805C)
+Added Component: Designator=C7_DI5(0805C)
+Added Component: Designator=C7_DI6(0805C)
+Added Component: Designator=C7_DI7(0805C)
+Added Component: Designator=C7_DI8(0805C)
+Added Component: Designator=C8_DI2(0805C)
+Added Component: Designator=C8_DI3(0805C)
+Added Component: Designator=C8_DI4(0805C)
+Added Component: Designator=C8_DI5(0805C)
+Added Component: Designator=C8_DI6(0805C)
+Added Component: Designator=C8_DI7(0805C)
+Added Component: Designator=C8_DI8(0805C)
+Added Component: Designator=C9_DI2(0805C)
+Added Component: Designator=C9_DI3(0805C)
+Added Component: Designator=C9_DI4(0805C)
+Added Component: Designator=C9_DI5(0805C)
+Added Component: Designator=C9_DI6(0805C)
+Added Component: Designator=C9_DI7(0805C)
+Added Component: Designator=C9_DI8(0805C)
+Added Component: Designator=C10_DI2(0805C)
+Added Component: Designator=C10_DI3(0805C)
+Added Component: Designator=C10_DI4(0805C)
+Added Component: Designator=C10_DI5(0805C)
+Added Component: Designator=C10_DI6(0805C)
+Added Component: Designator=C10_DI7(0805C)
+Added Component: Designator=C10_DI8(0805C)
+Added Component: Designator=C11_DI2(0805C)
+Added Component: Designator=C11_DI3(0805C)
+Added Component: Designator=C11_DI4(0805C)
+Added Component: Designator=C11_DI5(0805C)
+Added Component: Designator=C11_DI6(0805C)
+Added Component: Designator=C11_DI7(0805C)
+Added Component: Designator=C11_DI8(0805C)
+Added Component: Designator=D1_DI2(SMA)
+Added Component: Designator=D1_DI3(SMA)
+Added Component: Designator=D1_DI4(SMA)
+Added Component: Designator=D1_DI5(SMA)
+Added Component: Designator=D1_DI6(SMA)
+Added Component: Designator=D1_DI7(SMA)
+Added Component: Designator=D1_DI8(SMA)
+Added Component: Designator=R1_DI2(0805R)
+Added Component: Designator=R1_DI3(0805R)
+Added Component: Designator=R1_DI4(0805R)
+Added Component: Designator=R1_DI5(0805R)
+Added Component: Designator=R1_DI6(0805R)
+Added Component: Designator=R1_DI7(0805R)
+Added Component: Designator=R1_DI8(0805R)
+Added Component: Designator=R2_DI2(0805R)
+Added Component: Designator=R2_DI3(0805R)
+Added Component: Designator=R2_DI4(0805R)
+Added Component: Designator=R2_DI5(0805R)
+Added Component: Designator=R2_DI6(0805R)
+Added Component: Designator=R2_DI7(0805R)
+Added Component: Designator=R2_DI8(0805R)
+Added Component: Designator=R3_DI2(0805R)
+Added Component: Designator=R3_DI3(0805R)
+Added Component: Designator=R3_DI4(0805R)
+Added Component: Designator=R3_DI5(0805R)
+Added Component: Designator=R3_DI6(0805R)
+Added Component: Designator=R3_DI7(0805R)
+Added Component: Designator=R3_DI8(0805R)
+Added Component: Designator=R4_DI2(0805R)
+Added Component: Designator=R4_DI3(0805R)
+Added Component: Designator=R4_DI4(0805R)
+Added Component: Designator=R4_DI5(0805R)
+Added Component: Designator=R4_DI6(0805R)
+Added Component: Designator=R4_DI7(0805R)
+Added Component: Designator=R4_DI8(0805R)
+Added Component: Designator=R5_DI2(0805R)
+Added Component: Designator=R5_DI3(0805R)
+Added Component: Designator=R5_DI4(0805R)
+Added Component: Designator=R5_DI5(0805R)
+Added Component: Designator=R5_DI6(0805R)
+Added Component: Designator=R5_DI7(0805R)
+Added Component: Designator=R5_DI8(0805R)
+Added Component: Designator=R6_DI2(0805R)
+Added Component: Designator=R6_DI3(0805R)
+Added Component: Designator=R6_DI4(0805R)
+Added Component: Designator=R6_DI5(0805R)
+Added Component: Designator=R6_DI6(0805R)
+Added Component: Designator=R6_DI7(0805R)
+Added Component: Designator=R6_DI8(0805R)
+Added Component: Designator=R7_DI2(0805R)
+Added Component: Designator=R7_DI3(0805R)
+Added Component: Designator=R7_DI4(0805R)
+Added Component: Designator=R7_DI5(0805R)
+Added Component: Designator=R7_DI6(0805R)
+Added Component: Designator=R7_DI7(0805R)
+Added Component: Designator=R7_DI8(0805R)
+Added Component: Designator=U5(TSSOP16)
+Added Component: Designator=U6(TSSOP16)
+Added Component: Designator=U7(TSSOP16)
+Added Component: Designator=U8(TSSOP16)
+Added Component: Designator=U9_DI2(SOIC8)
+Added Component: Designator=U9_DI3(SOIC8)
+Added Component: Designator=U9_DI4(SOIC8)
+Added Component: Designator=U9_DI5(SOIC8)
+Added Component: Designator=U9_DI6(SOIC8)
+Added Component: Designator=U9_DI7(SOIC8)
+Added Component: Designator=U9_DI8(SOIC8)
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=C3_DI2-1
+Added Pin To Net: NetName=GND_1 Pin=C3_DI2-2
+Added Pin To Net: NetName=NetC3_DI3_1 Pin=C3_DI3-1
+Added Pin To Net: NetName=GND_1 Pin=C3_DI3-2
+Added Pin To Net: NetName=NetC3_DI4_1 Pin=C3_DI4-1
+Added Pin To Net: NetName=GND_1 Pin=C3_DI4-2
+Added Pin To Net: NetName=NetC3_DI5_1 Pin=C3_DI5-1
+Added Pin To Net: NetName=GND_1 Pin=C3_DI5-2
+Added Pin To Net: NetName=NetC3_DI6_1 Pin=C3_DI6-1
+Added Pin To Net: NetName=GND_1 Pin=C3_DI6-2
+Added Pin To Net: NetName=NetC3_DI7_1 Pin=C3_DI7-1
+Added Pin To Net: NetName=GND_1 Pin=C3_DI7-2
+Added Pin To Net: NetName=NetC3_DI8_1 Pin=C3_DI8-1
+Added Pin To Net: NetName=GND_1 Pin=C3_DI8-2
+Added Pin To Net: NetName=CH2 Pin=C4_DI2-1
+Added Pin To Net: NetName=CL2 Pin=C4_DI2-2
+Added Pin To Net: NetName=CH3 Pin=C4_DI3-1
+Added Pin To Net: NetName=CL3 Pin=C4_DI3-2
+Added Pin To Net: NetName=CH4 Pin=C4_DI4-1
+Added Pin To Net: NetName=CL4 Pin=C4_DI4-2
+Added Pin To Net: NetName=CH5 Pin=C4_DI5-1
+Added Pin To Net: NetName=CL5 Pin=C4_DI5-2
+Added Pin To Net: NetName=CH6 Pin=C4_DI6-1
+Added Pin To Net: NetName=CL6 Pin=C4_DI6-2
+Added Pin To Net: NetName=CH7 Pin=C4_DI7-1
+Added Pin To Net: NetName=CL7 Pin=C4_DI7-2
+Added Pin To Net: NetName=CH8 Pin=C4_DI8-1
+Added Pin To Net: NetName=CL8 Pin=C4_DI8-2
+Added Pin To Net: NetName=NetC5_DI2_1 Pin=C5_DI2-1
+Added Pin To Net: NetName=NetC5_DI2_2 Pin=C5_DI2-2
+Added Pin To Net: NetName=NetC5_DI3_1 Pin=C5_DI3-1
+Added Pin To Net: NetName=NetC5_DI3_2 Pin=C5_DI3-2
+Added Pin To Net: NetName=NetC5_DI4_1 Pin=C5_DI4-1
+Added Pin To Net: NetName=NetC5_DI4_2 Pin=C5_DI4-2
+Added Pin To Net: NetName=NetC5_DI5_1 Pin=C5_DI5-1
+Added Pin To Net: NetName=NetC5_DI5_2 Pin=C5_DI5-2
+Added Pin To Net: NetName=NetC5_DI6_1 Pin=C5_DI6-1
+Added Pin To Net: NetName=NetC5_DI6_2 Pin=C5_DI6-2
+Added Pin To Net: NetName=NetC5_DI7_1 Pin=C5_DI7-1
+Added Pin To Net: NetName=NetC5_DI7_2 Pin=C5_DI7-2
+Added Pin To Net: NetName=NetC5_DI8_1 Pin=C5_DI8-1
+Added Pin To Net: NetName=NetC5_DI8_2 Pin=C5_DI8-2
+Added Pin To Net: NetName=NetC6_DI2_1 Pin=C6_DI2-1
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=C6_DI2-2
+Added Pin To Net: NetName=NetC6_DI3_1 Pin=C6_DI3-1
+Added Pin To Net: NetName=NetC3_DI3_1 Pin=C6_DI3-2
+Added Pin To Net: NetName=NetC6_DI4_1 Pin=C6_DI4-1
+Added Pin To Net: NetName=NetC3_DI4_1 Pin=C6_DI4-2
+Added Pin To Net: NetName=NetC6_DI5_1 Pin=C6_DI5-1
+Added Pin To Net: NetName=NetC3_DI5_1 Pin=C6_DI5-2
+Added Pin To Net: NetName=NetC6_DI6_1 Pin=C6_DI6-1
+Added Pin To Net: NetName=NetC3_DI6_1 Pin=C6_DI6-2
+Added Pin To Net: NetName=NetC6_DI7_1 Pin=C6_DI7-1
+Added Pin To Net: NetName=NetC3_DI7_1 Pin=C6_DI7-2
+Added Pin To Net: NetName=NetC6_DI8_1 Pin=C6_DI8-1
+Added Pin To Net: NetName=NetC3_DI8_1 Pin=C6_DI8-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI2-1
+Added Pin To Net: NetName=NetC6_DI2_1 Pin=C7_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI3-1
+Added Pin To Net: NetName=NetC6_DI3_1 Pin=C7_DI3-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI4-1
+Added Pin To Net: NetName=NetC6_DI4_1 Pin=C7_DI4-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI5-1
+Added Pin To Net: NetName=NetC6_DI5_1 Pin=C7_DI5-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI6-1
+Added Pin To Net: NetName=NetC6_DI6_1 Pin=C7_DI6-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI7-1
+Added Pin To Net: NetName=NetC6_DI7_1 Pin=C7_DI7-2
+Added Pin To Net: NetName=GND_1 Pin=C7_DI8-1
+Added Pin To Net: NetName=NetC6_DI8_1 Pin=C7_DI8-2
+Added Pin To Net: NetName=GND_1 Pin=C8_DI2-1
+Added Pin To Net: NetName=+5V_1 Pin=C8_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=C8_DI3-1
+Added Pin To Net: NetName=+5V_1 Pin=C8_DI3-2
+Added Pin To Net: NetName=GND_1 Pin=C8_DI4-1
+Added Pin To Net: NetName=+5V_1 Pin=C8_DI4-2
+Added Pin To Net: NetName=GND_1 Pin=C8_DI5-1
+Added Pin To Net: NetName=+5V_1 Pin=C8_DI5-2
+Added Pin To Net: NetName=GND_1 Pin=C8_DI6-1
+Added Pin To Net: NetName=+5V_1 Pin=C8_DI6-2
+Added Pin To Net: NetName=GND_1 Pin=C8_DI7-1
+Added Pin To Net: NetName=+5V_1 Pin=C8_DI7-2
+Added Pin To Net: NetName=GND_1 Pin=C8_DI8-1
+Added Pin To Net: NetName=+5V_1 Pin=C8_DI8-2
+Added Pin To Net: NetName=GND_1 Pin=C9_DI2-1
+Added Pin To Net: NetName=-5V_1 Pin=C9_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=C9_DI3-1
+Added Pin To Net: NetName=-5V_1 Pin=C9_DI3-2
+Added Pin To Net: NetName=GND_1 Pin=C9_DI4-1
+Added Pin To Net: NetName=-5V_1 Pin=C9_DI4-2
+Added Pin To Net: NetName=GND_1 Pin=C9_DI5-1
+Added Pin To Net: NetName=-5V_1 Pin=C9_DI5-2
+Added Pin To Net: NetName=GND_1 Pin=C9_DI6-1
+Added Pin To Net: NetName=-5V_1 Pin=C9_DI6-2
+Added Pin To Net: NetName=GND_1 Pin=C9_DI7-1
+Added Pin To Net: NetName=-5V_1 Pin=C9_DI7-2
+Added Pin To Net: NetName=GND_1 Pin=C9_DI8-1
+Added Pin To Net: NetName=-5V_1 Pin=C9_DI8-2
+Added Pin To Net: NetName=GND_1 Pin=C10_DI2-1
+Added Pin To Net: NetName=NetC10_DI2_2 Pin=C10_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=C10_DI3-1
+Added Pin To Net: NetName=NetC10_DI3_2 Pin=C10_DI3-2
+Added Pin To Net: NetName=GND_1 Pin=C10_DI4-1
+Added Pin To Net: NetName=NetC10_DI4_2 Pin=C10_DI4-2
+Added Pin To Net: NetName=GND_1 Pin=C10_DI5-1
+Added Pin To Net: NetName=NetC10_DI5_2 Pin=C10_DI5-2
+Added Pin To Net: NetName=GND_1 Pin=C10_DI6-1
+Added Pin To Net: NetName=NetC10_DI6_2 Pin=C10_DI6-2
+Added Pin To Net: NetName=GND_1 Pin=C10_DI7-1
+Added Pin To Net: NetName=NetC10_DI7_2 Pin=C10_DI7-2
+Added Pin To Net: NetName=GND_1 Pin=C10_DI8-1
+Added Pin To Net: NetName=NetC10_DI8_2 Pin=C10_DI8-2
+Added Pin To Net: NetName=GND_1 Pin=C11_DI2-1
+Added Pin To Net: NetName=OUT2 Pin=C11_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=C11_DI3-1
+Added Pin To Net: NetName=OUT3 Pin=C11_DI3-2
+Added Pin To Net: NetName=GND_1 Pin=C11_DI4-1
+Added Pin To Net: NetName=OUT4 Pin=C11_DI4-2
+Added Pin To Net: NetName=GND_1 Pin=C11_DI5-1
+Added Pin To Net: NetName=OUT5 Pin=C11_DI5-2
+Added Pin To Net: NetName=GND_1 Pin=C11_DI6-1
+Added Pin To Net: NetName=OUT6 Pin=C11_DI6-2
+Added Pin To Net: NetName=GND_1 Pin=C11_DI7-1
+Added Pin To Net: NetName=OUT7 Pin=C11_DI7-2
+Added Pin To Net: NetName=GND_1 Pin=C11_DI8-1
+Added Pin To Net: NetName=OUT8 Pin=C11_DI8-2
+Added Pin To Net: NetName=NetC5_DI2_2 Pin=D1_DI2-1
+Added Pin To Net: NetName=NetC5_DI2_1 Pin=D1_DI2-2
+Added Pin To Net: NetName=NetC5_DI3_2 Pin=D1_DI3-1
+Added Pin To Net: NetName=NetC5_DI3_1 Pin=D1_DI3-2
+Added Pin To Net: NetName=NetC5_DI4_2 Pin=D1_DI4-1
+Added Pin To Net: NetName=NetC5_DI4_1 Pin=D1_DI4-2
+Added Pin To Net: NetName=NetC5_DI5_2 Pin=D1_DI5-1
+Added Pin To Net: NetName=NetC5_DI5_1 Pin=D1_DI5-2
+Added Pin To Net: NetName=NetC5_DI6_2 Pin=D1_DI6-1
+Added Pin To Net: NetName=NetC5_DI6_1 Pin=D1_DI6-2
+Added Pin To Net: NetName=NetC5_DI7_2 Pin=D1_DI7-1
+Added Pin To Net: NetName=NetC5_DI7_1 Pin=D1_DI7-2
+Added Pin To Net: NetName=NetC5_DI8_2 Pin=D1_DI8-1
+Added Pin To Net: NetName=NetC5_DI8_1 Pin=D1_DI8-2
+Added Pin To Net: NetName=NetC5_DI2_2 Pin=R1_DI2-1
+Added Pin To Net: NetName=CL2 Pin=R1_DI2-2
+Added Pin To Net: NetName=NetC5_DI3_2 Pin=R1_DI3-1
+Added Pin To Net: NetName=CL3 Pin=R1_DI3-2
+Added Pin To Net: NetName=NetC5_DI4_2 Pin=R1_DI4-1
+Added Pin To Net: NetName=CL4 Pin=R1_DI4-2
+Added Pin To Net: NetName=NetC5_DI5_2 Pin=R1_DI5-1
+Added Pin To Net: NetName=CL5 Pin=R1_DI5-2
+Added Pin To Net: NetName=NetC5_DI6_2 Pin=R1_DI6-1
+Added Pin To Net: NetName=CL6 Pin=R1_DI6-2
+Added Pin To Net: NetName=NetC5_DI7_2 Pin=R1_DI7-1
+Added Pin To Net: NetName=CL7 Pin=R1_DI7-2
+Added Pin To Net: NetName=NetC5_DI8_2 Pin=R1_DI8-1
+Added Pin To Net: NetName=CL8 Pin=R1_DI8-2
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=R2_DI2-1
+Added Pin To Net: NetName=NetC5_DI2_2 Pin=R2_DI2-2
+Added Pin To Net: NetName=NetC3_DI3_1 Pin=R2_DI3-1
+Added Pin To Net: NetName=NetC5_DI3_2 Pin=R2_DI3-2
+Added Pin To Net: NetName=NetC3_DI4_1 Pin=R2_DI4-1
+Added Pin To Net: NetName=NetC5_DI4_2 Pin=R2_DI4-2
+Added Pin To Net: NetName=NetC3_DI5_1 Pin=R2_DI5-1
+Added Pin To Net: NetName=NetC5_DI5_2 Pin=R2_DI5-2
+Added Pin To Net: NetName=NetC3_DI6_1 Pin=R2_DI6-1
+Added Pin To Net: NetName=NetC5_DI6_2 Pin=R2_DI6-2
+Added Pin To Net: NetName=NetC3_DI7_1 Pin=R2_DI7-1
+Added Pin To Net: NetName=NetC5_DI7_2 Pin=R2_DI7-2
+Added Pin To Net: NetName=NetC3_DI8_1 Pin=R2_DI8-1
+Added Pin To Net: NetName=NetC5_DI8_2 Pin=R2_DI8-2
+Added Pin To Net: NetName=NetC5_DI2_1 Pin=R3_DI2-1
+Added Pin To Net: NetName=CH2 Pin=R3_DI2-2
+Added Pin To Net: NetName=NetC5_DI3_1 Pin=R3_DI3-1
+Added Pin To Net: NetName=CH3 Pin=R3_DI3-2
+Added Pin To Net: NetName=NetC5_DI4_1 Pin=R3_DI4-1
+Added Pin To Net: NetName=CH4 Pin=R3_DI4-2
+Added Pin To Net: NetName=NetC5_DI5_1 Pin=R3_DI5-1
+Added Pin To Net: NetName=CH5 Pin=R3_DI5-2
+Added Pin To Net: NetName=NetC5_DI6_1 Pin=R3_DI6-1
+Added Pin To Net: NetName=CH6 Pin=R3_DI6-2
+Added Pin To Net: NetName=NetC5_DI7_1 Pin=R3_DI7-1
+Added Pin To Net: NetName=CH7 Pin=R3_DI7-2
+Added Pin To Net: NetName=NetC5_DI8_1 Pin=R3_DI8-1
+Added Pin To Net: NetName=CH8 Pin=R3_DI8-2
+Added Pin To Net: NetName=NetC6_DI2_1 Pin=R4_DI2-1
+Added Pin To Net: NetName=NetC5_DI2_1 Pin=R4_DI2-2
+Added Pin To Net: NetName=NetC6_DI3_1 Pin=R4_DI3-1
+Added Pin To Net: NetName=NetC5_DI3_1 Pin=R4_DI3-2
+Added Pin To Net: NetName=NetC6_DI4_1 Pin=R4_DI4-1
+Added Pin To Net: NetName=NetC5_DI4_1 Pin=R4_DI4-2
+Added Pin To Net: NetName=NetC6_DI5_1 Pin=R4_DI5-1
+Added Pin To Net: NetName=NetC5_DI5_1 Pin=R4_DI5-2
+Added Pin To Net: NetName=NetC6_DI6_1 Pin=R4_DI6-1
+Added Pin To Net: NetName=NetC5_DI6_1 Pin=R4_DI6-2
+Added Pin To Net: NetName=NetC6_DI7_1 Pin=R4_DI7-1
+Added Pin To Net: NetName=NetC5_DI7_1 Pin=R4_DI7-2
+Added Pin To Net: NetName=NetC6_DI8_1 Pin=R4_DI8-1
+Added Pin To Net: NetName=NetC5_DI8_1 Pin=R4_DI8-2
+Added Pin To Net: NetName=NetR5_DI2_1 Pin=R5_DI2-1
+Added Pin To Net: NetName=NetR5_DI2_2 Pin=R5_DI2-2
+Added Pin To Net: NetName=NetR5_DI3_1 Pin=R5_DI3-1
+Added Pin To Net: NetName=NetR5_DI3_2 Pin=R5_DI3-2
+Added Pin To Net: NetName=NetR5_DI4_1 Pin=R5_DI4-1
+Added Pin To Net: NetName=NetR5_DI4_2 Pin=R5_DI4-2
+Added Pin To Net: NetName=NetR5_DI5_1 Pin=R5_DI5-1
+Added Pin To Net: NetName=NetR5_DI5_2 Pin=R5_DI5-2
+Added Pin To Net: NetName=NetR5_DI6_1 Pin=R5_DI6-1
+Added Pin To Net: NetName=NetR5_DI6_2 Pin=R5_DI6-2
+Added Pin To Net: NetName=NetR5_DI7_1 Pin=R5_DI7-1
+Added Pin To Net: NetName=NetR5_DI7_2 Pin=R5_DI7-2
+Added Pin To Net: NetName=NetR5_DI8_1 Pin=R5_DI8-1
+Added Pin To Net: NetName=NetR5_DI8_2 Pin=R5_DI8-2
+Added Pin To Net: NetName=OUT2 Pin=R6_DI2-1
+Added Pin To Net: NetName=NetR5_DI2_1 Pin=R6_DI2-2
+Added Pin To Net: NetName=OUT3 Pin=R6_DI3-1
+Added Pin To Net: NetName=NetR5_DI3_1 Pin=R6_DI3-2
+Added Pin To Net: NetName=OUT4 Pin=R6_DI4-1
+Added Pin To Net: NetName=NetR5_DI4_1 Pin=R6_DI4-2
+Added Pin To Net: NetName=OUT5 Pin=R6_DI5-1
+Added Pin To Net: NetName=NetR5_DI5_1 Pin=R6_DI5-2
+Added Pin To Net: NetName=OUT6 Pin=R6_DI6-1
+Added Pin To Net: NetName=NetR5_DI6_1 Pin=R6_DI6-2
+Added Pin To Net: NetName=OUT7 Pin=R6_DI7-1
+Added Pin To Net: NetName=NetR5_DI7_1 Pin=R6_DI7-2
+Added Pin To Net: NetName=OUT8 Pin=R6_DI8-1
+Added Pin To Net: NetName=NetR5_DI8_1 Pin=R6_DI8-2
+Added Pin To Net: NetName=GND_1 Pin=R7_DI2-1
+Added Pin To Net: NetName=NetR5_DI2_1 Pin=R7_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=R7_DI3-1
+Added Pin To Net: NetName=NetR5_DI3_1 Pin=R7_DI3-2
+Added Pin To Net: NetName=GND_1 Pin=R7_DI4-1
+Added Pin To Net: NetName=NetR5_DI4_1 Pin=R7_DI4-2
+Added Pin To Net: NetName=GND_1 Pin=R7_DI5-1
+Added Pin To Net: NetName=NetR5_DI5_1 Pin=R7_DI5-2
+Added Pin To Net: NetName=GND_1 Pin=R7_DI6-1
+Added Pin To Net: NetName=NetR5_DI6_1 Pin=R7_DI6-2
+Added Pin To Net: NetName=GND_1 Pin=R7_DI7-1
+Added Pin To Net: NetName=NetR5_DI7_1 Pin=R7_DI7-2
+Added Pin To Net: NetName=GND_1 Pin=R7_DI8-1
+Added Pin To Net: NetName=NetR5_DI8_1 Pin=R7_DI8-2
+Added Pin To Net: NetName=NetC6_DI2_1 Pin=U9_DI2-1
+Added Pin To Net: NetName=-5V_1 Pin=U9_DI2-2
+Added Pin To Net: NetName=GND_1 Pin=U9_DI2-3
+Added Pin To Net: NetName=NetC10_DI2_2 Pin=U9_DI2-4
+Added Pin To Net: NetName=NetR5_DI2_1 Pin=U9_DI2-5
+Added Pin To Net: NetName=NetR5_DI2_2 Pin=U9_DI2-6
+Added Pin To Net: NetName=+5V_1 Pin=U9_DI2-7
+Added Pin To Net: NetName=NetC3_DI2_1 Pin=U9_DI2-8
+Added Pin To Net: NetName=NetC6_DI3_1 Pin=U9_DI3-1
+Added Pin To Net: NetName=-5V_1 Pin=U9_DI3-2
+Added Pin To Net: NetName=GND_1 Pin=U9_DI3-3
+Added Pin To Net: NetName=NetC10_DI3_2 Pin=U9_DI3-4
+Added Pin To Net: NetName=NetR5_DI3_1 Pin=U9_DI3-5
+Added Pin To Net: NetName=NetR5_DI3_2 Pin=U9_DI3-6
+Added Pin To Net: NetName=+5V_1 Pin=U9_DI3-7
+Added Pin To Net: NetName=NetC3_DI3_1 Pin=U9_DI3-8
+Added Pin To Net: NetName=NetC6_DI4_1 Pin=U9_DI4-1
+Added Pin To Net: NetName=-5V_1 Pin=U9_DI4-2
+Added Pin To Net: NetName=GND_1 Pin=U9_DI4-3
+Added Pin To Net: NetName=NetC10_DI4_2 Pin=U9_DI4-4
+Added Pin To Net: NetName=NetR5_DI4_1 Pin=U9_DI4-5
+Added Pin To Net: NetName=NetR5_DI4_2 Pin=U9_DI4-6
+Added Pin To Net: NetName=+5V_1 Pin=U9_DI4-7
+Added Pin To Net: NetName=NetC3_DI4_1 Pin=U9_DI4-8
+Added Pin To Net: NetName=NetC6_DI5_1 Pin=U9_DI5-1
+Added Pin To Net: NetName=-5V_1 Pin=U9_DI5-2
+Added Pin To Net: NetName=GND_1 Pin=U9_DI5-3
+Added Pin To Net: NetName=NetC10_DI5_2 Pin=U9_DI5-4
+Added Pin To Net: NetName=NetR5_DI5_1 Pin=U9_DI5-5
+Added Pin To Net: NetName=NetR5_DI5_2 Pin=U9_DI5-6
+Added Pin To Net: NetName=+5V_1 Pin=U9_DI5-7
+Added Pin To Net: NetName=NetC3_DI5_1 Pin=U9_DI5-8
+Added Pin To Net: NetName=NetC6_DI6_1 Pin=U9_DI6-1
+Added Pin To Net: NetName=-5V_1 Pin=U9_DI6-2
+Added Pin To Net: NetName=GND_1 Pin=U9_DI6-3
+Added Pin To Net: NetName=NetC10_DI6_2 Pin=U9_DI6-4
+Added Pin To Net: NetName=NetR5_DI6_1 Pin=U9_DI6-5
+Added Pin To Net: NetName=NetR5_DI6_2 Pin=U9_DI6-6
+Added Pin To Net: NetName=+5V_1 Pin=U9_DI6-7
+Added Pin To Net: NetName=NetC3_DI6_1 Pin=U9_DI6-8
+Added Pin To Net: NetName=NetC6_DI7_1 Pin=U9_DI7-1
+Added Pin To Net: NetName=-5V_1 Pin=U9_DI7-2
+Added Pin To Net: NetName=GND_1 Pin=U9_DI7-3
+Added Pin To Net: NetName=NetC10_DI7_2 Pin=U9_DI7-4
+Added Pin To Net: NetName=NetR5_DI7_1 Pin=U9_DI7-5
+Added Pin To Net: NetName=NetR5_DI7_2 Pin=U9_DI7-6
+Added Pin To Net: NetName=+5V_1 Pin=U9_DI7-7
+Added Pin To Net: NetName=NetC3_DI7_1 Pin=U9_DI7-8
+Added Pin To Net: NetName=NetC6_DI8_1 Pin=U9_DI8-1
+Added Pin To Net: NetName=-5V_1 Pin=U9_DI8-2
+Added Pin To Net: NetName=GND_1 Pin=U9_DI8-3
+Added Pin To Net: NetName=NetC10_DI8_2 Pin=U9_DI8-4
+Added Pin To Net: NetName=NetR5_DI8_1 Pin=U9_DI8-5
+Added Pin To Net: NetName=NetR5_DI8_2 Pin=U9_DI8-6
+Added Pin To Net: NetName=+5V_1 Pin=U9_DI8-7
+Added Pin To Net: NetName=NetC3_DI8_1 Pin=U9_DI8-8
+Change Class Name : Old Net Name=CH[1..20] New Net Name=CH[1..8]
+Change Class Name : Old Net Name=CL[1..20] New Net Name=CL[1..8]
+Change Class Name : Old Net Name=OUT[1..20] New Net Name=OUT[1..8]
+Added Member To Class: ClassName=DI2 Member=Component C3_DI2 (C3) Cap
+Added Member To Class: ClassName=DI3 Member=Component C3_DI3 (C3) Cap
+Added Member To Class: ClassName=DI4 Member=Component C3_DI4 (C3) Cap
+Added Member To Class: ClassName=DI5 Member=Component C3_DI5 (C3) Cap
+Added Member To Class: ClassName=DI6 Member=Component C3_DI6 (C3) Cap
+Added Member To Class: ClassName=DI7 Member=Component C3_DI7 (C3) Cap
+Added Member To Class: ClassName=DI8 Member=Component C3_DI8 (C3) Cap
+Added Member To Class: ClassName=DI2 Member=Component C4_DI2 (C4) Cap
+Added Member To Class: ClassName=DI3 Member=Component C4_DI3 (C4) Cap
+Added Member To Class: ClassName=DI4 Member=Component C4_DI4 (C4) Cap
+Added Member To Class: ClassName=DI5 Member=Component C4_DI5 (C4) Cap
+Added Member To Class: ClassName=DI6 Member=Component C4_DI6 (C4) Cap
+Added Member To Class: ClassName=DI7 Member=Component C4_DI7 (C4) Cap
+Added Member To Class: ClassName=DI8 Member=Component C4_DI8 (C4) Cap
+Added Member To Class: ClassName=DI2 Member=Component C5_DI2 (C5) Cap
+Added Member To Class: ClassName=DI3 Member=Component C5_DI3 (C5) Cap
+Added Member To Class: ClassName=DI4 Member=Component C5_DI4 (C5) Cap
+Added Member To Class: ClassName=DI5 Member=Component C5_DI5 (C5) Cap
+Added Member To Class: ClassName=DI6 Member=Component C5_DI6 (C5) Cap
+Added Member To Class: ClassName=DI7 Member=Component C5_DI7 (C5) Cap
+Added Member To Class: ClassName=DI8 Member=Component C5_DI8 (C5) Cap
+Added Member To Class: ClassName=DI2 Member=Component C6_DI2 (C6) Cap
+Added Member To Class: ClassName=DI3 Member=Component C6_DI3 (C6) Cap
+Added Member To Class: ClassName=DI4 Member=Component C6_DI4 (C6) Cap
+Added Member To Class: ClassName=DI5 Member=Component C6_DI5 (C6) Cap
+Added Member To Class: ClassName=DI6 Member=Component C6_DI6 (C6) Cap
+Added Member To Class: ClassName=DI7 Member=Component C6_DI7 (C6) Cap
+Added Member To Class: ClassName=DI8 Member=Component C6_DI8 (C6) Cap
+Added Member To Class: ClassName=DI2 Member=Component C7_DI2 (C7) Cap
+Added Member To Class: ClassName=DI3 Member=Component C7_DI3 (C7) Cap
+Added Member To Class: ClassName=DI4 Member=Component C7_DI4 (C7) Cap
+Added Member To Class: ClassName=DI5 Member=Component C7_DI5 (C7) Cap
+Added Member To Class: ClassName=DI6 Member=Component C7_DI6 (C7) Cap
+Added Member To Class: ClassName=DI7 Member=Component C7_DI7 (C7) Cap
+Added Member To Class: ClassName=DI8 Member=Component C7_DI8 (C7) Cap
+Added Member To Class: ClassName=DI2 Member=Component C8_DI2 (C8) Cap
+Added Member To Class: ClassName=DI3 Member=Component C8_DI3 (C8) Cap
+Added Member To Class: ClassName=DI4 Member=Component C8_DI4 (C8) Cap
+Added Member To Class: ClassName=DI5 Member=Component C8_DI5 (C8) Cap
+Added Member To Class: ClassName=DI6 Member=Component C8_DI6 (C8) Cap
+Added Member To Class: ClassName=DI7 Member=Component C8_DI7 (C8) Cap
+Added Member To Class: ClassName=DI8 Member=Component C8_DI8 (C8) Cap
+Added Member To Class: ClassName=DI2 Member=Component C9_DI2 (C9) Cap
+Added Member To Class: ClassName=DI3 Member=Component C9_DI3 (C9) Cap
+Added Member To Class: ClassName=DI4 Member=Component C9_DI4 (C9) Cap
+Added Member To Class: ClassName=DI5 Member=Component C9_DI5 (C9) Cap
+Added Member To Class: ClassName=DI6 Member=Component C9_DI6 (C9) Cap
+Added Member To Class: ClassName=DI7 Member=Component C9_DI7 (C9) Cap
+Added Member To Class: ClassName=DI8 Member=Component C9_DI8 (C9) Cap
+Added Member To Class: ClassName=DI2 Member=Component C10_DI2 (C10) Cap
+Added Member To Class: ClassName=DI3 Member=Component C10_DI3 (C10) Cap
+Added Member To Class: ClassName=DI4 Member=Component C10_DI4 (C10) Cap
+Added Member To Class: ClassName=DI5 Member=Component C10_DI5 (C10) Cap
+Added Member To Class: ClassName=DI6 Member=Component C10_DI6 (C10) Cap
+Added Member To Class: ClassName=DI7 Member=Component C10_DI7 (C10) Cap
+Added Member To Class: ClassName=DI8 Member=Component C10_DI8 (C10) Cap
+Added Member To Class: ClassName=DI2 Member=Component C11_DI2 (C11) Cap
+Added Member To Class: ClassName=DI3 Member=Component C11_DI3 (C11) Cap
+Added Member To Class: ClassName=DI4 Member=Component C11_DI4 (C11) Cap
+Added Member To Class: ClassName=DI5 Member=Component C11_DI5 (C11) Cap
+Added Member To Class: ClassName=DI6 Member=Component C11_DI6 (C11) Cap
+Added Member To Class: ClassName=DI7 Member=Component C11_DI7 (C11) Cap
+Added Member To Class: ClassName=DI8 Member=Component C11_DI8 (C11) Cap
+Added Member To Class: ClassName=DI2 Member=Component D1_DI2 (D1) Diode
+Added Member To Class: ClassName=DI3 Member=Component D1_DI3 (D1) Diode
+Added Member To Class: ClassName=DI4 Member=Component D1_DI4 (D1) Diode
+Added Member To Class: ClassName=DI5 Member=Component D1_DI5 (D1) Diode
+Added Member To Class: ClassName=DI6 Member=Component D1_DI6 (D1) Diode
+Added Member To Class: ClassName=DI7 Member=Component D1_DI7 (D1) Diode
+Added Member To Class: ClassName=DI8 Member=Component D1_DI8 (D1) Diode
+Added Member To Class: ClassName=DI2 Member=Component R1_DI2 (R1) Res2
+Added Member To Class: ClassName=DI3 Member=Component R1_DI3 (R1) Res2
+Added Member To Class: ClassName=DI4 Member=Component R1_DI4 (R1) Res2
+Added Member To Class: ClassName=DI5 Member=Component R1_DI5 (R1) Res2
+Added Member To Class: ClassName=DI6 Member=Component R1_DI6 (R1) Res2
+Added Member To Class: ClassName=DI7 Member=Component R1_DI7 (R1) Res2
+Added Member To Class: ClassName=DI8 Member=Component R1_DI8 (R1) Res2
+Added Member To Class: ClassName=DI2 Member=Component R2_DI2 (R2) Res2
+Added Member To Class: ClassName=DI3 Member=Component R2_DI3 (R2) Res2
+Added Member To Class: ClassName=DI4 Member=Component R2_DI4 (R2) Res2
+Added Member To Class: ClassName=DI5 Member=Component R2_DI5 (R2) Res2
+Added Member To Class: ClassName=DI6 Member=Component R2_DI6 (R2) Res2
+Added Member To Class: ClassName=DI7 Member=Component R2_DI7 (R2) Res2
+Added Member To Class: ClassName=DI8 Member=Component R2_DI8 (R2) Res2
+Added Member To Class: ClassName=DI2 Member=Component R3_DI2 (R3) Res2
+Added Member To Class: ClassName=DI3 Member=Component R3_DI3 (R3) Res2
+Added Member To Class: ClassName=DI4 Member=Component R3_DI4 (R3) Res2
+Added Member To Class: ClassName=DI5 Member=Component R3_DI5 (R3) Res2
+Added Member To Class: ClassName=DI6 Member=Component R3_DI6 (R3) Res2
+Added Member To Class: ClassName=DI7 Member=Component R3_DI7 (R3) Res2
+Added Member To Class: ClassName=DI8 Member=Component R3_DI8 (R3) Res2
+Added Member To Class: ClassName=DI2 Member=Component R4_DI2 (R4) Res2
+Added Member To Class: ClassName=DI3 Member=Component R4_DI3 (R4) Res2
+Added Member To Class: ClassName=DI4 Member=Component R4_DI4 (R4) Res2
+Added Member To Class: ClassName=DI5 Member=Component R4_DI5 (R4) Res2
+Added Member To Class: ClassName=DI6 Member=Component R4_DI6 (R4) Res2
+Added Member To Class: ClassName=DI7 Member=Component R4_DI7 (R4) Res2
+Added Member To Class: ClassName=DI8 Member=Component R4_DI8 (R4) Res2
+Added Member To Class: ClassName=DI2 Member=Component R5_DI2 (R5) Res2
+Added Member To Class: ClassName=DI3 Member=Component R5_DI3 (R5) Res2
+Added Member To Class: ClassName=DI4 Member=Component R5_DI4 (R5) Res2
+Added Member To Class: ClassName=DI5 Member=Component R5_DI5 (R5) Res2
+Added Member To Class: ClassName=DI6 Member=Component R5_DI6 (R5) Res2
+Added Member To Class: ClassName=DI7 Member=Component R5_DI7 (R5) Res2
+Added Member To Class: ClassName=DI8 Member=Component R5_DI8 (R5) Res2
+Added Member To Class: ClassName=DI2 Member=Component R6_DI2 (R6) Res2
+Added Member To Class: ClassName=DI3 Member=Component R6_DI3 (R6) Res2
+Added Member To Class: ClassName=DI4 Member=Component R6_DI4 (R6) Res2
+Added Member To Class: ClassName=DI5 Member=Component R6_DI5 (R6) Res2
+Added Member To Class: ClassName=DI6 Member=Component R6_DI6 (R6) Res2
+Added Member To Class: ClassName=DI7 Member=Component R6_DI7 (R6) Res2
+Added Member To Class: ClassName=DI8 Member=Component R6_DI8 (R6) Res2
+Added Member To Class: ClassName=DI2 Member=Component R7_DI2 (R7) Res2
+Added Member To Class: ClassName=DI3 Member=Component R7_DI3 (R7) Res2
+Added Member To Class: ClassName=DI4 Member=Component R7_DI4 (R7) Res2
+Added Member To Class: ClassName=DI5 Member=Component R7_DI5 (R7) Res2
+Added Member To Class: ClassName=DI6 Member=Component R7_DI6 (R7) Res2
+Added Member To Class: ClassName=DI7 Member=Component R7_DI7 (R7) Res2
+Added Member To Class: ClassName=DI8 Member=Component R7_DI8 (R7) Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U5 ADI4-1SW
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U6 ADI4-1SW
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U7 ADI4-1SW
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U8 ADI4-1SW
+Added Member To Class: ClassName=DI2 Member=Component U9_DI2 (U9) AD628
+Added Member To Class: ClassName=DI3 Member=Component U9_DI3 (U9) AD628
+Added Member To Class: ClassName=DI4 Member=Component U9_DI4 (U9) AD628
+Added Member To Class: ClassName=DI5 Member=Component U9_DI5 (U9) AD628
+Added Member To Class: ClassName=DI6 Member=Component U9_DI6 (U9) AD628
+Added Member To Class: ClassName=DI7 Member=Component U9_DI7 (U9) AD628
+Added Member To Class: ClassName=DI8 Member=Component U9_DI8 (U9) AD628
+Added Room: Name=DI2
+Added Room: Name=DI3
+Added Room: Name=DI4
+Added Room: Name=DI5
+Added Room: Name=DI6
+Added Room: Name=DI7
+Added Room: Name=DI8
+Added Room: Name=µÁ≥ÿµÁ—πºÏ≤‚

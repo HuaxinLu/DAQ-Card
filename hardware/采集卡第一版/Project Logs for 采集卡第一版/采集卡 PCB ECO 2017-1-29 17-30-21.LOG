@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C50 Old Footprint=C1210 New Footprint=0805C
+Change Component Footprint: Designator=C55 Old Footprint=C1210 New Footprint=0805C
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

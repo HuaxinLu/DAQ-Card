@@ -1,0 +1,4 @@
+Added Component: Designator=U10(SOL-16)
+Added Member To Class: ClassName=U_电池电压检测 Member=Component U10 ADUM252
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

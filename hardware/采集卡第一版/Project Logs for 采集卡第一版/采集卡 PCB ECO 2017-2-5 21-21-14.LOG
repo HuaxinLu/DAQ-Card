@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=NetU35_1 New Net Name=FF4
+Added Pin To Net: NetName=FF1 Pin=U32-1
+Added Pin To Net: NetName=FF1 Pin=U32-4
+Added Pin To Net: NetName=FF1 Pin=U33-2
+Added Net: Name=FF1
+Added Pin To Net: NetName=FF2 Pin=U33-1
+Added Pin To Net: NetName=FF2 Pin=U33-4
+Added Pin To Net: NetName=FF2 Pin=U34-2
+Added Net: Name=FF2
+Added Pin To Net: NetName=FF3 Pin=U34-1
+Added Pin To Net: NetName=FF3 Pin=U34-4
+Added Pin To Net: NetName=FF3 Pin=U35-2
+Added Net: Name=FF3

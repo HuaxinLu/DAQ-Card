@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=24V Pin=R29-2
+Removed Pin From Net: NetName=GND_0 Pin=R30-1
+Removed Member From Class: ClassName=U_电源 Member=R29
+Removed Member From Class: ClassName=U_电源 Member=R30
+Added Component: Designator=U5(TSSOP16)
+Added Component: Designator=U8(TSSOP16)
+Added Member To Class: ClassName=电池电压检测 Member=Component U5 ADI4-1SW
+Added Member To Class: ClassName=电池电压检测 Member=Component U8 ADI4-1SW
+Added Room: Name=U_电源
+Added Room: Name=电池电压检测

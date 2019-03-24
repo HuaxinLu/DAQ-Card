@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND_FC Pin=D21-1
+Removed Pin From Net: NetName=V_FC Pin=D21-2
+Removed Pin From Net: NetName=V_FC Pin=F2-1
+Removed Member From Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=D21
+Removed Member From Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=F2
+Added Pin To Net: NetName=V_FC Pin=R119-1

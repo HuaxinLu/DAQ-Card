@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PWM1 Pin=U19-76
+Added Pin To Net: NetName=FF3 Pin=A3-3
+Added Pin To Net: NetName=FF3 Pin=U19-83
+Added Pin To Net: NetName=DOUT4 Pin=U35-1
+Added Pin To Net: NetName=DOUT4 Pin=U35-4
+Added Pin To Net: NetName=PWM1 Pin=U36-4
+Change Net Name : Old Net Name=FF3 New Net Name=DOUT3
+Added Pin To Net: NetName=PWM0 Pin=U19-76
+Added Pin To Net: NetName=PWM0 Pin=U36-2
+Added Net: Name=PWM0

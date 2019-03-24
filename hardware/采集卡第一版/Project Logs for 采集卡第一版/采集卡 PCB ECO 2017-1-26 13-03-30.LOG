@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=DB1
+Added Component: Designator=U11(SO8_M)
+Added Pin To Net: NetName=CELL_L1 Pin=U11-7
+Added Net: Name=CELL_L1
+Added Pin To Net: NetName=CELL_L2 Pin=U11-8
+Added Net: Name=CELL_L2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U11 AD628
+Added Member To Class: ClassName=CELL_L[1..2] Member=Element[1]: CELL_L
+Added Member To Class: ClassName=CELL_L[1..2] Member=Element[2]: CELL_L

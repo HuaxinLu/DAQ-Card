@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=DVCC_1 Pin=C68-1
+Removed Pin From Net: NetName=GND_1 Pin=C68-2
+Removed Pin From Net: NetName=DVCC_1 Pin=C69-1
+Removed Pin From Net: NetName=DVCC_1 Pin=U12-18
+Removed Member From Class: ClassName=U_电源 Member=C68
+Added Component: Designator=R9(0805R)
+Added Component: Designator=R121(0805R)
+Added Component: Designator=R122(0805R)
+Added Component: Designator=R123(0805R)
+Added Component: Designator=R124(0805R)
+Added Component: Designator=R125(0805R)
+Added Component: Designator=R126(0805R)
+Added Component: Designator=R127(0805R)
+Added Component: Designator=R128(0805R)
+Added Pin To Net: NetName=REST Pin=R9-1
+Added Pin To Net: NetName=CLK Pin=R121-1
+Added Pin To Net: NetName=CS Pin=R122-1
+Added Pin To Net: NetName=BUSY Pin=R123-1
+Added Pin To Net: NetName=DO Pin=R124-1
+Added Pin To Net: NetName=IA Pin=U12-5
+Added Net: Name=IA
+Added Pin To Net: NetName=IB Pin=U12-6
+Added Net: Name=IB
+Added Pin To Net: NetName=IC Pin=U12-7
+Added Net: Name=IC
+Added Pin To Net: NetName=ID Pin=U12-8
+Added Net: Name=ID
+Added Pin To Net: NetName=NetC69_1 Pin=C69-1
+Added Pin To Net: NetName=NetC69_1 Pin=U12-18
+Added Net: Name=NetC69_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U10-15
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR121_2 Pin=R121-2
+Added Pin To Net: NetName=NetR121_2 Pin=U10-14
+Added Net: Name=NetR121_2
+Added Pin To Net: NetName=NetR122_2 Pin=R122-2
+Added Pin To Net: NetName=NetR122_2 Pin=U10-13
+Added Net: Name=NetR122_2
+Added Pin To Net: NetName=NetR123_2 Pin=R123-2
+Added Pin To Net: NetName=NetR123_2 Pin=U10-12
+Added Net: Name=NetR123_2
+Added Pin To Net: NetName=NetR124_2 Pin=R124-2
+Added Pin To Net: NetName=NetR124_2 Pin=U10-11
+Added Net: Name=NetR124_2
+Added Pin To Net: NetName=OA Pin=R125-2
+Added Pin To Net: NetName=OA Pin=U12-16
+Added Net: Name=OA
+Added Pin To Net: NetName=OB Pin=R126-2
+Added Pin To Net: NetName=OB Pin=U12-15
+Added Net: Name=OB
+Added Pin To Net: NetName=OC Pin=R127-2
+Added Pin To Net: NetName=OC Pin=U12-14
+Added Net: Name=OC
+Added Pin To Net: NetName=OD Pin=R128-2
+Added Pin To Net: NetName=OD Pin=U12-13
+Added Net: Name=OD
+Added Member To Class: ClassName=U_电池电压检测 Member=Component R9 Res2
+Added Member To Class: ClassName=U_电池电压检测 Member=Component R121 Res2
+Added Member To Class: ClassName=U_电池电压检测 Member=Component R122 Res2
+Added Member To Class: ClassName=U_电池电压检测 Member=Component R123 Res2
+Added Member To Class: ClassName=U_电池电压检测 Member=Component R124 Res2
+Added Member To Class: ClassName=U_电源 Member=Component R125 Res2
+Added Member To Class: ClassName=U_电源 Member=Component R126 Res2
+Added Member To Class: ClassName=U_电源 Member=Component R127 Res2
+Added Member To Class: ClassName=U_电源 Member=Component R128 Res2

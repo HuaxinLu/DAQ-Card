@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R24 Old Footprint=C1206 New Footprint=FB1206
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

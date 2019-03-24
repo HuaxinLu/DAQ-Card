@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+6V_2 Pin=C154-1
+Removed Pin From Net: NetName=+6V_2 Pin=C155-1
+Removed Pin From Net: NetName=+6V_2 Pin=C156-1
+Added Component: Designator=R180(0805R)
+Added Pin To Net: NetName=NetC154_1 Pin=C154-1
+Added Pin To Net: NetName=NetC154_1 Pin=C155-1
+Added Pin To Net: NetName=NetC154_1 Pin=R180-1
+Added Net: Name=NetC154_1
+Added Pin To Net: NetName=NetC156_1 Pin=C156-1
+Added Pin To Net: NetName=NetC156_1 Pin=R180-2
+Added Net: Name=NetC156_1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R180 Res2

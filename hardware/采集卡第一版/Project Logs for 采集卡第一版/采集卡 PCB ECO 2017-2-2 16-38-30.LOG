@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=AGND_1 Pin=C13-2
+Removed Pin From Net: NetName=AGND_1 Pin=C14-2
+Added Component: Designator=C157(1812)
+Added Component: Designator=C159(0805C)
+Added Component: Designator=C161(0805C)
+Added Component: Designator=D21(SMB1)
+Added Component: Designator=F2(1812-PPTC)
+Added Component: Designator=R119(FB1206)
+Added Component: Designator=R120(FB1206)
+Added Pin To Net: NetName=40V Pin=C157-1
+Added Pin To Net: NetName=AGND_1 Pin=C157-2
+Added Pin To Net: NetName=AGND_1 Pin=C159-1
+Added Pin To Net: NetName=40V Pin=C159-2
+Added Pin To Net: NetName=AGND_1 Pin=C161-1
+Added Pin To Net: NetName=40V Pin=C161-2
+Added Pin To Net: NetName=40V Pin=R119-2
+Added Pin To Net: NetName=AGND_1 Pin=R120-2
+Added Pin To Net: NetName=GND_FC Pin=C13-2
+Added Pin To Net: NetName=GND_FC Pin=C14-2
+Added Pin To Net: NetName=GND_FC Pin=D21-1
+Added Pin To Net: NetName=GND_FC Pin=R120-1
+Added Net: Name=GND_FC
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=R119-1
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=V_FC Pin=C13-1
+Added Pin To Net: NetName=V_FC Pin=C14-1
+Added Pin To Net: NetName=V_FC Pin=D21-2
+Added Pin To Net: NetName=V_FC Pin=F2-1
+Added Net: Name=V_FC
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C157 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C159 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C161 Cap
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component D21 
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component F2 Fuse 2
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R119 Res2
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R120 Res2

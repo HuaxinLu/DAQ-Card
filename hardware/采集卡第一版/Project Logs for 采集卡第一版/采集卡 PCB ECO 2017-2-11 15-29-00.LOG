@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=AVCC_1 Pin=R4-2
+Removed Pin From Net: NetName=AVCC_1 Pin=R5-2
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-6
+Removed Pin From Net: NetName=NetR5_1 Pin=U1-7
+Added Pin To Net: NetName=DVCC_1 Pin=R4-2
+Added Pin To Net: NetName=DVCC_1 Pin=R5-2
+Added Pin To Net: NetName=NetR5_1 Pin=U1-6
+Added Pin To Net: NetName=NetR4_1 Pin=U1-7
+Added Member To Class: ClassName=U_电池电压检测 Member=Component C194 Cap Pol1
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

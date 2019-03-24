@@ -1,0 +1,38 @@
+Added Component: Designator=R6(0805R)
+Added Pin To Net: NetName=DVCC_2 Pin=R6-2
+Added Pin To Net: NetName=NetC41_2 Pin=U27-50
+Added Pin To Net: NetName=NetC41_1 Pin=U27-51
+Added Pin To Net: NetName=NetC65_2 Pin=U27-52
+Added Pin To Net: NetName=NetC65_1 Pin=U27-53
+Added Pin To Net: NetName=NetC71_2 Pin=U27-54
+Added Pin To Net: NetName=NetC71_1 Pin=U27-55
+Added Pin To Net: NetName=NetC95_2 Pin=U27-56
+Added Pin To Net: NetName=NetC95_1 Pin=U27-57
+Added Pin To Net: NetName=NetC100_2 Pin=U27-58
+Added Pin To Net: NetName=NetC100_1 Pin=U27-59
+Added Pin To Net: NetName=NetC104_2 Pin=U27-60
+Added Pin To Net: NetName=NetC104_1 Pin=U27-61
+Added Pin To Net: NetName=NetC106_2 Pin=U27-62
+Added Pin To Net: NetName=NetC106_1 Pin=U27-63
+Added Pin To Net: NetName=NetC108_2 Pin=U27-64
+Change Net Name : Old Net Name=NetC41_1 New Net Name=V1-
+Change Net Name : Old Net Name=NetC41_2 New Net Name=V1+
+Change Net Name : Old Net Name=NetC65_1 New Net Name=V2-
+Change Net Name : Old Net Name=NetC65_2 New Net Name=V2+
+Change Net Name : Old Net Name=NetC71_1 New Net Name=V3-
+Change Net Name : Old Net Name=NetC71_2 New Net Name=V3+
+Change Net Name : Old Net Name=NetC95_1 New Net Name=V4-
+Change Net Name : Old Net Name=NetC95_2 New Net Name=V4+
+Change Net Name : Old Net Name=NetC100_1 New Net Name=V5-
+Change Net Name : Old Net Name=NetC100_2 New Net Name=V5+
+Change Net Name : Old Net Name=NetC104_1 New Net Name=V6-
+Change Net Name : Old Net Name=NetC104_2 New Net Name=V6+
+Change Net Name : Old Net Name=NetC106_1 New Net Name=V7-
+Change Net Name : Old Net Name=NetC106_2 New Net Name=V7+
+Change Net Name : Old Net Name=NetC108_1 New Net Name=V8-
+Change Net Name : Old Net Name=NetC108_2 New Net Name=V8+
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R111-1
+Added Pin To Net: NetName=NetR6_1 Pin=U27-8
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R6 Res2

@@ -1,0 +1,82 @@
+Change Component Footprint: Designator=R61 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R69 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R73 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R77 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R81 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R85 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R89 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R99 Old Footprint=0805R New Footprint=0603AR
+Change Component Footprint: Designator=R59 Old Footprint=0805R New Footprint=FB1206
+Change Component Footprint: Designator=R63 Old Footprint=0805R New Footprint=FB1206
+Change Component Footprint: Designator=R67 Old Footprint=0805R New Footprint=FB1206
+Change Component Footprint: Designator=R71 Old Footprint=0805R New Footprint=FB1206
+Change Component Footprint: Designator=R75 Old Footprint=0805R New Footprint=FB1206
+Change Component Footprint: Designator=R79 Old Footprint=0805R New Footprint=FB1206
+Change Component Footprint: Designator=R83 Old Footprint=0805R New Footprint=FB1206
+Change Component Footprint: Designator=R87 Old Footprint=0805R New Footprint=FB1206
+Added Component: Designator=P30(3.5MM-2*12P)
+Added Component: Designator=P33(3.5MM-2*12P)
+Added Pin To Net: NetName=NetR59_1 Pin=P33-2
+Added Pin To Net: NetName=NetR63_2 Pin=P33-4
+Added Pin To Net: NetName=NetR67_2 Pin=P33-6
+Added Pin To Net: NetName=NetR71_2 Pin=P33-8
+Added Pin To Net: NetName=NetR75_2 Pin=P33-10
+Added Pin To Net: NetName=NetR79_2 Pin=P33-12
+Added Pin To Net: NetName=NetR83_2 Pin=P33-14
+Added Pin To Net: NetName=NetR87_2 Pin=P33-16
+Added Pin To Net: NetName=NetC121_2 Pin=P33-17
+Added Pin To Net: NetName=AGND_2 Pin=P33-18
+Added Pin To Net: NetName=NetC123_2 Pin=P33-19
+Added Pin To Net: NetName=AGND_2 Pin=P33-20
+Added Pin To Net: NetName=NetC128_2 Pin=P33-21
+Added Pin To Net: NetName=AGND_2 Pin=P33-22
+Added Pin To Net: NetName=NetC132_2 Pin=P33-23
+Added Pin To Net: NetName=AGND_2 Pin=P33-24
+Added Pin To Net: NetName=AGND_2 Pin=P33-25
+Added Pin To Net: NetName=AGND_2 Pin=P33-26
+Change Net Name : Old Net Name=NetC121_2 New Net Name=AN1
+Change Net Name : Old Net Name=NetC123_2 New Net Name=AN2
+Change Net Name : Old Net Name=NetC128_2 New Net Name=AN3
+Change Net Name : Old Net Name=NetC132_2 New Net Name=AN4
+Change Net Name : Old Net Name=NetR59_1 New Net Name=I1-
+Change Net Name : Old Net Name=NetR63_2 New Net Name=I2-
+Change Net Name : Old Net Name=NetR67_2 New Net Name=I3-
+Change Net Name : Old Net Name=NetR71_2 New Net Name=I4-
+Change Net Name : Old Net Name=NetR75_2 New Net Name=I5-
+Change Net Name : Old Net Name=NetR79_2 New Net Name=I6-
+Change Net Name : Old Net Name=NetR83_2 New Net Name=I7-
+Change Net Name : Old Net Name=NetR87_2 New Net Name=I8-
+Added Pin To Net: NetName=I1+ Pin=P33-1
+Added Pin To Net: NetName=I1+ Pin=R59-2
+Added Pin To Net: NetName=I1+ Pin=R96-2
+Added Net: Name=I1+
+Added Pin To Net: NetName=I2+ Pin=P33-3
+Added Pin To Net: NetName=I2+ Pin=R62-2
+Added Pin To Net: NetName=I2+ Pin=R63-1
+Added Net: Name=I2+
+Added Pin To Net: NetName=I3+ Pin=P33-5
+Added Pin To Net: NetName=I3+ Pin=R66-2
+Added Pin To Net: NetName=I3+ Pin=R67-1
+Added Net: Name=I3+
+Added Pin To Net: NetName=I4+ Pin=P33-7
+Added Pin To Net: NetName=I4+ Pin=R70-2
+Added Pin To Net: NetName=I4+ Pin=R71-1
+Added Net: Name=I4+
+Added Pin To Net: NetName=I5+ Pin=P33-9
+Added Pin To Net: NetName=I5+ Pin=R74-2
+Added Pin To Net: NetName=I5+ Pin=R75-1
+Added Net: Name=I5+
+Added Pin To Net: NetName=I6+ Pin=P33-11
+Added Pin To Net: NetName=I6+ Pin=R78-2
+Added Pin To Net: NetName=I6+ Pin=R79-1
+Added Net: Name=I6+
+Added Pin To Net: NetName=I7+ Pin=P33-13
+Added Pin To Net: NetName=I7+ Pin=R82-2
+Added Pin To Net: NetName=I7+ Pin=R83-1
+Added Net: Name=I7+
+Added Pin To Net: NetName=I8+ Pin=P33-15
+Added Pin To Net: NetName=I8+ Pin=R86-2
+Added Pin To Net: NetName=I8+ Pin=R87-1
+Added Net: Name=I8+
+Added Member To Class: ClassName=采集卡 Member=Component P30 Header 12X2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component P33 Header 13X2

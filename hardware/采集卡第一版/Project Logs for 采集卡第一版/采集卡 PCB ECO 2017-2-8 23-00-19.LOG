@@ -1,0 +1,91 @@
+Added Component: Designator=R131(0805R)
+Added Component: Designator=R132(0805R)
+Added Component: Designator=R133(0805R)
+Added Component: Designator=R134(0805R)
+Added Component: Designator=R135(0805R)
+Added Component: Designator=R136(0805R)
+Added Component: Designator=R137(0805R)
+Added Component: Designator=R138(0805R)
+Added Component: Designator=R139(0805R)
+Added Component: Designator=R140(0805R)
+Added Pin To Net: NetName=GND Pin=U38-2
+Added Pin To Net: NetName=GND Pin=U39-2
+Added Pin To Net: NetName=GND Pin=U40-2
+Added Pin To Net: NetName=GND Pin=U42-2
+Added Pin To Net: NetName=GND Pin=U43-2
+Added Pin To Net: NetName=GND Pin=U45-2
+Added Pin To Net: NetName=GND Pin=U46-2
+Added Pin To Net: NetName=GND Pin=U47-2
+Added Pin To Net: NetName=GND Pin=U50-2
+Added Pin To Net: NetName=GND Pin=U51-2
+Added Pin To Net: NetName=D1 Pin=R131-2
+Added Pin To Net: NetName=D1 Pin=U19-100
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=R132-2
+Added Pin To Net: NetName=D2 Pin=U19-99
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=R133-2
+Added Pin To Net: NetName=D3 Pin=U19-98
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=R134-2
+Added Pin To Net: NetName=D4 Pin=U19-97
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=R138-2
+Added Pin To Net: NetName=D5 Pin=U19-96
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=R136-2
+Added Pin To Net: NetName=D6 Pin=U19-95
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=R137-2
+Added Pin To Net: NetName=D7 Pin=U19-94
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=R135-2
+Added Pin To Net: NetName=D8 Pin=U19-93
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=R140-2
+Added Pin To Net: NetName=D9 Pin=U19-92
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=R139-2
+Added Pin To Net: NetName=D10 Pin=U19-91
+Added Net: Name=D10
+Added Pin To Net: NetName=NetR131_1 Pin=R131-1
+Added Pin To Net: NetName=NetR131_1 Pin=U43-1
+Added Net: Name=NetR131_1
+Added Pin To Net: NetName=NetR132_1 Pin=R132-1
+Added Pin To Net: NetName=NetR132_1 Pin=U40-1
+Added Net: Name=NetR132_1
+Added Pin To Net: NetName=NetR133_1 Pin=R133-1
+Added Pin To Net: NetName=NetR133_1 Pin=U47-1
+Added Net: Name=NetR133_1
+Added Pin To Net: NetName=NetR135_1 Pin=R135-1
+Added Pin To Net: NetName=NetR135_1 Pin=U46-1
+Added Net: Name=NetR135_1
+Added Pin To Net: NetName=NetR136_1 Pin=R136-1
+Added Pin To Net: NetName=NetR136_1 Pin=U39-1
+Added Net: Name=NetR136_1
+Added Pin To Net: NetName=NetR137_1 Pin=R137-1
+Added Pin To Net: NetName=NetR137_1 Pin=U50-1
+Added Net: Name=NetR137_1
+Added Pin To Net: NetName=NetR138_1 Pin=R138-1
+Added Pin To Net: NetName=NetR138_1 Pin=U42-1
+Added Net: Name=NetR138_1
+Added Pin To Net: NetName=NetR139_1 Pin=R139-1
+Added Pin To Net: NetName=NetR139_1 Pin=U38-1
+Added Net: Name=NetR139_1
+Added Pin To Net: NetName=NetR140_1 Pin=R140-1
+Added Pin To Net: NetName=NetR140_1 Pin=U45-1
+Added Net: Name=NetR140_1
+Added Member To Class: ClassName=U_数字部分 Member=Component R131 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R132 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R133 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R134 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R135 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R136 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R137 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R138 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R139 0
+Added Member To Class: ClassName=U_数字部分 Member=Component R140 0
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

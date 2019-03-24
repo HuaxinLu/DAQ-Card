@@ -1,0 +1,6 @@
+Added Component: Designator=U16(_SOT-223)
+Added Pin To Net: NetName=GND Pin=U16-1
+Added Pin To Net: NetName=5V_0 Pin=U16-2
+Added Pin To Net: NetName=5V_0 Pin=U16-2
+Added Pin To Net: NetName=6V_0 Pin=U16-3
+Added Member To Class: ClassName=U_µÁ‘¥ Member=Component U16 ADP3339

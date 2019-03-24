@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=V1+ Pin=U27-50
+Removed Pin From Net: NetName=V1- Pin=U27-51
+Removed Pin From Net: NetName=V2+ Pin=U27-52
+Removed Pin From Net: NetName=V2- Pin=U27-53
+Removed Pin From Net: NetName=V3+ Pin=U27-54
+Removed Pin From Net: NetName=V3- Pin=U27-55
+Removed Pin From Net: NetName=V4+ Pin=U27-56
+Removed Pin From Net: NetName=V4- Pin=U27-57
+Removed Pin From Net: NetName=V5+ Pin=U27-58
+Removed Pin From Net: NetName=V5- Pin=U27-59
+Removed Pin From Net: NetName=V6+ Pin=U27-60
+Removed Pin From Net: NetName=V6- Pin=U27-61
+Removed Pin From Net: NetName=V7+ Pin=U27-62
+Removed Pin From Net: NetName=V7- Pin=U27-63
+Removed Pin From Net: NetName=V8+ Pin=U27-64
+Added Pin To Net: NetName=V8+ Pin=U27-49
+Added Pin To Net: NetName=V8- Pin=U27-50
+Added Pin To Net: NetName=V7+ Pin=U27-51
+Added Pin To Net: NetName=V7- Pin=U27-52
+Added Pin To Net: NetName=V6+ Pin=U27-53
+Added Pin To Net: NetName=V6- Pin=U27-54
+Added Pin To Net: NetName=V5+ Pin=U27-55
+Added Pin To Net: NetName=V5- Pin=U27-56
+Added Pin To Net: NetName=V4+ Pin=U27-57
+Added Pin To Net: NetName=V4- Pin=U27-58
+Added Pin To Net: NetName=V3+ Pin=U27-59
+Added Pin To Net: NetName=V3- Pin=U27-60
+Added Pin To Net: NetName=V2+ Pin=U27-61
+Added Pin To Net: NetName=V2- Pin=U27-62
+Added Pin To Net: NetName=V1+ Pin=U27-63
+Added Pin To Net: NetName=V1- Pin=U27-64
+Change Net Name : Old Net Name=V1+ New Net Name=V8+
+Change Net Name : Old Net Name=V1- New Net Name=V8-
+Change Net Name : Old Net Name=V2+ New Net Name=V7+
+Change Net Name : Old Net Name=V2- New Net Name=V7-
+Change Net Name : Old Net Name=V3+ New Net Name=V6+
+Change Net Name : Old Net Name=V3- New Net Name=V6-
+Change Net Name : Old Net Name=V4+ New Net Name=V5+
+Change Net Name : Old Net Name=V4- New Net Name=V5-
+Change Net Name : Old Net Name=V5+ New Net Name=V4+
+Change Net Name : Old Net Name=V5- New Net Name=V4-
+Change Net Name : Old Net Name=V6+ New Net Name=V3+
+Change Net Name : Old Net Name=V6- New Net Name=V3-
+Change Net Name : Old Net Name=V7+ New Net Name=V2+
+Change Net Name : Old Net Name=V7- New Net Name=V2-
+Change Net Name : Old Net Name=V8+ New Net Name=V1+
+Change Net Name : Old Net Name=V8- New Net Name=V1-
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

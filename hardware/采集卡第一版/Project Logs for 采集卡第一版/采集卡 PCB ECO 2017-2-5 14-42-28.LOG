@@ -1,0 +1,19 @@
+Added Component: Designator=U22(SOIC20)
+Added Component: Designator=U28(TSSOP20)
+Added Pin To Net: NetName=GND_2 Pin=U22-9
+Added Pin To Net: NetName=+6V_2 Pin=U22-10
+Added Pin To Net: NetName=BUSY_1 Pin=U22-11
+Added Pin To Net: NetName=REST_1 Pin=U22-12
+Added Pin To Net: NetName=CONV_1 Pin=U22-13
+Added Pin To Net: NetName=GND_2 Pin=U22-15
+Added Pin To Net: NetName=+6V_2 Pin=U22-16
+Added Pin To Net: NetName=GND_2 Pin=U28-11
+Added Pin To Net: NetName=CS_2 Pin=U28-14
+Added Pin To Net: NetName=CS_1 Pin=U28-15
+Added Pin To Net: NetName=D1_1 Pin=U28-16
+Added Pin To Net: NetName=DO_1 Pin=U28-17
+Added Pin To Net: NetName=CLK_1 Pin=U28-18
+Added Pin To Net: NetName=GND_2 Pin=U28-19
+Added Pin To Net: NetName=+6V_2 Pin=U28-20
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component U22 ADUM5401
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component U28 ADUM3154

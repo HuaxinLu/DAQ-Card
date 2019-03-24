@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=U_数字部分 Member=U37
+Removed Member From Class: ClassName=U_数字部分 Member=U54
+Added Pin To Net: NetName=IC1 Pin=U19-68
+Added Pin To Net: NetName=IC1 Pin=U48-4
+Added Net: Name=IC1
+Added Pin To Net: NetName=IC2 Pin=U19-69
+Added Pin To Net: NetName=IC2 Pin=U52-4
+Added Net: Name=IC2

@@ -1,0 +1,56 @@
+Added Component: Designator=C33(C1210)
+Added Component: Designator=C39(RB.8)
+Added Component: Designator=C48(0805C)
+Added Component: Designator=C49(0805C)
+Added Component: Designator=D3(SMA)
+Added Component: Designator=L2(RH127)
+Added Component: Designator=R25(0805R)
+Added Component: Designator=R26(0805R)
+Added Component: Designator=R27(0805R)
+Added Component: Designator=R28(0805R)
+Added Component: Designator=U13(TPS54360)
+Added Pin To Net: NetName=GND_0 Pin=C39-1
+Added Pin To Net: NetName=6V_0 Pin=C39-2
+Added Pin To Net: NetName=GND_0 Pin=C48-2
+Added Pin To Net: NetName=GND_0 Pin=C49-2
+Added Pin To Net: NetName=GND_0 Pin=D3-1
+Added Pin To Net: NetName=6V_0 Pin=L2-2
+Added Pin To Net: NetName=6V_0 Pin=R25-2
+Added Pin To Net: NetName=GND_0 Pin=R26-1
+Added Pin To Net: NetName=GND_0 Pin=R27-1
+Added Pin To Net: NetName=24V Pin=U13-2
+Added Pin To Net: NetName=GND Pin=U13-7
+Added Pin To Net: NetName=GND_0 Pin=U13-9
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=U13-1
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=D3-2
+Added Pin To Net: NetName=NetC33_2 Pin=L2-1
+Added Pin To Net: NetName=NetC33_2 Pin=U13-8
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=NetC48_1 Pin=R28-2
+Added Pin To Net: NetName=NetC48_1 Pin=U13-6
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=R28-1
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=R27-2
+Added Pin To Net: NetName=NetR25_1 Pin=U13-5
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U13-4
+Added Net: Name=NetR26_2
+Added Member To Class: ClassName=U_电源 Member=Component C33 Cap
+Added Member To Class: ClassName=U_电源 Member=Component C39 Cap Pol1
+Added Member To Class: ClassName=U_电源 Member=Component C48 1uF
+Added Member To Class: ClassName=U_电源 Member=Component C49 1uF
+Added Member To Class: ClassName=U_电源 Member=Component D3 Diode 11DQ03
+Added Member To Class: ClassName=U_电源 Member=Component L2 TDK VLF10040 22uH
+Added Member To Class: ClassName=U_电源 Member=Component R25 102K 1%
+Added Member To Class: ClassName=U_电源 Member=Component R26 102K 1%
+Added Member To Class: ClassName=U_电源 Member=Component R27 102K 1%
+Added Member To Class: ClassName=U_电源 Member=Component R28 102K 1%
+Added Member To Class: ClassName=U_电源 Member=Component U13 TPS54360

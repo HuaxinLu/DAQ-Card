@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=U_数字部分 Member=J?
+Added Component: Designator=J1(DSUB1.385-2H15)
+Added Component: Designator=U54(SO16NB)
+Added Member To Class: ClassName=U_数字部分 Member=Component J1 D Connector 15
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component U54 ADUM152
+Added Room: Name=U_数字部分
+Added Room: Name=U_模拟量输入输出
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

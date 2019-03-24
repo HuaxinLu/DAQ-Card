@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DGND_2 Pin=C203-1
+Removed Pin From Net: NetName=AGND_2 Pin=C203-2
+Removed Pin From Net: NetName=DGND_2 Pin=C204-1
+Removed Pin From Net: NetName=AGND_2 Pin=C204-2
+Added Pin To Net: NetName=DVCC_2 Pin=C203-1
+Added Pin To Net: NetName=+5V_2 Pin=C203-2
+Added Pin To Net: NetName=DVCC_2 Pin=C204-1
+Added Pin To Net: NetName=+5V_2 Pin=C204-2

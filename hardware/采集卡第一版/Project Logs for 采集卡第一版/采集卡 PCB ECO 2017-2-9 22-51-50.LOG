@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC15_1 Pin=C15-1
+Removed Pin From Net: NetName=AGND_1 Pin=C15-2
+Removed Pin From Net: NetName=NetC31_1 Pin=R23-2
+Removed Member From Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=C15
+Removed Member From Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=R23
+Added Component: Designator=C?(3216)
+Added Pin To Net: NetName=NetC31_1 Pin=C?-1
+Added Pin To Net: NetName=AGND_1 Pin=C?-2
+Added Pin To Net: NetName=NetC31_1 Pin=U1-42
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetC31_1 New Net Name=REFIN
+Added Member To Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C? Cap Pol1

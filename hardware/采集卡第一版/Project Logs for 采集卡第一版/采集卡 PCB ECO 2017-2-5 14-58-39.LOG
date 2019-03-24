@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=U28 Old Footprint=TSSOP20 New Footprint=SOP20
+Added Component: Designator=C26(3216)
+Added Component: Designator=C68(3216)
+Added Component: Designator=C161(3216)
+Added Component: Designator=C163(3216)
+Added Component: Designator=C165(3216)
+Added Pin To Net: NetName=+6V_2 Pin=C26-1
+Added Pin To Net: NetName=GND_2 Pin=C26-2
+Added Pin To Net: NetName=+6V_2 Pin=C68-1
+Added Pin To Net: NetName=GND_2 Pin=C68-2
+Added Pin To Net: NetName=+6V_2 Pin=C161-1
+Added Pin To Net: NetName=GND_2 Pin=C161-2
+Added Pin To Net: NetName=+6V_2 Pin=C163-1
+Added Pin To Net: NetName=GND_2 Pin=C163-2
+Added Pin To Net: NetName=+6V_2 Pin=C165-1
+Added Pin To Net: NetName=GND_2 Pin=C165-2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C26 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C68 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C161 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C163 Cap Pol1
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C165 Cap Pol1

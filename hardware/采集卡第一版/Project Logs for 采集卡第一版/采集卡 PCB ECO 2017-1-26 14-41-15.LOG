@@ -1,0 +1,65 @@
+Added Component: Designator=C55_DI1(1608[0603])
+Added Component: Designator=C55_DI2(1608[0603])
+Added Component: Designator=C55_DI3(1608[0603])
+Added Component: Designator=C55_DI4(1608[0603])
+Added Component: Designator=C55_DI5(1608[0603])
+Added Component: Designator=C55_DI6(1608[0603])
+Added Component: Designator=C55_DI7(1608[0603])
+Added Component: Designator=C55_DI8(1608[0603])
+Added Component: Designator=C55_DI9(1608[0603])
+Added Component: Designator=C55_DI10(1608[0603])
+Added Component: Designator=C55_DI11(1608[0603])
+Added Component: Designator=C55_DI12(1608[0603])
+Added Component: Designator=C55_DI13(1608[0603])
+Added Component: Designator=C55_DI14(1608[0603])
+Added Component: Designator=C55_DI15(1608[0603])
+Added Component: Designator=C55_DI16(1608[0603])
+Added Component: Designator=C55_DI17(1608[0603])
+Added Component: Designator=C55_DI18(1608[0603])
+Added Component: Designator=C55_DI19(1608[0603])
+Added Component: Designator=C55_DI20(1608[0603])
+Added Component: Designator=C55_DI21(1608[0603])
+Added Component: Designator=C55_DI22(1608[0603])
+Added Component: Designator=C55_DI23(1608[0603])
+Added Component: Designator=C55_DI24(1608[0603])
+Added Component: Designator=C55_DI25(1608[0603])
+Added Component: Designator=C55_DI26(1608[0603])
+Added Component: Designator=C55_DI27(1608[0603])
+Added Component: Designator=C55_DI28(1608[0603])
+Added Component: Designator=C55_DI29(1608[0603])
+Added Component: Designator=C55_DI30(1608[0603])
+Added Component: Designator=C55_DI31(1608[0603])
+Added Component: Designator=C55_DI32(1608[0603])
+Added Member To Class: ClassName=DI1 Member=Component C55_DI1 (C55) Cap
+Added Member To Class: ClassName=DI2 Member=Component C55_DI2 (C55) Cap
+Added Member To Class: ClassName=DI3 Member=Component C55_DI3 (C55) Cap
+Added Member To Class: ClassName=DI4 Member=Component C55_DI4 (C55) Cap
+Added Member To Class: ClassName=DI5 Member=Component C55_DI5 (C55) Cap
+Added Member To Class: ClassName=DI6 Member=Component C55_DI6 (C55) Cap
+Added Member To Class: ClassName=DI7 Member=Component C55_DI7 (C55) Cap
+Added Member To Class: ClassName=DI8 Member=Component C55_DI8 (C55) Cap
+Added Member To Class: ClassName=DI9 Member=Component C55_DI9 (C55) Cap
+Added Member To Class: ClassName=DI10 Member=Component C55_DI10 (C55) Cap
+Added Member To Class: ClassName=DI11 Member=Component C55_DI11 (C55) Cap
+Added Member To Class: ClassName=DI12 Member=Component C55_DI12 (C55) Cap
+Added Member To Class: ClassName=DI13 Member=Component C55_DI13 (C55) Cap
+Added Member To Class: ClassName=DI14 Member=Component C55_DI14 (C55) Cap
+Added Member To Class: ClassName=DI15 Member=Component C55_DI15 (C55) Cap
+Added Member To Class: ClassName=DI16 Member=Component C55_DI16 (C55) Cap
+Added Member To Class: ClassName=DI17 Member=Component C55_DI17 (C55) Cap
+Added Member To Class: ClassName=DI18 Member=Component C55_DI18 (C55) Cap
+Added Member To Class: ClassName=DI19 Member=Component C55_DI19 (C55) Cap
+Added Member To Class: ClassName=DI20 Member=Component C55_DI20 (C55) Cap
+Added Member To Class: ClassName=DI21 Member=Component C55_DI21 (C55) Cap
+Added Member To Class: ClassName=DI22 Member=Component C55_DI22 (C55) Cap
+Added Member To Class: ClassName=DI23 Member=Component C55_DI23 (C55) Cap
+Added Member To Class: ClassName=DI24 Member=Component C55_DI24 (C55) Cap
+Added Member To Class: ClassName=DI25 Member=Component C55_DI25 (C55) Cap
+Added Member To Class: ClassName=DI26 Member=Component C55_DI26 (C55) Cap
+Added Member To Class: ClassName=DI27 Member=Component C55_DI27 (C55) Cap
+Added Member To Class: ClassName=DI28 Member=Component C55_DI28 (C55) Cap
+Added Member To Class: ClassName=DI29 Member=Component C55_DI29 (C55) Cap
+Added Member To Class: ClassName=DI30 Member=Component C55_DI30 (C55) Cap
+Added Member To Class: ClassName=DI31 Member=Component C55_DI31 (C55) Cap
+Added Member To Class: ClassName=DI32 Member=Component C55_DI32 (C55) Cap
+Added Member To Class: ClassName=CL[1..32] Member=Element[1]: CL

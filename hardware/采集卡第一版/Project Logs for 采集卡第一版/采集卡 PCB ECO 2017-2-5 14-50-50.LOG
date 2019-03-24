@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=BUSY_1 Pin=U22-11
+Removed Pin From Net: NetName=REST_1 Pin=U22-12
+Removed Pin From Net: NetName=CONV_1 Pin=U22-13
+Removed Pin From Net: NetName=CS_2 Pin=U28-14
+Removed Pin From Net: NetName=CS_1 Pin=U28-15
+Removed Pin From Net: NetName=D1_1 Pin=U28-16
+Removed Pin From Net: NetName=DO_1 Pin=U28-17
+Removed Pin From Net: NetName=CLK_1 Pin=U28-18
+Added Component: Designator=A1(RCA03-4D)
+Added Component: Designator=A2(RCA03-4D)
+Added Component: Designator=A3(RCA03-4D)
+Added Pin To Net: NetName=CONV_1 Pin=A1-4
+Added Pin To Net: NetName=REST_1 Pin=A1-6
+Added Pin To Net: NetName=BUSY_1 Pin=A1-8
+Added Pin To Net: NetName=CLK_1 Pin=A2-2
+Added Pin To Net: NetName=DO_1 Pin=A2-4
+Added Pin To Net: NetName=D1_1 Pin=A2-6
+Added Pin To Net: NetName=CS_1 Pin=A2-8
+Added Pin To Net: NetName=CS_2 Pin=A3-2
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=U22-14
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA1_3 Pin=A1-3
+Added Pin To Net: NetName=NetA1_3 Pin=U22-13
+Added Net: Name=NetA1_3
+Added Pin To Net: NetName=NetA1_5 Pin=A1-5
+Added Pin To Net: NetName=NetA1_5 Pin=U22-12
+Added Net: Name=NetA1_5
+Added Pin To Net: NetName=NetA1_7 Pin=A1-7
+Added Pin To Net: NetName=NetA1_7 Pin=U22-11
+Added Net: Name=NetA1_7
+Added Pin To Net: NetName=NetA2_1 Pin=A2-1
+Added Pin To Net: NetName=NetA2_1 Pin=U28-18
+Added Net: Name=NetA2_1
+Added Pin To Net: NetName=NetA2_3 Pin=A2-3
+Added Pin To Net: NetName=NetA2_3 Pin=U28-17
+Added Net: Name=NetA2_3
+Added Pin To Net: NetName=NetA2_5 Pin=A2-5
+Added Pin To Net: NetName=NetA2_5 Pin=U28-16
+Added Net: Name=NetA2_5
+Added Pin To Net: NetName=NetA2_7 Pin=A2-7
+Added Pin To Net: NetName=NetA2_7 Pin=U28-15
+Added Net: Name=NetA2_7
+Added Pin To Net: NetName=NetA3_1 Pin=A3-1
+Added Pin To Net: NetName=NetA3_1 Pin=U28-14
+Added Net: Name=NetA3_1
+Added Pin To Net: NetName=NetA3_3 Pin=A3-3
+Added Pin To Net: NetName=NetA3_3 Pin=U28-13
+Added Net: Name=NetA3_3
+Added Pin To Net: NetName=NetA3_5 Pin=A3-5
+Added Pin To Net: NetName=NetA3_5 Pin=U28-12
+Added Net: Name=NetA3_5
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A1 排阻 51欧姆
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A2 排阻 51欧姆
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component A3 排阻 51欧姆

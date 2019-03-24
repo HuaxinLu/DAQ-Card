@@ -1,0 +1,4 @@
+Added Component: Designator=C138(3216)
+Added Pin To Net: NetName=REFIN_1 Pin=C138-1
+Added Pin To Net: NetName=AGND_2 Pin=C138-2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C138 Cap Pol1

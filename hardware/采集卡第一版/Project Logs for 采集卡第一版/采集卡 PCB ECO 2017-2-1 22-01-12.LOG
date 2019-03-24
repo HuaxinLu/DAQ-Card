@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=U21
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=U22
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=U28
+Added Member To Class: ClassName=U_数字部分 Member=Component J1 D Connector 15

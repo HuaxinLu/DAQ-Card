@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CS_2 Pin=A3-2
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=A3
+Added Component: Designator=R112(0603AR)
+Added Pin To Net: NetName=CS_2 Pin=R112-1
+Added Pin To Net: NetName=NetR112_2 Pin=R112-2
+Added Pin To Net: NetName=NetR112_2 Pin=U28-14
+Added Net: Name=NetR112_2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R112 Res2

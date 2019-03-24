@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND_2 Pin=C26-2
+Added Pin To Net: NetName=GND_2 Pin=C151-1
+Added Pin To Net: NetName=GND_2 Pin=C165-2
+Added Pin To Net: NetName=GND_2 Pin=C167-2
+Added Pin To Net: NetName=GND_2 Pin=C169-2
+Added Pin To Net: NetName=GND_2 Pin=C171-2
+Added Pin To Net: NetName=GND_2 Pin=C173-2
+Added Pin To Net: NetName=GND_2 Pin=C174-2
+Added Pin To Net: NetName=GND_2 Pin=R111-2
+Added Pin To Net: NetName=GND_2 Pin=SW2-1
+Added Pin To Net: NetName=GND_2 Pin=SW2-3
+Added Pin To Net: NetName=GND_2 Pin=SW2-5
+Added Pin To Net: NetName=GND_2 Pin=U22-9
+Added Pin To Net: NetName=GND_2 Pin=U28-11
+Change Net Name : Old Net Name=GND_2 New Net Name=DGND_2

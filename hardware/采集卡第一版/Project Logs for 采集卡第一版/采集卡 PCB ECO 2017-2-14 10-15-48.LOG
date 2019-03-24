@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=-6V_1 Pin=C35-1
+Removed Pin From Net: NetName=+6V_1 Pin=C63-2
+Removed Pin From Net: NetName=-6V_1 Pin=L2-2
+Removed Pin From Net: NetName=+6V_1 Pin=U13-1
+Removed Pin From Net: NetName=+6V_1 Pin=U13-3
+Added Component: Designator=R177(0805R)
+Added Component: Designator=R178(0805R)
+Added Pin To Net: NetName=+6V_1 Pin=R177-1
+Added Pin To Net: NetName=-6V_1 Pin=R178-2
+Change Net Name : Old Net Name=+6V_1 New Net Name=NetC1_1
+Added Pin To Net: NetName=+6V_1 Pin=C63-2
+Added Pin To Net: NetName=+6V_1 Pin=R177-2
+Added Pin To Net: NetName=+6V_1 Pin=U13-1
+Added Pin To Net: NetName=+6V_1 Pin=U13-3
+Added Net: Name=+6V_1
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=L2-2
+Added Pin To Net: NetName=NetC35_1 Pin=R178-1
+Added Net: Name=NetC35_1
+Added Member To Class: ClassName=U_电池电压检测 Member=Component C199 Cap
+Added Member To Class: ClassName=U_电池电压检测 Member=Component R172 Res2
+Added Member To Class: ClassName=U_电源 Member=Component R177 Res2
+Added Member To Class: ClassName=U_电源 Member=Component R178 Res2

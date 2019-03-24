@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=S3_SW1 Pin=U1_SW1-17
+Removed Pin From Net: NetName=S3_SW2 Pin=U1_SW2-17
+Removed Pin From Net: NetName=S3_SW3 Pin=U1_SW3-17
+Removed Pin From Net: NetName=S3_SW4 Pin=U1_SW4-17
+Removed Pin From Net: NetName=S3_SW5 Pin=U1_SW5-17
+Removed Pin From Net: NetName=S3_SW6 Pin=U1_SW6-17
+Removed Pin From Net: NetName=S3_SW7 Pin=U1_SW7-17
+Removed Pin From Net: NetName=S3_SW8 Pin=U1_SW8-17
+Added Pin To Net: NetName=S4_SW1 Pin=U1_SW1-17
+Added Pin To Net: NetName=S4_SW2 Pin=U1_SW2-17
+Added Pin To Net: NetName=S4_SW3 Pin=U1_SW3-17
+Added Pin To Net: NetName=S4_SW4 Pin=U1_SW4-17
+Added Pin To Net: NetName=S4_SW5 Pin=U1_SW5-17
+Added Pin To Net: NetName=S4_SW6 Pin=U1_SW6-17
+Added Pin To Net: NetName=S4_SW7 Pin=U1_SW7-17
+Added Pin To Net: NetName=S4_SW8 Pin=U1_SW8-17

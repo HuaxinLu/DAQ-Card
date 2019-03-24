@@ -1,0 +1,471 @@
+Removed Pin From Net: NetName=40V Pin=C1-1
+Removed Pin From Net: NetName=GND_1 Pin=C1-2
+Removed Pin From Net: NetName=40V Pin=C2-1
+Removed Pin From Net: NetName=GND_1 Pin=C2-2
+Removed Pin From Net: NetName=GND_1 Pin=DB1-19
+Change Component DesignItemId : Designator=U1 Old DesignItemId=ADI4-1SW New DesignItemId=AD7606
+Change Component Footprint: Designator=C1 Old Footprint=1812 New Footprint=0805C
+Change Component Footprint: Designator=C2 Old Footprint=1812 New Footprint=0805C
+Change Component Footprint: Designator=U1 Old Footprint=TSSOP16 New Footprint=TQFP64
+Change Component Comment : Designator=U1 Old Comment=ADI4-1SW New Comment=AD7606
+Change Component Designator: OldDesignator=C2_DI1 NewDesignator=C20_DI1
+Change Component Designator: OldDesignator=C2_DI2 NewDesignator=C20_DI2
+Change Component Designator: OldDesignator=C2_DI3 NewDesignator=C20_DI3
+Change Component Designator: OldDesignator=C2_DI4 NewDesignator=C20_DI4
+Change Component Designator: OldDesignator=C2_DI5 NewDesignator=C20_DI5
+Change Component Designator: OldDesignator=C2_DI6 NewDesignator=C20_DI6
+Change Component Designator: OldDesignator=C2_DI7 NewDesignator=C20_DI7
+Change Component Designator: OldDesignator=C2_DI8 NewDesignator=C20_DI8
+Change Component Designator: OldDesignator=C3_DI1 NewDesignator=C19_DI1
+Change Component Designator: OldDesignator=C3_DI2 NewDesignator=C19_DI2
+Change Component Designator: OldDesignator=C3_DI3 NewDesignator=C19_DI3
+Change Component Designator: OldDesignator=C3_DI4 NewDesignator=C19_DI4
+Change Component Designator: OldDesignator=C3_DI5 NewDesignator=C19_DI5
+Change Component Designator: OldDesignator=C3_DI6 NewDesignator=C19_DI6
+Change Component Designator: OldDesignator=C3_DI7 NewDesignator=C19_DI7
+Change Component Designator: OldDesignator=C3_DI8 NewDesignator=C19_DI8
+Change Component Designator: OldDesignator=C4_DI1 NewDesignator=C21_DI1
+Change Component Designator: OldDesignator=C4_DI2 NewDesignator=C21_DI2
+Change Component Designator: OldDesignator=C4_DI3 NewDesignator=C21_DI3
+Change Component Designator: OldDesignator=C4_DI4 NewDesignator=C21_DI4
+Change Component Designator: OldDesignator=C4_DI5 NewDesignator=C21_DI5
+Change Component Designator: OldDesignator=C4_DI6 NewDesignator=C21_DI6
+Change Component Designator: OldDesignator=C4_DI7 NewDesignator=C21_DI7
+Change Component Designator: OldDesignator=C4_DI8 NewDesignator=C21_DI8
+Change Component Designator: OldDesignator=C5_DI1 NewDesignator=C22_DI1
+Change Component Designator: OldDesignator=C5_DI2 NewDesignator=C22_DI2
+Change Component Designator: OldDesignator=C5_DI3 NewDesignator=C22_DI3
+Change Component Designator: OldDesignator=C5_DI4 NewDesignator=C22_DI4
+Change Component Designator: OldDesignator=C5_DI5 NewDesignator=C22_DI5
+Change Component Designator: OldDesignator=C5_DI6 NewDesignator=C22_DI6
+Change Component Designator: OldDesignator=C5_DI7 NewDesignator=C22_DI7
+Change Component Designator: OldDesignator=C5_DI8 NewDesignator=C22_DI8
+Change Component Designator: OldDesignator=C6_DI1 NewDesignator=C23_DI1
+Change Component Designator: OldDesignator=C6_DI2 NewDesignator=C23_DI2
+Change Component Designator: OldDesignator=C6_DI3 NewDesignator=C23_DI3
+Change Component Designator: OldDesignator=C6_DI4 NewDesignator=C23_DI4
+Change Component Designator: OldDesignator=C6_DI5 NewDesignator=C23_DI5
+Change Component Designator: OldDesignator=C6_DI6 NewDesignator=C23_DI6
+Change Component Designator: OldDesignator=C6_DI7 NewDesignator=C23_DI7
+Change Component Designator: OldDesignator=C6_DI8 NewDesignator=C23_DI8
+Change Component Designator: OldDesignator=C7_DI1 NewDesignator=C24_DI1
+Change Component Designator: OldDesignator=C7_DI2 NewDesignator=C24_DI2
+Change Component Designator: OldDesignator=C7_DI3 NewDesignator=C24_DI3
+Change Component Designator: OldDesignator=C7_DI4 NewDesignator=C24_DI4
+Change Component Designator: OldDesignator=C7_DI5 NewDesignator=C24_DI5
+Change Component Designator: OldDesignator=C7_DI6 NewDesignator=C24_DI6
+Change Component Designator: OldDesignator=C7_DI7 NewDesignator=C24_DI7
+Change Component Designator: OldDesignator=C7_DI8 NewDesignator=C24_DI8
+Change Component Designator: OldDesignator=C8_DI1 NewDesignator=C25_DI1
+Change Component Designator: OldDesignator=C8_DI2 NewDesignator=C25_DI2
+Change Component Designator: OldDesignator=C8_DI3 NewDesignator=C25_DI3
+Change Component Designator: OldDesignator=C8_DI4 NewDesignator=C25_DI4
+Change Component Designator: OldDesignator=C8_DI5 NewDesignator=C25_DI5
+Change Component Designator: OldDesignator=C8_DI6 NewDesignator=C25_DI6
+Change Component Designator: OldDesignator=C8_DI7 NewDesignator=C25_DI7
+Change Component Designator: OldDesignator=C8_DI8 NewDesignator=C25_DI8
+Change Component Designator: OldDesignator=C9_DI1 NewDesignator=C26_DI1
+Change Component Designator: OldDesignator=C9_DI2 NewDesignator=C26_DI2
+Change Component Designator: OldDesignator=C9_DI3 NewDesignator=C26_DI3
+Change Component Designator: OldDesignator=C9_DI4 NewDesignator=C26_DI4
+Change Component Designator: OldDesignator=C9_DI5 NewDesignator=C26_DI5
+Change Component Designator: OldDesignator=C9_DI6 NewDesignator=C26_DI6
+Change Component Designator: OldDesignator=C9_DI7 NewDesignator=C26_DI7
+Change Component Designator: OldDesignator=C9_DI8 NewDesignator=C26_DI8
+Change Component Designator: OldDesignator=C10_DI1 NewDesignator=C27_DI1
+Change Component Designator: OldDesignator=C10_DI2 NewDesignator=C27_DI2
+Change Component Designator: OldDesignator=C10_DI3 NewDesignator=C27_DI3
+Change Component Designator: OldDesignator=C10_DI4 NewDesignator=C27_DI4
+Change Component Designator: OldDesignator=C10_DI5 NewDesignator=C27_DI5
+Change Component Designator: OldDesignator=C10_DI6 NewDesignator=C27_DI6
+Change Component Designator: OldDesignator=C10_DI7 NewDesignator=C27_DI7
+Change Component Designator: OldDesignator=C10_DI8 NewDesignator=C27_DI8
+Change Component Designator: OldDesignator=C11_DI1 NewDesignator=C28_DI1
+Change Component Designator: OldDesignator=C11_DI2 NewDesignator=C28_DI2
+Change Component Designator: OldDesignator=C11_DI3 NewDesignator=C28_DI3
+Change Component Designator: OldDesignator=C11_DI4 NewDesignator=C28_DI4
+Change Component Designator: OldDesignator=C11_DI5 NewDesignator=C28_DI5
+Change Component Designator: OldDesignator=C11_DI6 NewDesignator=C28_DI6
+Change Component Designator: OldDesignator=C11_DI7 NewDesignator=C28_DI7
+Change Component Designator: OldDesignator=C11_DI8 NewDesignator=C28_DI8
+Change Component Designator: OldDesignator=R1_DI1 NewDesignator=R18_DI1
+Change Component Designator: OldDesignator=R1_DI2 NewDesignator=R18_DI2
+Change Component Designator: OldDesignator=R1_DI3 NewDesignator=R18_DI3
+Change Component Designator: OldDesignator=R1_DI4 NewDesignator=R18_DI4
+Change Component Designator: OldDesignator=R1_DI5 NewDesignator=R18_DI5
+Change Component Designator: OldDesignator=R1_DI6 NewDesignator=R18_DI6
+Change Component Designator: OldDesignator=R1_DI7 NewDesignator=R18_DI7
+Change Component Designator: OldDesignator=R1_DI8 NewDesignator=R18_DI8
+Change Component Designator: OldDesignator=R2_DI1 NewDesignator=R19_DI1
+Change Component Designator: OldDesignator=R2_DI2 NewDesignator=R19_DI2
+Change Component Designator: OldDesignator=R2_DI3 NewDesignator=R19_DI3
+Change Component Designator: OldDesignator=R2_DI4 NewDesignator=R19_DI4
+Change Component Designator: OldDesignator=R2_DI5 NewDesignator=R19_DI5
+Change Component Designator: OldDesignator=R2_DI6 NewDesignator=R19_DI6
+Change Component Designator: OldDesignator=R2_DI7 NewDesignator=R19_DI7
+Change Component Designator: OldDesignator=R2_DI8 NewDesignator=R19_DI8
+Change Component Designator: OldDesignator=R3_DI1 NewDesignator=R20_DI1
+Change Component Designator: OldDesignator=R3_DI2 NewDesignator=R20_DI2
+Change Component Designator: OldDesignator=R3_DI3 NewDesignator=R20_DI3
+Change Component Designator: OldDesignator=R3_DI4 NewDesignator=R20_DI4
+Change Component Designator: OldDesignator=R3_DI5 NewDesignator=R20_DI5
+Change Component Designator: OldDesignator=R3_DI6 NewDesignator=R20_DI6
+Change Component Designator: OldDesignator=R3_DI7 NewDesignator=R20_DI7
+Change Component Designator: OldDesignator=R3_DI8 NewDesignator=R20_DI8
+Change Component Designator: OldDesignator=R4_DI1 NewDesignator=R21_DI1
+Change Component Designator: OldDesignator=R4_DI2 NewDesignator=R21_DI2
+Change Component Designator: OldDesignator=R4_DI3 NewDesignator=R21_DI3
+Change Component Designator: OldDesignator=R4_DI4 NewDesignator=R21_DI4
+Change Component Designator: OldDesignator=R4_DI5 NewDesignator=R21_DI5
+Change Component Designator: OldDesignator=R4_DI6 NewDesignator=R21_DI6
+Change Component Designator: OldDesignator=R4_DI7 NewDesignator=R21_DI7
+Change Component Designator: OldDesignator=R4_DI8 NewDesignator=R21_DI8
+Change Component Designator: OldDesignator=R5_DI1 NewDesignator=R22_DI1
+Change Component Designator: OldDesignator=R5_DI2 NewDesignator=R22_DI2
+Change Component Designator: OldDesignator=R5_DI3 NewDesignator=R22_DI3
+Change Component Designator: OldDesignator=R5_DI4 NewDesignator=R22_DI4
+Change Component Designator: OldDesignator=R5_DI5 NewDesignator=R22_DI5
+Change Component Designator: OldDesignator=R5_DI6 NewDesignator=R22_DI6
+Change Component Designator: OldDesignator=R5_DI7 NewDesignator=R22_DI7
+Change Component Designator: OldDesignator=R5_DI8 NewDesignator=R22_DI8
+Change Component Designator: OldDesignator=R6_DI1 NewDesignator=R23_DI1
+Change Component Designator: OldDesignator=R6_DI2 NewDesignator=R23_DI2
+Change Component Designator: OldDesignator=R6_DI3 NewDesignator=R23_DI3
+Change Component Designator: OldDesignator=R6_DI4 NewDesignator=R23_DI4
+Change Component Designator: OldDesignator=R6_DI5 NewDesignator=R23_DI5
+Change Component Designator: OldDesignator=R6_DI6 NewDesignator=R23_DI6
+Change Component Designator: OldDesignator=R6_DI7 NewDesignator=R23_DI7
+Change Component Designator: OldDesignator=R6_DI8 NewDesignator=R23_DI8
+Change Component Designator: OldDesignator=R7_DI1 NewDesignator=R24_DI1
+Change Component Designator: OldDesignator=R7_DI2 NewDesignator=R24_DI2
+Change Component Designator: OldDesignator=R7_DI3 NewDesignator=R24_DI3
+Change Component Designator: OldDesignator=R7_DI4 NewDesignator=R24_DI4
+Change Component Designator: OldDesignator=R7_DI5 NewDesignator=R24_DI5
+Change Component Designator: OldDesignator=R7_DI6 NewDesignator=R24_DI6
+Change Component Designator: OldDesignator=R7_DI7 NewDesignator=R24_DI7
+Change Component Designator: OldDesignator=R7_DI8 NewDesignator=R24_DI8
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U7 NewDesignator=U5
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9_DI1 NewDesignator=U10_DI1
+Change Component Designator: OldDesignator=U9_DI2 NewDesignator=U10_DI2
+Change Component Designator: OldDesignator=U9_DI3 NewDesignator=U10_DI3
+Change Component Designator: OldDesignator=U9_DI4 NewDesignator=U10_DI4
+Change Component Designator: OldDesignator=U9_DI5 NewDesignator=U10_DI5
+Change Component Designator: OldDesignator=U9_DI6 NewDesignator=U10_DI6
+Change Component Designator: OldDesignator=U9_DI7 NewDesignator=U10_DI7
+Change Component Designator: OldDesignator=U9_DI8 NewDesignator=U10_DI8
+Added Component: Designator=A1(RCA03-4D)
+Added Component: Designator=A2(RCA03-4D)
+Added Component: Designator=A3(RCA03-4D)
+Added Component: Designator=A4(RCA03-4D)
+Added Component: Designator=C3(0805C)
+Added Component: Designator=C4(0805C)
+Added Component: Designator=C5(0805C)
+Added Component: Designator=C6(0805C)
+Added Component: Designator=C7(0805C)
+Added Component: Designator=C8(0805C)
+Added Component: Designator=C9(3216)
+Added Component: Designator=C10(3216)
+Added Component: Designator=C11(3216)
+Added Component: Designator=C12(3216)
+Added Component: Designator=C13(1812)
+Added Component: Designator=C14(1812)
+Added Component: Designator=C15(3216)
+Added Component: Designator=C16(3216)
+Added Component: Designator=C17(3216)
+Added Component: Designator=C18(3216)
+Added Component: Designator=R1(0805R)
+Added Component: Designator=R2(0805R)
+Added Component: Designator=R3(0805R)
+Added Component: Designator=R4(0805R)
+Added Component: Designator=R5(0805R)
+Added Component: Designator=R6(0805R)
+Added Component: Designator=R7(0805R)
+Added Component: Designator=R8(0805R)
+Added Component: Designator=R9(0805R)
+Added Component: Designator=R10(0805R)
+Added Component: Designator=R11(0805R)
+Added Component: Designator=R12(0805R)
+Added Component: Designator=R13(0805R)
+Added Component: Designator=R14(0805R)
+Added Component: Designator=R15(0805R)
+Added Component: Designator=R16(0805R)
+Added Component: Designator=R17(0805R)
+Added Component: Designator=U7(TSSOP16)
+Added Component: Designator=U8(TSSOP16)
+Added Pin To Net: NetName=40V Pin=C13-1
+Added Pin To Net: NetName=GND_1 Pin=C13-2
+Added Pin To Net: NetName=40V Pin=C14-1
+Added Pin To Net: NetName=GND_1 Pin=C14-2
+Change Net Name : Old Net Name=NetC3_DI1_1 New Net Name=NetC19_DI1_1
+Change Net Name : Old Net Name=NetC3_DI2_1 New Net Name=NetC19_DI2_1
+Change Net Name : Old Net Name=NetC3_DI3_1 New Net Name=NetC19_DI3_1
+Change Net Name : Old Net Name=NetC3_DI4_1 New Net Name=NetC19_DI4_1
+Change Net Name : Old Net Name=NetC3_DI5_1 New Net Name=NetC19_DI5_1
+Change Net Name : Old Net Name=NetC3_DI6_1 New Net Name=NetC19_DI6_1
+Change Net Name : Old Net Name=NetC3_DI7_1 New Net Name=NetC19_DI7_1
+Change Net Name : Old Net Name=NetC3_DI8_1 New Net Name=NetC19_DI8_1
+Change Net Name : Old Net Name=NetC5_DI1_1 New Net Name=NetC22_DI1_1
+Change Net Name : Old Net Name=NetC5_DI1_2 New Net Name=NetC22_DI1_2
+Change Net Name : Old Net Name=NetC5_DI2_1 New Net Name=NetC22_DI2_1
+Change Net Name : Old Net Name=NetC5_DI2_2 New Net Name=NetC22_DI2_2
+Change Net Name : Old Net Name=NetC5_DI3_1 New Net Name=NetC22_DI3_1
+Change Net Name : Old Net Name=NetC5_DI3_2 New Net Name=NetC22_DI3_2
+Change Net Name : Old Net Name=NetC5_DI4_1 New Net Name=NetC22_DI4_1
+Change Net Name : Old Net Name=NetC5_DI4_2 New Net Name=NetC22_DI4_2
+Change Net Name : Old Net Name=NetC5_DI5_1 New Net Name=NetC22_DI5_1
+Change Net Name : Old Net Name=NetC5_DI5_2 New Net Name=NetC22_DI5_2
+Change Net Name : Old Net Name=NetC5_DI6_1 New Net Name=NetC22_DI6_1
+Change Net Name : Old Net Name=NetC5_DI6_2 New Net Name=NetC22_DI6_2
+Change Net Name : Old Net Name=NetC5_DI7_1 New Net Name=NetC22_DI7_1
+Change Net Name : Old Net Name=NetC5_DI7_2 New Net Name=NetC22_DI7_2
+Change Net Name : Old Net Name=NetC5_DI8_1 New Net Name=NetC22_DI8_1
+Change Net Name : Old Net Name=NetC5_DI8_2 New Net Name=NetC22_DI8_2
+Change Net Name : Old Net Name=NetC6_DI1_1 New Net Name=NetC23_DI1_1
+Change Net Name : Old Net Name=NetC6_DI2_1 New Net Name=NetC23_DI2_1
+Change Net Name : Old Net Name=NetC6_DI3_1 New Net Name=NetC23_DI3_1
+Change Net Name : Old Net Name=NetC6_DI4_1 New Net Name=NetC23_DI4_1
+Change Net Name : Old Net Name=NetC6_DI5_1 New Net Name=NetC23_DI5_1
+Change Net Name : Old Net Name=NetC6_DI6_1 New Net Name=NetC23_DI6_1
+Change Net Name : Old Net Name=NetC6_DI7_1 New Net Name=NetC23_DI7_1
+Change Net Name : Old Net Name=NetC6_DI8_1 New Net Name=NetC23_DI8_1
+Change Net Name : Old Net Name=NetC10_DI1_2 New Net Name=NetC27_DI1_2
+Change Net Name : Old Net Name=NetC10_DI2_2 New Net Name=NetC27_DI2_2
+Change Net Name : Old Net Name=NetC10_DI3_2 New Net Name=NetC27_DI3_2
+Change Net Name : Old Net Name=NetC10_DI4_2 New Net Name=NetC27_DI4_2
+Change Net Name : Old Net Name=NetC10_DI5_2 New Net Name=NetC27_DI5_2
+Change Net Name : Old Net Name=NetC10_DI6_2 New Net Name=NetC27_DI6_2
+Change Net Name : Old Net Name=NetC10_DI7_2 New Net Name=NetC27_DI7_2
+Change Net Name : Old Net Name=NetC10_DI8_2 New Net Name=NetC27_DI8_2
+Change Net Name : Old Net Name=NetR5_DI1_1 New Net Name=NetR22_DI1_1
+Change Net Name : Old Net Name=NetR5_DI1_2 New Net Name=NetR22_DI1_2
+Change Net Name : Old Net Name=NetR5_DI2_1 New Net Name=NetR22_DI2_1
+Change Net Name : Old Net Name=NetR5_DI2_2 New Net Name=NetR22_DI2_2
+Change Net Name : Old Net Name=NetR5_DI3_1 New Net Name=NetR22_DI3_1
+Change Net Name : Old Net Name=NetR5_DI3_2 New Net Name=NetR22_DI3_2
+Change Net Name : Old Net Name=NetR5_DI4_1 New Net Name=NetR22_DI4_1
+Change Net Name : Old Net Name=NetR5_DI4_2 New Net Name=NetR22_DI4_2
+Change Net Name : Old Net Name=NetR5_DI5_1 New Net Name=NetR22_DI5_1
+Change Net Name : Old Net Name=NetR5_DI5_2 New Net Name=NetR22_DI5_2
+Change Net Name : Old Net Name=NetR5_DI6_1 New Net Name=NetR22_DI6_1
+Change Net Name : Old Net Name=NetR5_DI6_2 New Net Name=NetR22_DI6_2
+Change Net Name : Old Net Name=NetR5_DI7_1 New Net Name=NetR22_DI7_1
+Change Net Name : Old Net Name=NetR5_DI7_2 New Net Name=NetR22_DI7_2
+Change Net Name : Old Net Name=NetR5_DI8_1 New Net Name=NetR22_DI8_1
+Change Net Name : Old Net Name=NetR5_DI8_2 New Net Name=NetR22_DI8_2
+Added Pin To Net: NetName=5VD_1 Pin=R2-1
+Added Pin To Net: NetName=5VD_1 Pin=R4-1
+Added Pin To Net: NetName=5VD_1 Pin=R6-1
+Added Net: Name=5VD_1
+Added Pin To Net: NetName=AGND_1 Pin=C9-2
+Added Pin To Net: NetName=AGND_1 Pin=C10-2
+Added Pin To Net: NetName=AGND_1 Pin=C11-2
+Added Pin To Net: NetName=AGND_1 Pin=C12-2
+Added Pin To Net: NetName=AGND_1 Pin=C15-2
+Added Pin To Net: NetName=AGND_1 Pin=C16-2
+Added Pin To Net: NetName=AGND_1 Pin=C17-2
+Added Pin To Net: NetName=AGND_1 Pin=C18-2
+Added Pin To Net: NetName=AGND_1 Pin=R12-2
+Added Pin To Net: NetName=AGND_1 Pin=R15-1
+Added Pin To Net: NetName=AGND_1 Pin=U1-2
+Added Pin To Net: NetName=AGND_1 Pin=U1-17
+Added Pin To Net: NetName=AGND_1 Pin=U1-18
+Added Pin To Net: NetName=AGND_1 Pin=U1-19
+Added Pin To Net: NetName=AGND_1 Pin=U1-20
+Added Pin To Net: NetName=AGND_1 Pin=U1-21
+Added Pin To Net: NetName=AGND_1 Pin=U1-22
+Added Pin To Net: NetName=AGND_1 Pin=U1-26
+Added Pin To Net: NetName=AGND_1 Pin=U1-27
+Added Pin To Net: NetName=AGND_1 Pin=U1-28
+Added Pin To Net: NetName=AGND_1 Pin=U1-29
+Added Pin To Net: NetName=AGND_1 Pin=U1-30
+Added Pin To Net: NetName=AGND_1 Pin=U1-31
+Added Pin To Net: NetName=AGND_1 Pin=U1-32
+Added Pin To Net: NetName=AGND_1 Pin=U1-33
+Added Pin To Net: NetName=AGND_1 Pin=U1-35
+Added Pin To Net: NetName=AGND_1 Pin=U1-40
+Added Pin To Net: NetName=AGND_1 Pin=U1-41
+Added Pin To Net: NetName=AGND_1 Pin=U1-43
+Added Pin To Net: NetName=AGND_1 Pin=U1-46
+Added Pin To Net: NetName=AGND_1 Pin=U1-47
+Added Net: Name=AGND_1
+Added Pin To Net: NetName=AVCC_1 Pin=C9-1
+Added Pin To Net: NetName=AVCC_1 Pin=C10-1
+Added Pin To Net: NetName=AVCC_1 Pin=C11-1
+Added Pin To Net: NetName=AVCC_1 Pin=C12-1
+Added Pin To Net: NetName=AVCC_1 Pin=U1-1
+Added Pin To Net: NetName=AVCC_1 Pin=U1-37
+Added Pin To Net: NetName=AVCC_1 Pin=U1-38
+Added Pin To Net: NetName=AVCC_1 Pin=U1-48
+Added Net: Name=AVCC_1
+Added Pin To Net: NetName=BUSY Pin=U1-14
+Added Net: Name=BUSY
+Added Pin To Net: NetName=C0 Pin=DB1-19
+Added Pin To Net: NetName=C0 Pin=R17-2
+Added Net: Name=C0
+Added Pin To Net: NetName=CLK Pin=U1-12
+Added Net: Name=CLK
+Added Pin To Net: NetName=CONVA Pin=R10-1
+Added Pin To Net: NetName=CONVA Pin=U1-9
+Added Net: Name=CONVA
+Added Pin To Net: NetName=CONVB Pin=R11-1
+Added Pin To Net: NetName=CONVB Pin=U1-10
+Added Net: Name=CONVB
+Added Pin To Net: NetName=CONV Pin=R10-2
+Added Pin To Net: NetName=CONV Pin=R11-2
+Added Net: Name=CONV
+Added Pin To Net: NetName=CS Pin=U1-13
+Added Net: Name=CS
+Added Pin To Net: NetName=DGND_1 Pin=R1-2
+Added Pin To Net: NetName=DGND_1 Pin=R3-2
+Added Pin To Net: NetName=DGND_1 Pin=R5-2
+Added Pin To Net: NetName=DGND_1 Pin=R9-2
+Added Net: Name=DGND_1
+Added Pin To Net: NetName=DO Pin=R13-1
+Added Pin To Net: NetName=DO Pin=R14-1
+Added Net: Name=DO
+Added Pin To Net: NetName=DOUTA Pin=R13-2
+Added Pin To Net: NetName=DOUTA Pin=U1-24
+Added Net: Name=DOUTA
+Added Pin To Net: NetName=DOUTB Pin=R14-2
+Added Pin To Net: NetName=DOUTB Pin=U1-25
+Added Net: Name=DOUTB
+Added Pin To Net: NetName=DVCC_1 Pin=R7-2
+Added Pin To Net: NetName=DVCC_1 Pin=R8-2
+Added Pin To Net: NetName=DVCC_1 Pin=R16-1
+Added Pin To Net: NetName=DVCC_1 Pin=U1-23
+Added Net: Name=DVCC_1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetA1_2 Pin=A1-2
+Added Pin To Net: NetName=NetA1_2 Pin=C1-2
+Added Net: Name=NetA1_2
+Added Pin To Net: NetName=NetA1_4 Pin=A1-4
+Added Pin To Net: NetName=NetA1_4 Pin=C1-1
+Added Net: Name=NetA1_4
+Added Pin To Net: NetName=NetA1_6 Pin=A1-6
+Added Pin To Net: NetName=NetA1_6 Pin=C3-2
+Added Net: Name=NetA1_6
+Added Pin To Net: NetName=NetA1_8 Pin=A1-8
+Added Pin To Net: NetName=NetA1_8 Pin=C3-1
+Added Net: Name=NetA1_8
+Added Pin To Net: NetName=NetA2_2 Pin=A2-2
+Added Pin To Net: NetName=NetA2_2 Pin=C2-2
+Added Net: Name=NetA2_2
+Added Pin To Net: NetName=NetA2_4 Pin=A2-4
+Added Pin To Net: NetName=NetA2_4 Pin=C2-1
+Added Net: Name=NetA2_4
+Added Pin To Net: NetName=NetA2_6 Pin=A2-6
+Added Pin To Net: NetName=NetA2_6 Pin=C4-2
+Added Net: Name=NetA2_6
+Added Pin To Net: NetName=NetA2_8 Pin=A2-8
+Added Pin To Net: NetName=NetA2_8 Pin=C4-1
+Added Net: Name=NetA2_8
+Added Pin To Net: NetName=NetA3_2 Pin=A3-2
+Added Pin To Net: NetName=NetA3_2 Pin=C5-2
+Added Net: Name=NetA3_2
+Added Pin To Net: NetName=NetA3_4 Pin=A3-4
+Added Pin To Net: NetName=NetA3_4 Pin=C5-1
+Added Net: Name=NetA3_4
+Added Pin To Net: NetName=NetA3_6 Pin=A3-6
+Added Pin To Net: NetName=NetA3_6 Pin=C7-2
+Added Net: Name=NetA3_6
+Added Pin To Net: NetName=NetA3_8 Pin=A3-8
+Added Pin To Net: NetName=NetA3_8 Pin=C7-1
+Added Net: Name=NetA3_8
+Added Pin To Net: NetName=NetA4_2 Pin=A4-2
+Added Pin To Net: NetName=NetA4_2 Pin=C6-2
+Added Net: Name=NetA4_2
+Added Pin To Net: NetName=NetA4_4 Pin=A4-4
+Added Pin To Net: NetName=NetA4_4 Pin=C6-1
+Added Net: Name=NetA4_4
+Added Pin To Net: NetName=NetA4_6 Pin=A4-6
+Added Pin To Net: NetName=NetA4_6 Pin=C8-2
+Added Net: Name=NetA4_6
+Added Pin To Net: NetName=NetA4_8 Pin=A4-8
+Added Pin To Net: NetName=NetA4_8 Pin=C8-1
+Added Net: Name=NetA4_8
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U1-45
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=U1-44
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=U1-39
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=U1-36
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-6
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-7
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-8
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U1-16
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=OS0 Pin=R1-1
+Added Pin To Net: NetName=OS0 Pin=R2-2
+Added Pin To Net: NetName=OS0 Pin=U1-3
+Added Net: Name=OS0
+Added Pin To Net: NetName=OS1 Pin=R3-1
+Added Pin To Net: NetName=OS1 Pin=R4-2
+Added Pin To Net: NetName=OS1 Pin=U1-4
+Added Net: Name=OS1
+Added Pin To Net: NetName=OS2 Pin=R5-1
+Added Pin To Net: NetName=OS2 Pin=R6-2
+Added Pin To Net: NetName=OS2 Pin=U1-5
+Added Net: Name=OS2
+Added Pin To Net: NetName=REFIN Pin=U1-42
+Added Net: Name=REFIN
+Added Pin To Net: NetName=REFSEL Pin=R15-2
+Added Pin To Net: NetName=REFSEL Pin=R16-2
+Added Pin To Net: NetName=REFSEL Pin=U1-34
+Added Net: Name=REFSEL
+Added Pin To Net: NetName=REST Pin=U1-11
+Added Net: Name=REST
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component A1 ≈≈◊Ë 51≈∑ƒ∑
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component A2 ≈≈◊Ë 51≈∑ƒ∑
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component A3 ≈≈◊Ë 51≈∑ƒ∑
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component A4 ≈≈◊Ë 51≈∑ƒ∑
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C3 Cap
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C4 Cap
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C5 Cap
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C6 Cap
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C7 Cap
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C8 Cap
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C9 Cap Pol1
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C10 Cap Pol1
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C11 Cap Pol1
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C12 Cap Pol1
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C13 Cap
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C14 Cap
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C15 Cap Pol1
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C16 Cap Pol1
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C17 Cap Pol1
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component C18 Cap Pol1
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R1 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R2 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R3 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R4 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R5 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R6 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R7 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R8 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R9 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R10 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R11 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R12 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R13 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R14 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R15 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R16 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component R17 Res2
+Added Member To Class: ClassName=µÁ≥ÿµÁ—πºÏ≤‚ Member=Component U9 ADI4-1SW
+Added Room: Name=µÁ≥ÿµÁ—πºÏ≤‚

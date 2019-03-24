@@ -1,0 +1,128 @@
+Change Component Designator: OldDesignator=S1_SW1 NewDesignator=C1_SW1
+Change Component Designator: OldDesignator=S1_SW2 NewDesignator=C1_SW2
+Change Component Designator: OldDesignator=S1_SW3 NewDesignator=C1_SW3
+Change Component Designator: OldDesignator=S1_SW4 NewDesignator=C1_SW4
+Change Component Designator: OldDesignator=S1_SW5 NewDesignator=C1_SW5
+Change Component Designator: OldDesignator=S1_SW6 NewDesignator=C1_SW6
+Change Component Designator: OldDesignator=S1_SW7 NewDesignator=C1_SW7
+Change Component Designator: OldDesignator=S1_SW8 NewDesignator=C1_SW8
+Change Component Designator: OldDesignator=U9_DI1 NewDesignator=U1_DI1
+Change Component Designator: OldDesignator=U9_DI2 NewDesignator=U1_DI2
+Change Component Designator: OldDesignator=U9_DI3 NewDesignator=U1_DI3
+Change Component Designator: OldDesignator=U9_DI4 NewDesignator=U1_DI4
+Change Component Designator: OldDesignator=U9_DI5 NewDesignator=U1_DI5
+Change Component Designator: OldDesignator=U9_DI6 NewDesignator=U1_DI6
+Change Component Designator: OldDesignator=U9_DI7 NewDesignator=U1_DI7
+Change Component Designator: OldDesignator=U9_DI8 NewDesignator=U1_DI8
+Change Component Designator: OldDesignator=U9_DI9 NewDesignator=U1_DI9
+Change Component Designator: OldDesignator=U9_DI10 NewDesignator=U1_DI10
+Change Component Designator: OldDesignator=U9_DI11 NewDesignator=U1_DI11
+Change Component Designator: OldDesignator=U9_DI12 NewDesignator=U1_DI12
+Change Component Designator: OldDesignator=U9_DI13 NewDesignator=U1_DI13
+Change Component Designator: OldDesignator=U9_DI14 NewDesignator=U1_DI14
+Change Component Designator: OldDesignator=U9_DI15 NewDesignator=U1_DI15
+Change Component Designator: OldDesignator=U9_DI16 NewDesignator=U1_DI16
+Change Component Designator: OldDesignator=U10_SW1 NewDesignator=U2_SW1
+Change Component Designator: OldDesignator=U10_SW2 NewDesignator=U2_SW2
+Change Component Designator: OldDesignator=U10_SW3 NewDesignator=U2_SW3
+Change Component Designator: OldDesignator=U10_SW4 NewDesignator=U2_SW4
+Change Component Designator: OldDesignator=U10_SW5 NewDesignator=U2_SW5
+Change Component Designator: OldDesignator=U10_SW6 NewDesignator=U2_SW6
+Change Component Designator: OldDesignator=U10_SW7 NewDesignator=U2_SW7
+Change Component Designator: OldDesignator=U10_SW8 NewDesignator=U2_SW8
+Added Component: Designator=C17_SW1(0603AC)
+Added Component: Designator=C17_SW2(0603AC)
+Added Component: Designator=C17_SW3(0603AC)
+Added Component: Designator=C17_SW4(0603AC)
+Added Component: Designator=C17_SW5(0603AC)
+Added Component: Designator=C17_SW6(0603AC)
+Added Component: Designator=C17_SW7(0603AC)
+Added Component: Designator=C17_SW8(0603AC)
+Added Component: Designator=C18_SW1(0603AC)
+Added Component: Designator=C18_SW2(0603AC)
+Added Component: Designator=C18_SW3(0603AC)
+Added Component: Designator=C18_SW4(0603AC)
+Added Component: Designator=C18_SW5(0603AC)
+Added Component: Designator=C18_SW6(0603AC)
+Added Component: Designator=C18_SW7(0603AC)
+Added Component: Designator=C18_SW8(0603AC)
+Added Component: Designator=C19_SW1(0603AC)
+Added Component: Designator=C19_SW2(0603AC)
+Added Component: Designator=C19_SW3(0603AC)
+Added Component: Designator=C19_SW4(0603AC)
+Added Component: Designator=C19_SW5(0603AC)
+Added Component: Designator=C19_SW6(0603AC)
+Added Component: Designator=C19_SW7(0603AC)
+Added Component: Designator=C19_SW8(0603AC)
+Added Pin To Net: NetName=S2_SW1 Pin=C17_SW1-1
+Added Pin To Net: NetName=GND_1 Pin=C17_SW1-2
+Added Pin To Net: NetName=S2_SW2 Pin=C17_SW2-1
+Added Pin To Net: NetName=GND_1 Pin=C17_SW2-2
+Added Pin To Net: NetName=S2_SW3 Pin=C17_SW3-1
+Added Pin To Net: NetName=GND_1 Pin=C17_SW3-2
+Added Pin To Net: NetName=S2_SW4 Pin=C17_SW4-1
+Added Pin To Net: NetName=GND_1 Pin=C17_SW4-2
+Added Pin To Net: NetName=S2_SW5 Pin=C17_SW5-1
+Added Pin To Net: NetName=GND_1 Pin=C17_SW5-2
+Added Pin To Net: NetName=S2_SW6 Pin=C17_SW6-1
+Added Pin To Net: NetName=GND_1 Pin=C17_SW6-2
+Added Pin To Net: NetName=S2_SW7 Pin=C17_SW7-1
+Added Pin To Net: NetName=GND_1 Pin=C17_SW7-2
+Added Pin To Net: NetName=S2_SW8 Pin=C17_SW8-1
+Added Pin To Net: NetName=GND_1 Pin=C17_SW8-2
+Added Pin To Net: NetName=S3_SW1 Pin=C18_SW1-1
+Added Pin To Net: NetName=GND_1 Pin=C18_SW1-2
+Added Pin To Net: NetName=S3_SW2 Pin=C18_SW2-1
+Added Pin To Net: NetName=GND_1 Pin=C18_SW2-2
+Added Pin To Net: NetName=S3_SW3 Pin=C18_SW3-1
+Added Pin To Net: NetName=GND_1 Pin=C18_SW3-2
+Added Pin To Net: NetName=S3_SW4 Pin=C18_SW4-1
+Added Pin To Net: NetName=GND_1 Pin=C18_SW4-2
+Added Pin To Net: NetName=S3_SW5 Pin=C18_SW5-1
+Added Pin To Net: NetName=GND_1 Pin=C18_SW5-2
+Added Pin To Net: NetName=S3_SW6 Pin=C18_SW6-1
+Added Pin To Net: NetName=GND_1 Pin=C18_SW6-2
+Added Pin To Net: NetName=S3_SW7 Pin=C18_SW7-1
+Added Pin To Net: NetName=GND_1 Pin=C18_SW7-2
+Added Pin To Net: NetName=S3_SW8 Pin=C18_SW8-1
+Added Pin To Net: NetName=GND_1 Pin=C18_SW8-2
+Added Pin To Net: NetName=S4_SW1 Pin=C19_SW1-1
+Added Pin To Net: NetName=GND_1 Pin=C19_SW1-2
+Added Pin To Net: NetName=S4_SW2 Pin=C19_SW2-1
+Added Pin To Net: NetName=GND_1 Pin=C19_SW2-2
+Added Pin To Net: NetName=S4_SW3 Pin=C19_SW3-1
+Added Pin To Net: NetName=GND_1 Pin=C19_SW3-2
+Added Pin To Net: NetName=S4_SW4 Pin=C19_SW4-1
+Added Pin To Net: NetName=GND_1 Pin=C19_SW4-2
+Added Pin To Net: NetName=S4_SW5 Pin=C19_SW5-1
+Added Pin To Net: NetName=GND_1 Pin=C19_SW5-2
+Added Pin To Net: NetName=S4_SW6 Pin=C19_SW6-1
+Added Pin To Net: NetName=GND_1 Pin=C19_SW6-2
+Added Pin To Net: NetName=S4_SW7 Pin=C19_SW7-1
+Added Pin To Net: NetName=GND_1 Pin=C19_SW7-2
+Added Pin To Net: NetName=S4_SW8 Pin=C19_SW8-1
+Added Pin To Net: NetName=GND_1 Pin=C19_SW8-2
+Added Member To Class: ClassName=SW1 Member=Component C17_SW1 (C17) Cap
+Added Member To Class: ClassName=SW2 Member=Component C17_SW2 (C17) Cap
+Added Member To Class: ClassName=SW3 Member=Component C17_SW3 (C17) Cap
+Added Member To Class: ClassName=SW4 Member=Component C17_SW4 (C17) Cap
+Added Member To Class: ClassName=SW5 Member=Component C17_SW5 (C17) Cap
+Added Member To Class: ClassName=SW6 Member=Component C17_SW6 (C17) Cap
+Added Member To Class: ClassName=SW7 Member=Component C17_SW7 (C17) Cap
+Added Member To Class: ClassName=SW8 Member=Component C17_SW8 (C17) Cap
+Added Member To Class: ClassName=SW1 Member=Component C18_SW1 (C18) Cap
+Added Member To Class: ClassName=SW2 Member=Component C18_SW2 (C18) Cap
+Added Member To Class: ClassName=SW3 Member=Component C18_SW3 (C18) Cap
+Added Member To Class: ClassName=SW4 Member=Component C18_SW4 (C18) Cap
+Added Member To Class: ClassName=SW5 Member=Component C18_SW5 (C18) Cap
+Added Member To Class: ClassName=SW6 Member=Component C18_SW6 (C18) Cap
+Added Member To Class: ClassName=SW7 Member=Component C18_SW7 (C18) Cap
+Added Member To Class: ClassName=SW8 Member=Component C18_SW8 (C18) Cap
+Added Member To Class: ClassName=SW1 Member=Component C19_SW1 (C19) Cap
+Added Member To Class: ClassName=SW2 Member=Component C19_SW2 (C19) Cap
+Added Member To Class: ClassName=SW3 Member=Component C19_SW3 (C19) Cap
+Added Member To Class: ClassName=SW4 Member=Component C19_SW4 (C19) Cap
+Added Member To Class: ClassName=SW5 Member=Component C19_SW5 (C19) Cap
+Added Member To Class: ClassName=SW6 Member=Component C19_SW6 (C19) Cap
+Added Member To Class: ClassName=SW7 Member=Component C19_SW7 (C19) Cap
+Added Member To Class: ClassName=SW8 Member=Component C19_SW8 (C19) Cap

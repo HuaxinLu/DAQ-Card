@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=采集卡 Member=U24
+Removed Member From Class: ClassName=采集卡 Member=U25
+Removed Member From Class: ClassName=采集卡 Member=U26
+Removed Member From Class: ClassName=采集卡 Member=U27
+Removed Member From Class: ClassName=采集卡 Member=U28
+Change Component DesignItemId : Designator=U20 Old DesignItemId=AD620 New DesignItemId=AD8426
+Change Component DesignItemId : Designator=U21 Old DesignItemId=AD620 New DesignItemId=AD8426
+Change Component DesignItemId : Designator=U22 Old DesignItemId=AD620 New DesignItemId=AD8426
+Change Component DesignItemId : Designator=U23 Old DesignItemId=AD620 New DesignItemId=AD8426
+Change Component Footprint: Designator=U20 Old Footprint=MSOP8 New Footprint=LFCSP
+Change Component Footprint: Designator=U21 Old Footprint=MSOP8 New Footprint=LFCSP
+Change Component Footprint: Designator=U22 Old Footprint=MSOP8 New Footprint=LFCSP
+Change Component Footprint: Designator=U23 Old Footprint=MSOP8 New Footprint=LFCSP
+Change Component Comment : Designator=U20 Old Comment=AD620 New Comment=AD8426
+Change Component Comment : Designator=U21 Old Comment=AD620 New Comment=AD8426
+Change Component Comment : Designator=U22 Old Comment=AD620 New Comment=AD8426
+Change Component Comment : Designator=U23 Old Comment=AD620 New Comment=AD8426
+Added Room: Name=U_数字部分
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源
+Added Room: Name=采集卡

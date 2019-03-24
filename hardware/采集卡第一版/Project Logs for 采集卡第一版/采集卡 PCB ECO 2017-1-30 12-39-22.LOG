@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DO Pin=R10-1
+Removed Pin From Net: NetName=DO Pin=R11-1
+Removed Member From Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=R10
+Removed Member From Class: ClassName=U_µÁ≥ÿµÁ—πºÏ≤‚ Member=R11
+Added Pin To Net: NetName=DO Pin=U1-24
+Added Pin To Net: NetName=DO Pin=U1-25

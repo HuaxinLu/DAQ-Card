@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [采集卡第一版.PrjPCB]
+   Generated File[采集卡.GBL]
+   Generated File[采集卡.RUL]
+   Generated File[采集卡.EXTREP]
+   Generated File[采集卡.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:37:59 On 2017/2/22

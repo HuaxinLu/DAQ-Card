@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=CLK_1 Pin=A2-2
+Removed Pin From Net: NetName=DO_1 Pin=A2-4
+Removed Pin From Net: NetName=DI_1 Pin=A2-6
+Removed Pin From Net: NetName=CS_1 Pin=A2-8
+Removed Pin From Net: NetName=SPI2SCK Pin=A17-1
+Removed Pin From Net: NetName=SPI2DI Pin=A17-3
+Removed Pin From Net: NetName=SPI2DO Pin=A17-5
+Removed Pin From Net: NetName=SPI2CS1 Pin=A17-7
+Removed Pin From Net: NetName=GND Pin=C175-1
+Removed Pin From Net: NetName=CS_2 Pin=R112-1
+Removed Pin From Net: NetName=SPI2CS2 Pin=R130-2
+Removed Pin From Net: NetName=GND Pin=U28-2
+Removed Pin From Net: NetName=DGND_2 Pin=U28-11
+Removed Pin From Net: NetName=NetR112_2 Pin=U28-14
+Removed Pin From Net: NetName=DGND_2 Pin=U28-19
+Removed Pin From Net: NetName=+6V_2 Pin=U28-20
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=A2
+Removed Member From Class: ClassName=U_模拟量输入输出 Member=A17
+Change Component DesignItemId : Designator=U28 Old DesignItemId=ADUM3154 New DesignItemId=ADUM151
+Change Component Footprint: Designator=R112 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=R130 Old Footprint=0603AR New Footprint=0805R
+Change Component Footprint: Designator=U28 Old Footprint=SSOP20 New Footprint=SO16NB
+Change Component Comment : Designator=U28 Old Comment=ADUM3154 New Comment=ADUM151
+Added Component: Designator=C139(0805C)
+Added Component: Designator=C140(0805C)
+Added Component: Designator=R23(0805R)
+Added Component: Designator=R117(0805R)
+Added Component: Designator=R163(0805R)
+Added Component: Designator=R164(0805R)
+Added Component: Designator=R165(0805R)
+Added Component: Designator=R166(0805R)
+Added Component: Designator=R167(0805R)
+Added Component: Designator=R168(0805R)
+Added Pin To Net: NetName=GND Pin=C139-1
+Added Pin To Net: NetName=5V_0 Pin=C139-2
+Added Pin To Net: NetName=+6V_2 Pin=C140-1
+Added Pin To Net: NetName=SPI2SCK Pin=R23-2
+Added Pin To Net: NetName=CLK_1 Pin=R112-1
+Added Pin To Net: NetName=SPI2DI Pin=R117-2
+Added Pin To Net: NetName=DI_1 Pin=R130-1
+Added Pin To Net: NetName=SPI2CS1 Pin=R163-2
+Added Pin To Net: NetName=CS_1 Pin=R164-1
+Added Pin To Net: NetName=SPI2CS2 Pin=R165-2
+Added Pin To Net: NetName=CS_2 Pin=R166-1
+Added Pin To Net: NetName=SPI2DO Pin=R167-2
+Added Pin To Net: NetName=DO_1 Pin=R168-1
+Added Pin To Net: NetName=GND Pin=U10-8
+Added Pin To Net: NetName=GND Pin=U28-8
+Added Pin To Net: NetName=DGND_2 Pin=U28-9
+Added Pin To Net: NetName=NetR112_2 Pin=U28-15
+Added Pin To Net: NetName=+6V_2 Pin=U28-16
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U28-2
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR117_1 Pin=R117-1
+Added Pin To Net: NetName=NetR117_1 Pin=U28-3
+Added Net: Name=NetR117_1
+Added Pin To Net: NetName=NetR130_2 Pin=R130-2
+Added Pin To Net: NetName=NetR130_2 Pin=U28-14
+Added Net: Name=NetR130_2
+Added Pin To Net: NetName=NetR163_1 Pin=R163-1
+Added Pin To Net: NetName=NetR163_1 Pin=U28-4
+Added Net: Name=NetR163_1
+Added Pin To Net: NetName=NetR164_2 Pin=R164-2
+Added Pin To Net: NetName=NetR164_2 Pin=U28-13
+Added Net: Name=NetR164_2
+Added Pin To Net: NetName=NetR165_1 Pin=R165-1
+Added Pin To Net: NetName=NetR165_1 Pin=U28-5
+Added Net: Name=NetR165_1
+Added Pin To Net: NetName=NetR166_2 Pin=R166-2
+Added Pin To Net: NetName=NetR166_2 Pin=U28-12
+Added Net: Name=NetR166_2
+Added Pin To Net: NetName=NetR167_1 Pin=R167-1
+Added Pin To Net: NetName=NetR167_1 Pin=U28-6
+Added Net: Name=NetR167_1
+Added Pin To Net: NetName=NetR168_2 Pin=R168-2
+Added Pin To Net: NetName=NetR168_2 Pin=U28-11
+Added Net: Name=NetR168_2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C139 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C140 Cap
+Added Member To Class: ClassName=U_数字部分 Member=Component P4 Header 10X2H
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R23 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R117 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R163 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R164 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R165 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R166 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R167 Res2
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component R168 Res2
+Added Member To Class: ClassName=U_数字部分 Member=Component U49 TLP521-1

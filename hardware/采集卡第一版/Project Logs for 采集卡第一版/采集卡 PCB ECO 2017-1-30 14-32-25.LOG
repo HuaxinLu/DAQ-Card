@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=GND Pin=C73-2
+Removed Pin From Net: NetName=GND Pin=C74-2
+Removed Pin From Net: NetName=GND Pin=C75-2
+Removed Pin From Net: NetName=GND Pin=C76-2
+Removed Pin From Net: NetName=GND Pin=C77-2
+Removed Pin From Net: NetName=GND Pin=C78-2
+Removed Pin From Net: NetName=GND Pin=C79-2
+Removed Pin From Net: NetName=GND Pin=C80-2
+Removed Pin From Net: NetName=GND Pin=C81-2
+Removed Pin From Net: NetName=GND Pin=C82-2
+Removed Pin From Net: NetName=GND Pin=C83-1
+Removed Pin From Net: NetName=GND Pin=C84-1
+Removed Pin From Net: NetName=GND Pin=C85-1
+Removed Pin From Net: NetName=GND Pin=C86-1
+Removed Pin From Net: NetName=GND Pin=C87-1
+Removed Pin From Net: NetName=GND Pin=IC1-8
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=U18-1
+Removed Pin From Net: NetName=GND Pin=U19-15
+Removed Pin From Net: NetName=GND Pin=U19-45
+Removed Pin From Net: NetName=GND Pin=U19-65
+Removed Pin From Net: NetName=GND Pin=U19-75
+Removed Pin From Net: NetName=GND Pin=USB-4
+Removed Pin From Net: NetName=GND Pin=USB-6
+Removed Pin From Net: NetName=GND Pin=USB-7
+Removed Pin From Net: NetName=GND Pin=USB-8
+Removed Pin From Net: NetName=GND Pin=USB-9
+Change Component Footprint: Designator=C73 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C74 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C75 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C76 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C77 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C78 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C79 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C80 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C81 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C82 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C83 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C84 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C85 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C86 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=C87 Old Footprint=6-0805_N New Footprint=0805C
+Change Component Footprint: Designator=R7 Old Footprint=6-0805_N New Footprint=0805R
+Change Component Footprint: Designator=R8 Old Footprint=6-0805_N New Footprint=0805R
+Change Component Footprint: Designator=R22 Old Footprint=6-0805_N New Footprint=0805R
+Change Component Footprint: Designator=U18 Old Footprint=1117 New Footprint=_SOT-223
+Added Component: Designator=U20(TQFP100)
+Added Pin To Net: NetName=DGND Pin=C73-2
+Added Pin To Net: NetName=DGND Pin=C74-2
+Added Pin To Net: NetName=DGND Pin=C75-2
+Added Pin To Net: NetName=DGND Pin=C76-2
+Added Pin To Net: NetName=DGND Pin=C77-2
+Added Pin To Net: NetName=DGND Pin=C78-2
+Added Pin To Net: NetName=DGND Pin=C79-2
+Added Pin To Net: NetName=DGND Pin=C80-2
+Added Pin To Net: NetName=DGND Pin=C81-2
+Added Pin To Net: NetName=DGND Pin=C82-2
+Added Pin To Net: NetName=DGND Pin=C83-1
+Added Pin To Net: NetName=DGND Pin=C84-1
+Added Pin To Net: NetName=DGND Pin=C85-1
+Added Pin To Net: NetName=DGND Pin=C86-1
+Added Pin To Net: NetName=DGND Pin=C87-1
+Added Pin To Net: NetName=DGND Pin=IC1-8
+Added Pin To Net: NetName=DGND Pin=J3-4
+Added Pin To Net: NetName=DGND Pin=J4-3
+Added Pin To Net: NetName=DGND Pin=S1-2
+Added Pin To Net: NetName=DGND Pin=U18-1
+Added Pin To Net: NetName=DGND Pin=U19-15
+Added Pin To Net: NetName=DGND Pin=U19-45
+Added Pin To Net: NetName=DGND Pin=U19-65
+Added Pin To Net: NetName=DGND Pin=U19-75
+Added Pin To Net: NetName=DGND Pin=USB-4
+Added Pin To Net: NetName=DGND Pin=USB-6
+Added Pin To Net: NetName=DGND Pin=USB-7
+Added Pin To Net: NetName=DGND Pin=USB-8
+Added Pin To Net: NetName=DGND Pin=USB-9
+Added Net: Name=DGND
+Added Member To Class: ClassName=U_数字部分 Member=Component U20 32MX795F512L
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

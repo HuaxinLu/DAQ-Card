@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWM2 Pin=U19-72
+Removed Pin From Net: NetName=PWM0 Pin=U19-81
+Added Pin To Net: NetName=PWM0 Pin=U19-72
+Added Pin To Net: NetName=PWM2 Pin=U19-76

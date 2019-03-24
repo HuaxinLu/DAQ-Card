@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=AGND_2 Pin=U27-16
+Added Pin To Net: NetName=DA1 Pin=R65-1
+Added Pin To Net: NetName=DA1 Pin=U30-7
+Added Net: Name=DA1
+Added Pin To Net: NetName=DA2 Pin=R90-1
+Added Pin To Net: NetName=DA2 Pin=U30-6
+Added Net: Name=DA2
+Added Pin To Net: NetName=DA3 Pin=R97-1
+Added Pin To Net: NetName=DA3 Pin=U30-3
+Added Net: Name=DA3
+Added Pin To Net: NetName=DA4 Pin=R102-1
+Added Pin To Net: NetName=DA4 Pin=U30-2
+Added Net: Name=DA4
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C65 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C71 Cap
+Added Member To Class: ClassName=U_模拟量输入输出 Member=Component C95 Cap

@@ -1,0 +1,7 @@
+Added Component: Designator=D9(SMA)
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=USB_5V Pin=D9-2
+Added Member To Class: ClassName=U_电源 Member=Component D9 
+Added Room: Name=U_数字部分
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

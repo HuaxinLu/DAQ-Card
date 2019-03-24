@@ -1,0 +1,6 @@
+Added Component: Designator=C57(1812)
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=24V Pin=C57-2
+Added Member To Class: ClassName=U_电源 Member=Component C57 Cap
+Added Room: Name=U_电池电压检测
+Added Room: Name=U_电源

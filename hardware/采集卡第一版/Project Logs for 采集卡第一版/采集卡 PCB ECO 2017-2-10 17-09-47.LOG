@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=GND_1 Pin=C19_DI1-2
+Removed Pin From Net: NetName=GND_1 Pin=C19_DI2-2
+Removed Pin From Net: NetName=GND_1 Pin=C19_DI3-2
+Removed Pin From Net: NetName=GND_1 Pin=C19_DI4-2
+Removed Pin From Net: NetName=GND_1 Pin=C19_DI5-2
+Removed Pin From Net: NetName=GND_1 Pin=C19_DI6-2
+Removed Pin From Net: NetName=GND_1 Pin=C19_DI7-2
+Removed Pin From Net: NetName=GND_1 Pin=C19_DI8-2
+Removed Pin From Net: NetName=GND_1 Pin=C24_DI1-1
+Removed Pin From Net: NetName=GND_1 Pin=C24_DI2-1
+Removed Pin From Net: NetName=GND_1 Pin=C24_DI3-1
+Removed Pin From Net: NetName=GND_1 Pin=C24_DI4-1
+Removed Pin From Net: NetName=GND_1 Pin=C24_DI5-1
+Removed Pin From Net: NetName=GND_1 Pin=C24_DI6-1
+Removed Pin From Net: NetName=GND_1 Pin=C24_DI7-1
+Removed Pin From Net: NetName=GND_1 Pin=C24_DI8-1
+Removed Pin From Net: NetName=GND_1 Pin=C27_DI1-1
+Removed Pin From Net: NetName=GND_1 Pin=C27_DI2-1
+Removed Pin From Net: NetName=GND_1 Pin=C27_DI3-1
+Removed Pin From Net: NetName=GND_1 Pin=C27_DI4-1
+Removed Pin From Net: NetName=GND_1 Pin=C27_DI5-1
+Removed Pin From Net: NetName=GND_1 Pin=C27_DI6-1
+Removed Pin From Net: NetName=GND_1 Pin=C27_DI7-1
+Removed Pin From Net: NetName=GND_1 Pin=C27_DI8-1
+Removed Pin From Net: NetName=GND_1 Pin=R21_DI1-1
+Removed Pin From Net: NetName=GND_1 Pin=R21_DI2-1
+Removed Pin From Net: NetName=GND_1 Pin=R21_DI3-1
+Removed Pin From Net: NetName=GND_1 Pin=R21_DI4-1
+Removed Pin From Net: NetName=GND_1 Pin=R21_DI5-1
+Removed Pin From Net: NetName=GND_1 Pin=R21_DI6-1
+Removed Pin From Net: NetName=GND_1 Pin=R21_DI7-1
+Removed Pin From Net: NetName=GND_1 Pin=R21_DI8-1
+Removed Pin From Net: NetName=GND_1 Pin=U17_DI1-3
+Removed Pin From Net: NetName=GND_1 Pin=U17_DI2-3
+Removed Pin From Net: NetName=GND_1 Pin=U17_DI3-3
+Removed Pin From Net: NetName=GND_1 Pin=U17_DI4-3
+Removed Pin From Net: NetName=GND_1 Pin=U17_DI5-3
+Removed Pin From Net: NetName=GND_1 Pin=U17_DI6-3
+Removed Pin From Net: NetName=GND_1 Pin=U17_DI7-3
+Removed Pin From Net: NetName=GND_1 Pin=U17_DI8-3
+Added Pin To Net: NetName=AGND_1 Pin=C19_DI1-2
+Added Pin To Net: NetName=AGND_1 Pin=C19_DI2-2
+Added Pin To Net: NetName=AGND_1 Pin=C19_DI3-2
+Added Pin To Net: NetName=AGND_1 Pin=C19_DI4-2
+Added Pin To Net: NetName=AGND_1 Pin=C19_DI5-2
+Added Pin To Net: NetName=AGND_1 Pin=C19_DI6-2
+Added Pin To Net: NetName=AGND_1 Pin=C19_DI7-2
+Added Pin To Net: NetName=AGND_1 Pin=C19_DI8-2
+Added Pin To Net: NetName=AGND_1 Pin=C24_DI1-1
+Added Pin To Net: NetName=AGND_1 Pin=C24_DI2-1
+Added Pin To Net: NetName=AGND_1 Pin=C24_DI3-1
+Added Pin To Net: NetName=AGND_1 Pin=C24_DI4-1
+Added Pin To Net: NetName=AGND_1 Pin=C24_DI5-1
+Added Pin To Net: NetName=AGND_1 Pin=C24_DI6-1
+Added Pin To Net: NetName=AGND_1 Pin=C24_DI7-1
+Added Pin To Net: NetName=AGND_1 Pin=C24_DI8-1
+Added Pin To Net: NetName=AGND_1 Pin=C27_DI1-1
+Added Pin To Net: NetName=AGND_1 Pin=C27_DI2-1
+Added Pin To Net: NetName=AGND_1 Pin=C27_DI3-1
+Added Pin To Net: NetName=AGND_1 Pin=C27_DI4-1
+Added Pin To Net: NetName=AGND_1 Pin=C27_DI5-1
+Added Pin To Net: NetName=AGND_1 Pin=C27_DI6-1
+Added Pin To Net: NetName=AGND_1 Pin=C27_DI7-1
+Added Pin To Net: NetName=AGND_1 Pin=C27_DI8-1
+Added Pin To Net: NetName=AGND_1 Pin=R21_DI1-1
+Added Pin To Net: NetName=AGND_1 Pin=R21_DI2-1
+Added Pin To Net: NetName=AGND_1 Pin=R21_DI3-1
+Added Pin To Net: NetName=AGND_1 Pin=R21_DI4-1
+Added Pin To Net: NetName=AGND_1 Pin=R21_DI5-1
+Added Pin To Net: NetName=AGND_1 Pin=R21_DI6-1
+Added Pin To Net: NetName=AGND_1 Pin=R21_DI7-1
+Added Pin To Net: NetName=AGND_1 Pin=R21_DI8-1
+Added Pin To Net: NetName=AGND_1 Pin=U17_DI1-3
+Added Pin To Net: NetName=AGND_1 Pin=U17_DI2-3
+Added Pin To Net: NetName=AGND_1 Pin=U17_DI3-3
+Added Pin To Net: NetName=AGND_1 Pin=U17_DI4-3
+Added Pin To Net: NetName=AGND_1 Pin=U17_DI5-3
+Added Pin To Net: NetName=AGND_1 Pin=U17_DI6-3
+Added Pin To Net: NetName=AGND_1 Pin=U17_DI7-3
+Added Pin To Net: NetName=AGND_1 Pin=U17_DI8-3
+Added Member To Class: ClassName=OUT[1..8] Member=Element[1]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[2]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[3]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[4]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[5]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[6]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[7]: OUT
+Added Member To Class: ClassName=OUT[1..8] Member=Element[8]: OUT
